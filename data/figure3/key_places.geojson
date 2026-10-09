@@ -1,0 +1,232 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FIG3-A-001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3785422,
+          22.9387253
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "historical_province": "廣東",
+        "historical_prefecture": "廣州府",
+        "historical_county": "番禺縣",
+        "coordinate_basis": "exact_unique_name_in_preferred_route",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-001",
+        "Chinese Name": "廣州",
+        "marker_role": "entry",
+        "comparison_no": 1,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-A-022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.89772034,
+          28.67489624
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "historical_province": "江西",
+        "historical_prefecture": "南昌府",
+        "historical_county": "南昌縣",
+        "coordinate_basis": "exact_unique_name_in_preferred_route",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-022",
+        "Chinese Name": "南昌",
+        "marker_role": "transfer",
+        "comparison_no": 22,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-A-026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.98567963,
+          29.72236443
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "historical_province": "江西",
+        "historical_prefecture": "九江府",
+        "historical_county": "德化縣",
+        "coordinate_basis": "exact_unique_name_in_preferred_route",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-026",
+        "Chinese Name": "潯陽驛",
+        "display_name": "Xunyang Station 潯陽驛",
+        "marker_role": "branch",
+        "comparison_no": 26,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-A-058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.034676,
+          30.512295
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "coordinate_basis": "administrative_county_proxy_from_official_entry",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-058",
+        "Chinese Name": "安慶",
+        "display_name": "Anqing 安慶",
+        "marker_role": "water",
+        "comparison_no": 58,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-A-064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76899,
+          32.052563
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "coordinate_basis": "administrative_county_proxy_from_official_entry",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-064",
+        "Chinese Name": "南京",
+        "display_name": "Nanjing 南京",
+        "marker_role": "water",
+        "comparison_no": 64,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-A-072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.14,
+          33.5
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "historical_county": "山陽縣",
+        "coordinate_basis": "exact_unique_name_in_registry",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-072",
+        "Chinese Name": "淮陰驛",
+        "display_name": "Huaiyin 淮陰",
+        "marker_role": "branch",
+        "comparison_no": 72,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-A-078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15816498,
+          35.08609009
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "historical_province": "山東",
+        "historical_county": "滕縣",
+        "coordinate_basis": "exact_unique_name_in_preferred_route",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-078",
+        "Chinese Name": "滕陽驛",
+        "display_name": "Tengyang Station 滕陽驛",
+        "marker_role": "junction",
+        "comparison_no": 78,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-A-101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.368004,
+          39.931427
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "historical_province": "直隸",
+        "coordinate_basis": "endpoint_alias_and_route_context",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-A-101",
+        "Chinese Name": "北京",
+        "marker_role": "capital",
+        "comparison_no": 101,
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-ANDE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28741455,
+          37.4516449
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "place",
+        "historical_province": "山東",
+        "historical_zhou": "德州",
+        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG3-ANDE",
+        "Chinese Name": "安德驛",
+        "display_name": "Ande Station 安德驛",
+        "marker_role": "junction",
+        "source_summary": "Article appendix and route reconstruction."
+      }
+    }
+  ]
+}

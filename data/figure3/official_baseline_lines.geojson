@@ -1,0 +1,2569 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.3785422,
+            22.9387253
+          ],
+          [
+            112.88607025,
+            23.16586876
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-001",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 1,
+        "source_name_zh": "五仙驛",
+        "target_name_zh": "西南驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "廣東",
+        "source_historical_prefecture": "廣州府",
+        "source_historical_county": "番禺縣",
+        "target_historical_province": "廣東",
+        "target_historical_county": "三水縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-002",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.88607025,
+            23.16586876
+          ],
+          [
+            113.02213287,
+            23.72072792
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-002",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 2,
+        "source_name_zh": "西南驛",
+        "target_name_zh": "安遠驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "廣東",
+        "source_historical_county": "三水縣",
+        "target_historical_province": "廣東",
+        "target_historical_county": "清遠縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.02213287,
+            23.72072792
+          ],
+          [
+            113.3913714,
+            24.2123033
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-003",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 3,
+        "source_name_zh": "安遠驛",
+        "target_name_zh": "湞陽驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "廣東",
+        "source_historical_county": "清遠縣",
+        "target_historical_province": "廣東",
+        "target_historical_county": "英德縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-004",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.3913714,
+            24.2123033
+          ],
+          [
+            113.60341644,
+            24.81020927
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-004",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 4,
+        "source_name_zh": "湞陽驛",
+        "target_name_zh": "芙蓉驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "廣東",
+        "source_historical_county": "英德縣",
+        "target_historical_province": "廣東",
+        "target_historical_county": "曲江縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-005",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.60341644,
+            24.81020927
+          ],
+          [
+            114.063148,
+            24.945763
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-005",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 5,
+        "source_name_zh": "芙蓉驛",
+        "target_name_zh": "在城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "廣東",
+        "source_historical_county": "曲江縣",
+        "target_historical_province": "廣東",
+        "target_historical_county": "始興縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-006",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.063148,
+            24.945763
+          ],
+          [
+            114.30208588,
+            25.11884308
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-006",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 6,
+        "source_name_zh": "在城驛",
+        "target_name_zh": "凌江驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "廣東",
+        "source_historical_county": "始興縣",
+        "target_historical_province": "廣東",
+        "target_historical_prefecture": "南雄府",
+        "target_historical_county": "保昌縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-007",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.30208588,
+            25.11884308
+          ],
+          [
+            114.35057068,
+            25.39995384
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-007",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 7,
+        "source_name_zh": "凌江驛",
+        "target_name_zh": "橫浦驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "廣東",
+        "source_historical_prefecture": "南雄府",
+        "source_historical_county": "保昌縣",
+        "target_historical_province": "江西",
+        "target_historical_prefecture": "南安府",
+        "target_historical_county": "大庾縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-008",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.35057068,
+            25.39995384
+          ],
+          [
+            114.550178,
+            25.485346
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-008",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 8,
+        "source_name_zh": "橫浦驛",
+        "target_name_zh": "小溪驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_prefecture": "南安府",
+        "source_historical_county": "大庾縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "大庾縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-009",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.550178,
+            25.485346
+          ],
+          [
+            114.74516296,
+            25.65857124
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-009",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 9,
+        "source_name_zh": "小溪驛",
+        "target_name_zh": "南野驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "大庾縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "南康縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-010",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.74516296,
+            25.65857124
+          ],
+          [
+            114.93248,
+            25.847
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-010",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 10,
+        "source_name_zh": "南野驛",
+        "target_name_zh": "烏鎮驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "南康縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "贛縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-011",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.93248,
+            25.847
+          ],
+          [
+            114.905495,
+            26.129812
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-011",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 11,
+        "source_name_zh": "烏鎮驛",
+        "target_name_zh": "攸鎮驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "贛縣",
+        "target_historical_province": "江西",
+        "target_historical_prefecture": "贛州府"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-012",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.905495,
+            26.129812
+          ],
+          [
+            114.77967834,
+            26.4617691
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-012",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 12,
+        "source_name_zh": "攸鎮驛",
+        "target_name_zh": "五雲驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_prefecture": "贛州府",
+        "target_historical_province": "江西",
+        "target_historical_county": "萬安縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-013",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.77967834,
+            26.4617691
+          ],
+          [
+            114.89487457,
+            26.79210281
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-013",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 13,
+        "source_name_zh": "五雲驛",
+        "target_name_zh": "白下驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "萬安縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "泰和縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-014",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.89487457,
+            26.79210281
+          ],
+          [
+            114.971275,
+            27.103239
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-014",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 14,
+        "source_name_zh": "白下驛",
+        "target_name_zh": "在城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "泰和縣",
+        "target_historical_province": "江西",
+        "target_historical_prefecture": "吉安府",
+        "target_historical_county": "廬陵縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-015",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.971275,
+            27.103239
+          ],
+          [
+            115.132248,
+            27.214367
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-015",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 15,
+        "source_name_zh": "在城驛",
+        "target_name_zh": "白水驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_prefecture": "吉安府",
+        "source_historical_county": "廬陵縣",
+        "target_historical_province": "江西",
+        "target_historical_prefecture": "吉安府",
+        "target_historical_county": "吉水縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-016",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.132248,
+            27.214367
+          ],
+          [
+            115.14727783,
+            27.55368996
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-016",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 16,
+        "source_name_zh": "白水驛",
+        "target_name_zh": "玉峽驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_prefecture": "吉安府",
+        "source_historical_county": "吉水縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "峽江縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-017",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.14727783,
+            27.55368996
+          ],
+          [
+            115.38339996,
+            27.75988007
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-017",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 17,
+        "source_name_zh": "玉峽驛",
+        "target_name_zh": "金川驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "峽江縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "新淦縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-018",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.38339996,
+            27.75988007
+          ],
+          [
+            115.398987,
+            28.015566
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-018",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 18,
+        "source_name_zh": "金川驛",
+        "target_name_zh": "清江鎮驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "新淦縣",
+        "target_historical_province": "江西",
+        "target_historical_prefecture": "臨江府",
+        "target_historical_county": "清江縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-019",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.398987,
+            28.015566
+          ],
+          [
+            115.785782,
+            28.197754
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-019",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 19,
+        "source_name_zh": "清江鎮驛",
+        "target_name_zh": "劍江驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_prefecture": "臨江府",
+        "source_historical_county": "清江縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "豐城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-020",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.785782,
+            28.197754
+          ],
+          [
+            115.89772034,
+            28.67489624
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-020",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 20,
+        "source_name_zh": "劍江驛",
+        "target_name_zh": "南浦驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "豐城縣",
+        "target_historical_province": "江西",
+        "target_historical_prefecture": "南昌府",
+        "target_historical_county": "南昌縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-021",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.89772034,
+            28.67489624
+          ],
+          [
+            115.761818,
+            29.087832
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-021",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 21,
+        "source_name_zh": "南浦驛",
+        "target_name_zh": "建昌縣驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_prefecture": "南昌府",
+        "source_historical_county": "南昌縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "建昌縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-022",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.761818,
+            29.087832
+          ],
+          [
+            115.74502563,
+            29.3305645
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-022",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 22,
+        "source_name_zh": "建昌縣驛",
+        "target_name_zh": "德安驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "建昌縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "德安縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-023",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.74502563,
+            29.3305645
+          ],
+          [
+            115.876792,
+            29.509904
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-023",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 23,
+        "source_name_zh": "德安驛",
+        "target_name_zh": "通遠驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "德安縣",
+        "target_historical_province": "江西",
+        "target_historical_county": "德化縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-024",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.876792,
+            29.509904
+          ],
+          [
+            115.98567963,
+            29.72236443
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-024",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 24,
+        "source_name_zh": "通遠驛",
+        "target_name_zh": "潯陽驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_county": "德化縣",
+        "target_historical_province": "江西",
+        "target_historical_prefecture": "九江府",
+        "target_historical_county": "德化縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-025",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.98567963,
+            29.72236443
+          ],
+          [
+            115.93494,
+            30.0792
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-025",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 25,
+        "source_name_zh": "潯陽驛",
+        "target_name_zh": "孔壟驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江西",
+        "source_historical_prefecture": "九江府",
+        "source_historical_county": "德化縣",
+        "target_historical_province": "湖北",
+        "target_historical_county": "黃梅縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-026",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.93494,
+            30.0792
+          ],
+          [
+            115.93494,
+            30.0792
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-026",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 26,
+        "source_name_zh": "孔壟驛",
+        "target_name_zh": "在城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "湖北",
+        "source_historical_county": "黃梅縣",
+        "target_historical_province": "湖北",
+        "target_historical_county": "黃梅縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-027",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.93494,
+            30.0792
+          ],
+          [
+            115.93494,
+            30.0792
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-027",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 27,
+        "source_name_zh": "在城驛",
+        "target_name_zh": "停前驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "湖北",
+        "source_historical_county": "黃梅縣",
+        "target_historical_province": "湖北",
+        "target_historical_county": "黃梅縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-028",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.93494,
+            30.0792
+          ],
+          [
+            116.21666718,
+            30.36666679
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-028",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 28,
+        "source_name_zh": "停前驛",
+        "target_name_zh": "楓香驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "湖北",
+        "source_historical_county": "黃梅縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "宿松縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-029",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.21666718,
+            30.36666679
+          ],
+          [
+            116.395973,
+            30.52467
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-029",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 29,
+        "source_name_zh": "楓香驛",
+        "target_name_zh": "小池驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "宿松縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "太湖縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-030",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.395973,
+            30.52467
+          ],
+          [
+            116.56719971,
+            30.6303463
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-030",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 30,
+        "source_name_zh": "小池驛",
+        "target_name_zh": "青口驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "太湖縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "潛山縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-031",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.56719971,
+            30.6303463
+          ],
+          [
+            116.938606,
+            31.05228
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-031",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 31,
+        "source_name_zh": "青口驛",
+        "target_name_zh": "陶衝驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "潛山縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "桐城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-032",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.938606,
+            31.05228
+          ],
+          [
+            116.93860626,
+            31.05228043
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-032",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 32,
+        "source_name_zh": "陶衝驛",
+        "target_name_zh": "呂亭驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "桐城縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "桐城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-033",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.93860626,
+            31.05228043
+          ],
+          [
+            117.02015,
+            31.340373
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-033",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 33,
+        "source_name_zh": "呂亭驛",
+        "target_name_zh": "梅心驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "桐城縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "舒城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-034",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.02015,
+            31.340373
+          ],
+          [
+            116.975045,
+            31.502898
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-034",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 34,
+        "source_name_zh": "梅心驛",
+        "target_name_zh": "三溝驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "舒城縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "舒城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-035",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.975045,
+            31.502898
+          ],
+          [
+            117.157761,
+            31.716938
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-035",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 35,
+        "source_name_zh": "三溝驛",
+        "target_name_zh": "派河驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "舒城縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "合肥縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-036",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.157761,
+            31.716938
+          ],
+          [
+            117.27645874,
+            31.86445618
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-036",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 36,
+        "source_name_zh": "派河驛",
+        "target_name_zh": "金斗驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "合肥縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "合肥縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-037",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.27645874,
+            31.86445618
+          ],
+          [
+            117.471313,
+            31.887754
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-037",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 37,
+        "source_name_zh": "金斗驛",
+        "target_name_zh": "店埠驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "合肥縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "合肥縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-038",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.471313,
+            31.887754
+          ],
+          [
+            117.571381,
+            32.065067
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-038",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 38,
+        "source_name_zh": "店埠驛",
+        "target_name_zh": "護城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "合肥縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "合肥縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-039",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.571381,
+            32.065067
+          ],
+          [
+            117.619057,
+            32.329155
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-039",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 39,
+        "source_name_zh": "護城驛",
+        "target_name_zh": "張橋驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "合肥縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "定遠縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-040",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.619057,
+            32.329155
+          ],
+          [
+            117.6756897,
+            32.53024673
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-040",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 40,
+        "source_name_zh": "張橋驛",
+        "target_name_zh": "定遠驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "定遠縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "定遠縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-041",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.6756897,
+            32.53024673
+          ],
+          [
+            117.640221,
+            32.901634
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-041",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 41,
+        "source_name_zh": "定遠驛",
+        "target_name_zh": "紅心驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "定遠縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "鳳陽縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-042",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.640221,
+            32.901634
+          ],
+          [
+            117.537746,
+            32.865348
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-042",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 42,
+        "source_name_zh": "紅心驛",
+        "target_name_zh": "濠梁驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "鳳陽縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "鳳陽縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-043",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.537746,
+            32.865348
+          ],
+          [
+            117.462586,
+            33.105972
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-043",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 43,
+        "source_name_zh": "濠梁驛",
+        "target_name_zh": "王莊驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "鳳陽縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "鳳陽縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-044",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.462586,
+            33.105972
+          ],
+          [
+            117.311707,
+            33.314575
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-044",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 44,
+        "source_name_zh": "王莊驛",
+        "target_name_zh": "固鎮驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "鳳陽縣",
+        "target_historical_province": "安徽",
+        "target_historical_county": "靈璧縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-045",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.311707,
+            33.314575
+          ],
+          [
+            116.971397,
+            33.642368
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-045",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 45,
+        "source_name_zh": "固鎮驛",
+        "target_name_zh": "大店驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_county": "靈璧縣",
+        "target_historical_province": "安徽",
+        "target_historical_zhou": "宿州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-046",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.971397,
+            33.642368
+          ],
+          [
+            116.9713974,
+            33.64236832
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-046",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 46,
+        "source_name_zh": "大店驛",
+        "target_name_zh": "睢陽驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_zhou": "宿州",
+        "target_historical_province": "安徽",
+        "target_historical_zhou": "宿州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-047",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.9713974,
+            33.64236832
+          ],
+          [
+            117.059166,
+            33.894852
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-047",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 47,
+        "source_name_zh": "睢陽驛",
+        "target_name_zh": "夾溝驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_zhou": "宿州",
+        "target_historical_province": "安徽",
+        "target_historical_zhou": "宿州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-048",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.059166,
+            33.894852
+          ],
+          [
+            117.147255,
+            34.055225
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-048",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 48,
+        "source_name_zh": "夾溝驛",
+        "target_name_zh": "桃山驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "安徽",
+        "source_historical_zhou": "宿州",
+        "target_historical_province": "江蘇",
+        "target_historical_county": "銅山縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-049",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.147255,
+            34.055225
+          ],
+          [
+            117.187683,
+            34.269634
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-049",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 49,
+        "source_name_zh": "桃山驛",
+        "target_name_zh": "東岸驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江蘇",
+        "source_historical_county": "銅山縣",
+        "target_historical_province": "江蘇",
+        "target_historical_county": "銅山縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-050",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.187683,
+            34.269634
+          ],
+          [
+            117.329986,
+            34.560246
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-050",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 50,
+        "source_name_zh": "東岸驛",
+        "target_name_zh": "利國驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江蘇",
+        "source_historical_county": "銅山縣",
+        "target_historical_province": "江蘇",
+        "target_historical_county": "銅山縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-051",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.329986,
+            34.560246
+          ],
+          [
+            117.15701,
+            35.08502
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-051",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 51,
+        "source_name_zh": "利國驛",
+        "target_name_zh": "臨城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "江蘇",
+        "source_historical_county": "銅山縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "滕縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-052",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.15701,
+            35.08502
+          ],
+          [
+            117.15816498,
+            35.08609009
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-052",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 52,
+        "source_name_zh": "臨城驛",
+        "target_name_zh": "滕陽驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "滕縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "滕縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-053",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.15816498,
+            35.08609009
+          ],
+          [
+            116.96727,
+            35.40276
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-053",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 53,
+        "source_name_zh": "滕陽驛",
+        "target_name_zh": "界河驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "滕縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "鄒縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-054",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.96727,
+            35.40276
+          ],
+          [
+            116.96843719,
+            35.40382004
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-054",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 54,
+        "source_name_zh": "界河驛",
+        "target_name_zh": "邾城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "鄒縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "鄒縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-055",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.96843719,
+            35.40382004
+          ],
+          [
+            116.82369995,
+            35.55669785
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-055",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 55,
+        "source_name_zh": "邾城驛",
+        "target_name_zh": "昌平驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "鄒縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "滋陽縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-056",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.82369995,
+            35.55669785
+          ],
+          [
+            116.669609,
+            35.650402
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-056",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 56,
+        "source_name_zh": "昌平驛",
+        "target_name_zh": "新嘉驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "滋陽縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "滋陽縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-057",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.669609,
+            35.650402
+          ],
+          [
+            116.48555756,
+            35.72985458
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-057",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 57,
+        "source_name_zh": "新嘉驛",
+        "target_name_zh": "新橋驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "滋陽縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "汶上縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-058",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.48555756,
+            35.72985458
+          ],
+          [
+            116.29917145,
+            35.91034317
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-058",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 58,
+        "source_name_zh": "新橋驛",
+        "target_name_zh": "東原驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "汶上縣",
+        "target_historical_province": "山東",
+        "target_historical_zhou": "東平州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-059",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.29917145,
+            35.91034317
+          ],
+          [
+            116.236664,
+            36.121021
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-059",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 59,
+        "source_name_zh": "東原驛",
+        "target_name_zh": "舊縣驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_zhou": "東平州",
+        "target_historical_province": "山東",
+        "target_historical_county": "東阿縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-060",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.236664,
+            36.121021
+          ],
+          [
+            116.239425,
+            36.329586
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-060",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 60,
+        "source_name_zh": "舊縣驛",
+        "target_name_zh": "銅城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "東阿縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "東阿縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-061",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.239425,
+            36.329586
+          ],
+          [
+            116.25022888,
+            36.58661652
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-061",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 61,
+        "source_name_zh": "銅城驛",
+        "target_name_zh": "茌山驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "東阿縣",
+        "target_historical_province": "山東",
+        "target_historical_county": "荏平縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-062",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.25022888,
+            36.58661652
+          ],
+          [
+            116.223618,
+            36.857315
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-062",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 62,
+        "source_name_zh": "茌山驛",
+        "target_name_zh": "魚邱驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "荏平縣",
+        "target_historical_province": "山東",
+        "target_historical_zhou": "高唐州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-063",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.223618,
+            36.857315
+          ],
+          [
+            116.27578735,
+            37.15112305
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-063",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 63,
+        "source_name_zh": "魚邱驛",
+        "target_name_zh": "太平驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_zhou": "高唐州",
+        "target_historical_province": "山東",
+        "target_historical_county": "恩縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-064",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.27578735,
+            37.15112305
+          ],
+          [
+            116.28741455,
+            37.4516449
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-064",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 64,
+        "source_name_zh": "太平驛",
+        "target_name_zh": "安德驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_county": "恩縣",
+        "target_historical_province": "山東",
+        "target_historical_zhou": "德州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-065",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.28741455,
+            37.4516449
+          ],
+          [
+            116.25810242,
+            37.68800735
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-065",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 65,
+        "source_name_zh": "安德驛",
+        "target_name_zh": "東光驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_zhou": "德州",
+        "target_historical_province": "直隸",
+        "target_historical_zhou": "景州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-066",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.25810242,
+            37.68800735
+          ],
+          [
+            116.14470673,
+            37.86817932
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-066",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 66,
+        "source_name_zh": "東光驛",
+        "target_name_zh": "阜城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_zhou": "景州",
+        "target_historical_province": "直隸",
+        "target_historical_county": "阜城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-067",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.14470673,
+            37.86817932
+          ],
+          [
+            116.2851181,
+            38.01704407
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-067",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 67,
+        "source_name_zh": "阜城驛",
+        "target_name_zh": "富莊驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "阜城縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "交河縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-068",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.2851181,
+            38.01704407
+          ],
+          [
+            116.11489868,
+            38.19069672
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-068",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 68,
+        "source_name_zh": "富莊驛",
+        "target_name_zh": "樂城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "交河縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "獻縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-069",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.11489868,
+            38.19069672
+          ],
+          [
+            116.08553314,
+            38.43569946
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-069",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 69,
+        "source_name_zh": "樂城驛",
+        "target_name_zh": "瀛海驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "獻縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "河閒縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-070",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.08553314,
+            38.43569946
+          ],
+          [
+            116.10706,
+            38.86037
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-070",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 70,
+        "source_name_zh": "瀛海驛",
+        "target_name_zh": "鄚城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "河閒縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "任邱縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-071",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.10706,
+            38.86037
+          ],
+          [
+            116.09270477,
+            38.97587967
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-071",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 71,
+        "source_name_zh": "鄚城驛",
+        "target_name_zh": "歸義驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "任邱縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "雄縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-072",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.09270477,
+            38.97587967
+          ],
+          [
+            115.98756409,
+            39.24594879
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-072",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 72,
+        "source_name_zh": "歸義驛",
+        "target_name_zh": "汾水驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "雄縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "新城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-073",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.98756409,
+            39.24594879
+          ],
+          [
+            115.97,
+            39.49
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-073",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 73,
+        "source_name_zh": "汾水驛",
+        "target_name_zh": "涿鹿驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "新城縣",
+        "target_historical_province": "直隸",
+        "target_historical_zhou": "涿州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-074",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.97,
+            39.49
+          ],
+          [
+            116.13558197,
+            39.7412529
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-074",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 74,
+        "source_name_zh": "涿鹿驛",
+        "target_name_zh": "固節驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_zhou": "涿州",
+        "target_historical_province": "直隸",
+        "target_historical_county": "良鄉縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-OFFICIAL_BASELINE-075",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.13558197,
+            39.7412529
+          ],
+          [
+            116.368004,
+            39.931427
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-OFFICIAL_BASELINE-075",
+        "route_name": "Guangzhou-Beijing postal baseline",
+        "sequence": 75,
+        "source_name_zh": "固節驛",
+        "target_name_zh": "北京",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "良鄉縣",
+        "target_historical_province": "直隸"
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-9780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.034676,
+          30.512295
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "安徽",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-9780",
+        "Chinese Name": "安慶(安徽省城)",
+        "display_name": "Anqing 安慶",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-9673",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.001488,
+          36.650131
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "山東",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-9673",
+        "Chinese Name": "濟南省城",
+        "display_name": "Jinan 濟南",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-9549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.256066,
+          23.134624
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "廣東",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-9549",
+        "Chinese Name": "廣州(廣東省城)",
+        "display_name": "Guangzhou 廣州",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-32285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76899,
+          32.052563
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "江蘇",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-32285",
+        "Chinese Name": "南京(江寧府城·兩江總督駐地)",
+        "display_name": "Nanjing 南京",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-9641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.89772,
+          28.674896
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "江西",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-9641",
+        "Chinese Name": "南昌(江西省城)",
+        "display_name": "Nanchang 南昌",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-32337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.168625,
+          30.294125
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "浙江",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-32337",
+        "Chinese Name": "杭州(浙江省城)",
+        "display_name": "Hangzhou 杭州",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-9699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.419884,
+          41.78825
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "盛京",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-9699",
+        "Chinese Name": "盛京(奉天省城)",
+        "display_name": "Shengjing 盛京",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-9513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.368004,
+          39.931427
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "直隸",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-9513",
+        "Chinese Name": "北京",
+        "display_name": "Beijing 北京",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-ADMIN-PROVINCE-32116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.321577,
+          26.073954
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "福建",
+        "coordinate_basis": "CHGIS 1820 prefectural administrative point",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "행정치소 좌표 - 개별 건물 위치 아님",
+        "id": "FIG2-ADMIN-PROVINCE-32116",
+        "Chinese Name": "福州(福建省城)",
+        "display_name": "Fuzhou 福州",
+        "marker_role": "province_seat",
+        "source_summary": "Historical administrative-seat coordinate; CHGIS where recorded."
+      }
+    }
+  ]
+}

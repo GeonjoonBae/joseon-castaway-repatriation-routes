@@ -1,0 +1,1338 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.28741455,
+            37.4516449
+          ],
+          [
+            116.25810242,
+            37.68800735
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-001",
+        "route_name": "Shared official-network section",
+        "sequence": 1,
+        "source_name_zh": "安德驛",
+        "target_name_zh": "東光驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "山東",
+        "source_historical_zhou": "德州",
+        "target_historical_province": "直隸",
+        "target_historical_zhou": "景州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-002",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.25810242,
+            37.68800735
+          ],
+          [
+            116.14470673,
+            37.86817932
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-002",
+        "route_name": "Shared official-network section",
+        "sequence": 2,
+        "source_name_zh": "東光驛",
+        "target_name_zh": "阜城驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_zhou": "景州",
+        "target_historical_province": "直隸",
+        "target_historical_county": "阜城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.14470673,
+            37.86817932
+          ],
+          [
+            116.2851181,
+            38.01704407
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-003",
+        "route_name": "Shared official-network section",
+        "sequence": 3,
+        "source_name_zh": "阜城驛",
+        "target_name_zh": "富莊驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "阜城縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "交河縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-004",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.2851181,
+            38.01704407
+          ],
+          [
+            116.11489868,
+            38.19069672
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-004",
+        "route_name": "Shared official-network section",
+        "sequence": 4,
+        "source_name_zh": "富莊驛",
+        "target_name_zh": "樂城驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "交河縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "獻縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-005",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.11489868,
+            38.19069672
+          ],
+          [
+            116.08553314,
+            38.43569946
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-005",
+        "route_name": "Shared official-network section",
+        "sequence": 5,
+        "source_name_zh": "樂城驛",
+        "target_name_zh": "瀛海驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "獻縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "河閒縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-006",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.08553314,
+            38.43569946
+          ],
+          [
+            116.10706,
+            38.86037
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-006",
+        "route_name": "Shared official-network section",
+        "sequence": 6,
+        "source_name_zh": "瀛海驛",
+        "target_name_zh": "鄚城驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "河閒縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "任邱縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-007",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.10706,
+            38.86037
+          ],
+          [
+            116.09270477,
+            38.97587967
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-007",
+        "route_name": "Shared official-network section",
+        "sequence": 7,
+        "source_name_zh": "鄚城驛",
+        "target_name_zh": "歸義驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "任邱縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "雄縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-008",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.09270477,
+            38.97587967
+          ],
+          [
+            115.98756409,
+            39.24594879
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-008",
+        "route_name": "Shared official-network section",
+        "sequence": 8,
+        "source_name_zh": "歸義驛",
+        "target_name_zh": "汾水驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "雄縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "新城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-009",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.98756409,
+            39.24594879
+          ],
+          [
+            115.97,
+            39.49
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-009",
+        "route_name": "Shared official-network section",
+        "sequence": 9,
+        "source_name_zh": "汾水驛",
+        "target_name_zh": "涿鹿驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "新城縣",
+        "target_historical_province": "直隸",
+        "target_historical_zhou": "涿州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-010",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.97,
+            39.49
+          ],
+          [
+            116.13558197,
+            39.7412529
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-010",
+        "route_name": "Shared official-network section",
+        "sequence": 10,
+        "source_name_zh": "涿鹿驛",
+        "target_name_zh": "固節驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_zhou": "涿州",
+        "target_historical_province": "直隸",
+        "target_historical_county": "良鄉縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-NORTH-011",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.13558197,
+            39.7412529
+          ],
+          [
+            116.368004,
+            39.931427
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-NORTH-011",
+        "route_name": "Shared official-network section",
+        "sequence": 11,
+        "source_name_zh": "固節驛",
+        "target_name_zh": "北京",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "良鄉縣",
+        "target_historical_province": "直隸"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.368004,
+            39.931427
+          ],
+          [
+            116.65880585,
+            39.90592194
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-001",
+        "route_name": "Shared official-network section",
+        "sequence": 12,
+        "source_name_zh": "京師 Beijing",
+        "target_name_zh": "潞河驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-002",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.65880585,
+            39.90592194
+          ],
+          [
+            117.07611847,
+            39.98278809
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-002",
+        "route_name": "Shared official-network section",
+        "sequence": 13,
+        "source_name_zh": "潞河驛",
+        "target_name_zh": "三河驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.07611847,
+            39.98278809
+          ],
+          [
+            117.40181732,
+            40.0438652
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-003",
+        "route_name": "Shared official-network section",
+        "sequence": 14,
+        "source_name_zh": "三河驛",
+        "target_name_zh": "漁陽驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-004",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.40181732,
+            40.0438652
+          ],
+          [
+            117.754776,
+            39.88367081
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-004",
+        "route_name": "Shared official-network section",
+        "sequence": 15,
+        "source_name_zh": "漁陽驛",
+        "target_name_zh": "陽樊驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-005",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.754776,
+            39.88367081
+          ],
+          [
+            118.13489532,
+            39.82760239
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-005",
+        "route_name": "Shared official-network section",
+        "sequence": 16,
+        "source_name_zh": "陽樊驛",
+        "target_name_zh": "義豐驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-006",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.13489532,
+            39.82760239
+          ],
+          [
+            118.469192,
+            39.866402
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-006",
+        "route_name": "Shared official-network section",
+        "sequence": 17,
+        "source_name_zh": "義豐驛",
+        "target_name_zh": "七家嶺驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-007",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.469192,
+            39.866402
+          ],
+          [
+            118.86199951,
+            39.8769989
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-007",
+        "route_name": "Shared official-network section",
+        "sequence": 18,
+        "source_name_zh": "七家嶺驛",
+        "target_name_zh": "灤河驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-008",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.86199951,
+            39.8769989
+          ],
+          [
+            119.15826297,
+            39.88223498
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-008",
+        "route_name": "Shared official-network section",
+        "sequence": 19,
+        "source_name_zh": "灤河驛",
+        "target_name_zh": "蘆峰口驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-009",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.15826297,
+            39.88223498
+          ],
+          [
+            119.770241,
+            40.010193
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-009",
+        "route_name": "Shared official-network section",
+        "sequence": 20,
+        "source_name_zh": "蘆峰口驛",
+        "target_name_zh": "榆關驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-010",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.770241,
+            40.010193
+          ],
+          [
+            119.77024,
+            40.01019
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-010",
+        "route_name": "Shared official-network section",
+        "sequence": 21,
+        "source_name_zh": "榆關驛",
+        "target_name_zh": "遷安驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-011",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.77024,
+            40.01019
+          ],
+          [
+            120.118647,
+            40.248138
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-011",
+        "route_name": "Shared official-network section",
+        "sequence": 22,
+        "source_name_zh": "遷安驛",
+        "target_name_zh": "凉水河沙河站驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-012",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.118647,
+            40.248138
+          ],
+          [
+            120.44715886,
+            40.40240596
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-012",
+        "route_name": "Shared official-network section",
+        "sequence": 23,
+        "source_name_zh": "凉水河沙河站驛",
+        "target_name_zh": "東關驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-013",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.44715886,
+            40.40240596
+          ],
+          [
+            120.70344,
+            40.61923
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-013",
+        "route_name": "Shared official-network section",
+        "sequence": 24,
+        "source_name_zh": "東關驛",
+        "target_name_zh": "寧遠驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-014",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.70344,
+            40.61923
+          ],
+          [
+            120.991585,
+            40.895901
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-014",
+        "route_name": "Shared official-network section",
+        "sequence": 25,
+        "source_name_zh": "寧遠驛",
+        "target_name_zh": "高橋驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-015",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.991585,
+            40.895901
+          ],
+          [
+            121.25663,
+            41.097183
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-015",
+        "route_name": "Shared official-network section",
+        "sequence": 26,
+        "source_name_zh": "高橋驛",
+        "target_name_zh": "小凌河驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-016",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.25663,
+            41.097183
+          ],
+          [
+            121.50592013,
+            41.26258635
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-016",
+        "route_name": "Shared official-network section",
+        "sequence": 27,
+        "source_name_zh": "小凌河驛",
+        "target_name_zh": "十三山驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-017",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.50592013,
+            41.26258635
+          ],
+          [
+            121.796566,
+            41.521034
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-017",
+        "route_name": "Shared official-network section",
+        "sequence": 28,
+        "source_name_zh": "十三山驛",
+        "target_name_zh": "廣寧驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-018",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.796566,
+            41.521034
+          ],
+          [
+            122.112984,
+            41.685833
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-018",
+        "route_name": "Shared official-network section",
+        "sequence": 29,
+        "source_name_zh": "廣寧驛",
+        "target_name_zh": "小黑山驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-019",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.112984,
+            41.685833
+          ],
+          [
+            122.324066,
+            41.814949
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-019",
+        "route_name": "Shared official-network section",
+        "sequence": 30,
+        "source_name_zh": "小黑山驛",
+        "target_name_zh": "二道井驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-020",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.324066,
+            41.814949
+          ],
+          [
+            122.587158,
+            41.871429
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-020",
+        "route_name": "Shared official-network section",
+        "sequence": 31,
+        "source_name_zh": "二道井驛",
+        "target_name_zh": "白旗堡驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-021",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.587158,
+            41.871429
+          ],
+          [
+            122.956265,
+            42.04858
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-021",
+        "route_name": "Shared official-network section",
+        "sequence": 32,
+        "source_name_zh": "白旗堡驛",
+        "target_name_zh": "巨流河驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-022",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            122.956265,
+            42.04858
+          ],
+          [
+            123.159843,
+            41.96315
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-022",
+        "route_name": "Shared official-network section",
+        "sequence": 33,
+        "source_name_zh": "巨流河驛",
+        "target_name_zh": "舊邊驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-023",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.159843,
+            41.96315
+          ],
+          [
+            123.41988,
+            41.78825
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-023",
+        "route_name": "Shared official-network section",
+        "sequence": 34,
+        "source_name_zh": "舊邊驛",
+        "target_name_zh": "盛京驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-024",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.41988,
+            41.78825
+          ],
+          [
+            123.35186,
+            41.510853
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-024",
+        "route_name": "Shared official-network section",
+        "sequence": 35,
+        "source_name_zh": "盛京驛",
+        "target_name_zh": "十里河驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-025",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.35186,
+            41.510853
+          ],
+          [
+            123.2185,
+            41.29062
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-025",
+        "route_name": "Shared official-network section",
+        "sequence": 36,
+        "source_name_zh": "十里河驛",
+        "target_name_zh": "東京驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-026",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.2185,
+            41.29062
+          ],
+          [
+            123.387273,
+            41.025824
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-026",
+        "route_name": "Shared official-network section",
+        "sequence": 37,
+        "source_name_zh": "東京驛",
+        "target_name_zh": "狼子山驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-027",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.387273,
+            41.025824
+          ],
+          [
+            123.556931,
+            40.987083
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-027",
+        "route_name": "Shared official-network section",
+        "sequence": 38,
+        "source_name_zh": "狼子山驛",
+        "target_name_zh": "甜水站驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-028",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.556931,
+            40.987083
+          ],
+          [
+            123.746079,
+            40.965794
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-028",
+        "route_name": "Shared official-network section",
+        "sequence": 39,
+        "source_name_zh": "甜水站驛",
+        "target_name_zh": "連山關驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-029",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.746079,
+            40.965794
+          ],
+          [
+            123.915863,
+            40.791561
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-029",
+        "route_name": "Shared official-network section",
+        "sequence": 40,
+        "source_name_zh": "連山關驛",
+        "target_name_zh": "通遠堡驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-030",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.915863,
+            40.791561
+          ],
+          [
+            123.967757,
+            40.581594
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-030",
+        "route_name": "Shared official-network section",
+        "sequence": 41,
+        "source_name_zh": "通遠堡驛",
+        "target_name_zh": "薛里站驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-JOS-031",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.967757,
+            40.581594
+          ],
+          [
+            124.083351,
+            40.354527
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-JOS-031",
+        "route_name": "Shared official-network section",
+        "sequence": 42,
+        "source_name_zh": "薛里站驛",
+        "target_name_zh": "鳳凰城驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-SHARED-TAIL-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            124.083351,
+            40.354527
+          ],
+          [
+            124.531,
+            40.199
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-SHARED-TAIL-001",
+        "route_name": "Shared official-network section",
+        "sequence": 43,
+        "source_name_zh": "鳳凰城驛",
+        "target_name_zh": "義州",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "schematic_direct_line_omitting_unlocated_waypoints",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    }
+  ]
+}

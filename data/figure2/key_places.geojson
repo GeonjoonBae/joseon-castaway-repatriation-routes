@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "EVP-JRAS2-009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5439,
+          22.1987
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "modern locality point used only at overview scale",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "EVP-JRAS2-009",
+        "Chinese Name": "澳門",
+        "display_name": "Macao 澳門",
+        "marker_role": "entry",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EVP-JRAS2-011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.373604,
+          22.52581
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "CHGIS time-series county-seat point, active 1152-1911",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "EVP-JRAS2-011",
+        "Chinese Name": "香山縣城",
+        "display_name": "Xiangshan County Seat 香山縣城",
+        "marker_role": "transfer",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GD:PL-GZBJ-025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.98567963,
+          29.72236443
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "江西",
+        "historical_prefecture": "九江府",
+        "historical_county": "德化縣",
+        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "GD:PL-GZBJ-025",
+        "Chinese Name": "潯陽驛",
+        "display_name": "Xunyang Station 潯陽驛",
+        "marker_role": "branch",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-A-058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.034676,
+          30.512295
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "v6_time_cnty_pts_gbk.dbf",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG2-A-058",
+        "Chinese Name": "安慶(安徽省城)",
+        "display_name": "Anqing 安慶",
+        "marker_role": "prefectural_capital",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-A-067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44,
+          32.39
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "existing Yi-Bangik research point",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG2-A-067",
+        "Chinese Name": "揚州府·廣陵驛",
+        "display_name": "Nanjing 南京",
+        "marker_role": "prefectural_capital",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-A-072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.14,
+          33.5
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "existing Yi-Bangik research point",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG2-A-072",
+        "Chinese Name": "淮安府·淮陰驛",
+        "display_name": "Huaiyin Station 淮陰驛",
+        "marker_role": "prefectural_capital",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-A-078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15816498,
+          35.08609009
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG2-A-078",
+        "Chinese Name": "滕陽驛",
+        "display_name": "Tengyang Station 滕陽驛",
+        "marker_role": "reentry",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FJ:PL-QING-AUX-0031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61862183,
+          31.31270981
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_prefecture": "蘇州府",
+        "historical_county": "元和縣",
+        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FJ:PL-QING-AUX-0031",
+        "Chinese Name": "蘇州(蘇州府城·江蘇巡撫駐地)",
+        "display_name": "Guangling Station 廣陵驛",
+        "marker_role": "prefectural_capital",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GD:PL-GZBJ-065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28741455,
+          37.4516449
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "historical_province": "山東",
+        "historical_zhou": "德州",
+        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "GD:PL-GZBJ-065",
+        "Chinese Name": "安德驛",
+        "display_name": "Beijing 北京",
+        "marker_role": "junction",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-C-CHAENGMUN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.083351,
+          40.354527
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "CHGIS 1820 鳳凰城門 point used as a provisional 柵門 candidate",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG2-C-CHAENGMUN",
+        "Chinese Name": "柵門",
+        "display_name": "Chaengmun 柵門",
+        "marker_role": "border_gate",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EVP-JRAS2-013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.531,
+          40.199
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "modern Uiju locality point used only at overview scale; historical city coordinate pending",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "EVP-JRAS2-013",
+        "Chinese Name": "義州",
+        "display_name": "Uiju 義州",
+        "marker_role": "endpoint",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    }
+  ]
+}

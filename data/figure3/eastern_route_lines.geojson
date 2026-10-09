@@ -1,0 +1,1051 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.14,
+            33.5
+          ],
+          [
+            119.016685,
+            33.588356
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-001",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 1,
+        "source_name_zh": "淮陰驛",
+        "target_name_zh": "清口驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "山陽縣",
+        "target_historical_county": "清河縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-002",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.016685,
+            33.588356
+          ],
+          [
+            118.654595,
+            33.68589
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-002",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 2,
+        "source_name_zh": "清口驛",
+        "target_name_zh": "桃源驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "清河縣",
+        "target_historical_county": "桃源縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.654595,
+            33.68589
+          ],
+          [
+            118.491845,
+            33.771551
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-003",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 3,
+        "source_name_zh": "桃源驛",
+        "target_name_zh": "古城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "桃源縣",
+        "target_historical_county": "桃源縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-004",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.491845,
+            33.771551
+          ],
+          [
+            118.297058,
+            33.958302
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-004",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 4,
+        "source_name_zh": "古城驛",
+        "target_name_zh": "鍾吾驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "桃源縣",
+        "target_historical_county": "宿遷縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-005",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.297058,
+            33.958302
+          ],
+          [
+            118.297058,
+            33.958302
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-005",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 5,
+        "source_name_zh": "鍾吾驛",
+        "target_name_zh": "㟃峿驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "宿遷縣",
+        "target_historical_county": "宿遷縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-006",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.297058,
+            33.958302
+          ],
+          [
+            118.343124,
+            34.434876
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-006",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 6,
+        "source_name_zh": "㟃峿驛",
+        "target_name_zh": "紅花埠驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "宿遷縣",
+        "target_historical_county": "郯城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-007",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.343124,
+            34.434876
+          ],
+          [
+            118.33,
+            34.62
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-007",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 7,
+        "source_name_zh": "紅花埠驛",
+        "target_name_zh": "在城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "郯城縣",
+        "target_historical_county": "郯城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-008",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.33,
+            34.62
+          ],
+          [
+            118.405029,
+            34.891758
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-008",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 8,
+        "source_name_zh": "在城驛",
+        "target_name_zh": "李家莊驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "郯城縣",
+        "target_historical_county": "蘭山縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-009",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.405029,
+            34.891758
+          ],
+          [
+            118.34,
+            35.07
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-009",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 9,
+        "source_name_zh": "李家莊驛",
+        "target_name_zh": "在城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "蘭山縣",
+        "target_historical_county": "蘭山縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-010",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.34,
+            35.07
+          ],
+          [
+            118.304915,
+            35.348912
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-010",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 10,
+        "source_name_zh": "在城驛",
+        "target_name_zh": "徐公店驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "蘭山縣",
+        "target_historical_county": "蘭山縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-011",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.304915,
+            35.348912
+          ],
+          [
+            118.163063,
+            35.549255
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-011",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 11,
+        "source_name_zh": "徐公店驛",
+        "target_name_zh": "垛莊驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "蘭山縣",
+        "target_historical_county": "沂水縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-012",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.163063,
+            35.549255
+          ],
+          [
+            117.92838,
+            35.71375
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-012",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 12,
+        "source_name_zh": "垛莊驛",
+        "target_name_zh": "在城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "沂水縣",
+        "target_historical_county": "䝉陰縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-013",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.92838,
+            35.71375
+          ],
+          [
+            117.75588,
+            35.90966
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-013",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 13,
+        "source_name_zh": "在城驛",
+        "target_name_zh": "在城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "䝉陰縣",
+        "target_historical_county": "新泰縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-014",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.75588,
+            35.90966
+          ],
+          [
+            117.75588,
+            35.90966
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-014",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 14,
+        "source_name_zh": "在城驛",
+        "target_name_zh": "楊柳店驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "新泰縣",
+        "target_historical_county": "新泰縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-015",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.75588,
+            35.90966
+          ],
+          [
+            117.12719,
+            36.189
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-015",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 15,
+        "source_name_zh": "楊柳店驛",
+        "target_name_zh": "崔家莊驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "新泰縣",
+        "target_historical_county": "泰安縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-016",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.12719,
+            36.189
+          ],
+          [
+            116.94,
+            36.3
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-016",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 16,
+        "source_name_zh": "崔家莊驛",
+        "target_name_zh": "長城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "泰安縣",
+        "target_historical_county": "長清縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-017",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.94,
+            36.3
+          ],
+          [
+            116.829399,
+            36.523594
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-017",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 17,
+        "source_name_zh": "長城驛",
+        "target_name_zh": "崮山驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "長清縣",
+        "target_historical_county": "長清縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-018",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.829399,
+            36.523594
+          ],
+          [
+            116.77944,
+            36.70007
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-018",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 18,
+        "source_name_zh": "崮山驛",
+        "target_name_zh": "晏城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "長清縣",
+        "target_historical_county": "齊河縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-019",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.77944,
+            36.70007
+          ],
+          [
+            116.65238953,
+            36.94535828
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-019",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 19,
+        "source_name_zh": "晏城驛",
+        "target_name_zh": "劉普驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "齊河縣",
+        "target_historical_county": "禹城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-020",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.65238953,
+            36.94535828
+          ],
+          [
+            116.42786,
+            37.15674
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-020",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 20,
+        "source_name_zh": "劉普驛",
+        "target_name_zh": "桃園驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "禹城縣",
+        "target_historical_county": "平原縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-021",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.42786,
+            37.15674
+          ],
+          [
+            116.28741455,
+            37.4516449
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-021",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 21,
+        "source_name_zh": "桃園驛",
+        "target_name_zh": "安德驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_county": "平原縣",
+        "target_historical_province": "山東",
+        "target_historical_zhou": "德州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-022",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.28741455,
+            37.4516449
+          ],
+          [
+            116.25810242,
+            37.68800735
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-022",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 22,
+        "source_name_zh": "安德驛",
+        "target_name_zh": "東光驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "山東",
+        "source_historical_zhou": "德州",
+        "target_historical_province": "直隸",
+        "target_historical_zhou": "景州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-023",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.25810242,
+            37.68800735
+          ],
+          [
+            116.14470673,
+            37.86817932
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-023",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 23,
+        "source_name_zh": "東光驛",
+        "target_name_zh": "阜城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_zhou": "景州",
+        "target_historical_province": "直隸",
+        "target_historical_county": "阜城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-024",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.14470673,
+            37.86817932
+          ],
+          [
+            116.2851181,
+            38.01704407
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-024",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 24,
+        "source_name_zh": "阜城驛",
+        "target_name_zh": "富莊驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "阜城縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "交河縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-025",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.2851181,
+            38.01704407
+          ],
+          [
+            116.11489868,
+            38.19069672
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-025",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 25,
+        "source_name_zh": "富莊驛",
+        "target_name_zh": "樂城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "交河縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "獻縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-026",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.11489868,
+            38.19069672
+          ],
+          [
+            116.08553314,
+            38.43569946
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-026",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 26,
+        "source_name_zh": "樂城驛",
+        "target_name_zh": "瀛海驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "獻縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "河閒縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-027",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.08553314,
+            38.43569946
+          ],
+          [
+            116.10706,
+            38.86037
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-027",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 27,
+        "source_name_zh": "瀛海驛",
+        "target_name_zh": "鄚城驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "河閒縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "任邱縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-028",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.10706,
+            38.86037
+          ],
+          [
+            116.09270477,
+            38.97587967
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-028",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 28,
+        "source_name_zh": "鄚城驛",
+        "target_name_zh": "歸義驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "任邱縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "雄縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-029",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.09270477,
+            38.97587967
+          ],
+          [
+            115.98756409,
+            39.24594879
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-029",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 29,
+        "source_name_zh": "歸義驛",
+        "target_name_zh": "汾水驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "雄縣",
+        "target_historical_province": "直隸",
+        "target_historical_county": "新城縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-030",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.98756409,
+            39.24594879
+          ],
+          [
+            115.97,
+            39.49
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-030",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 30,
+        "source_name_zh": "汾水驛",
+        "target_name_zh": "涿鹿驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "新城縣",
+        "target_historical_province": "直隸",
+        "target_historical_zhou": "涿州"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-031",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.97,
+            39.49
+          ],
+          [
+            116.13558197,
+            39.7412529
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-031",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 31,
+        "source_name_zh": "涿鹿驛",
+        "target_name_zh": "固節驛",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_zhou": "涿州",
+        "target_historical_province": "直隸",
+        "target_historical_county": "良鄉縣"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG3-EASTERN_CONTINUATION-032",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.13558197,
+            39.7412529
+          ],
+          [
+            116.368004,
+            39.931427
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG3-EASTERN_CONTINUATION-032",
+        "route_name": "Possible Shandong eastern route",
+        "sequence": 32,
+        "source_name_zh": "固節驛",
+        "target_name_zh": "北京",
+        "transport_mode": "route_mode_pending",
+        "geometry_basis": "straight_line_between_candidate_station_points",
+        "source_summary": "Article appendix and route reconstruction.",
+        "source_historical_province": "直隸",
+        "source_historical_county": "良鄉縣",
+        "target_historical_province": "直隸"
+      }
+    }
+  ]
+}

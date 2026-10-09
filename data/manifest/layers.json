@@ -1,0 +1,445 @@
+{
+  "title": "Joseon Castaway Repatriation Routes",
+  "title_ko": "조선 표류민 송환 노정",
+  "publication_status": "Anonymous pre-publication research map for peer review",
+  "default_center": [
+    35.0,
+    119.0
+  ],
+  "default_zoom": 5,
+  "basemaps": [
+    {
+      "id": "chgis_dem_hillshade",
+      "title": "CHGIS DEM and hillshade",
+      "type": "tile",
+      "url": "assets/tiles/chgis_dem_hillshade/{z}/{x}/{y}.png",
+      "default": true,
+      "min_zoom": 3,
+      "max_zoom": 10,
+      "attribution": "CHGIS Version 5 DEM, based on GTOPO-30"
+    }
+  ],
+  "layers": [
+    {
+      "id": "chgis_1820_lakes",
+      "title": "Lakes",
+      "title_en": "Lakes",
+      "title_ko": "호수",
+      "category": "hydrography",
+      "default_visible": false,
+      "path": "data/context/lakes.geojson",
+      "style": {
+        "color": "#0284c7",
+        "weight": 1.0,
+        "opacity": 0.7,
+        "fillColor": "#38bdf8",
+        "fillOpacity": 0.22
+      },
+      "pane": "hydrographyPane",
+      "feature_count": 129
+    },
+    {
+      "id": "chgis_1820_province_boundaries",
+      "title": "1820 province boundaries",
+      "title_en": "1820 province boundaries",
+      "title_ko": "1820년 성 경계",
+      "category": "boundary",
+      "default_visible": false,
+      "path": "data/context/province_boundaries.geojson",
+      "style": {
+        "color": "#475569",
+        "weight": 1.2,
+        "opacity": 0.72,
+        "fillOpacity": 0
+      },
+      "pane": "boundaryPane",
+      "feature_count": 16
+    },
+    {
+      "id": "canal_lines",
+      "title": "Grand Canal and waterways",
+      "title_en": "Grand Canal and waterways",
+      "title_ko": "대운하·수로",
+      "category": "hydrography",
+      "default_visible": false,
+      "path": "data/context/grand_canal.geojson",
+      "style": {
+        "color": "#0284c7",
+        "weight": 3,
+        "opacity": 0.7
+      },
+      "pane": "hydrographyPane",
+      "feature_count": 3
+    },
+    {
+      "id": "figure2_mun_sundeuk_lines",
+      "title": "Mun Sundeuk group",
+      "title_en": "Mun Sundeuk group",
+      "title_ko": "문순득 일행",
+      "category": "figure2",
+      "default_visible": false,
+      "path": "data/figure2/mun_sundeuk_lines.geojson",
+      "style": {
+        "color": "#c2410c",
+        "weight": 4.7,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 61
+    },
+    {
+      "id": "figure2_mun_hogyeom_lines",
+      "title": "Mun Ho-gyeom group",
+      "title_en": "Mun Ho-gyeom group",
+      "title_ko": "문호겸 일행",
+      "category": "figure2",
+      "default_visible": false,
+      "path": "data/figure2/mun_hogyeom_lines.geojson",
+      "style": {
+        "color": "#2563eb",
+        "weight": 4.7,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 61
+    },
+    {
+      "id": "figure2_shared_lines",
+      "title": "Shared official-network section",
+      "title_en": "Shared official-network section",
+      "title_ko": "공통 공식 역참망 구간",
+      "category": "figure2",
+      "default_visible": false,
+      "path": "data/figure2/shared_lines.geojson",
+      "style": {
+        "color": "#312e81",
+        "weight": 5.2,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 43
+    },
+    {
+      "id": "figure2_station_context",
+      "title": "Postal stations",
+      "title_en": "Postal stations",
+      "title_ko": "역참",
+      "category": "figure2",
+      "default_visible": false,
+      "path": "data/figure2/station_points.geojson",
+      "style": {
+        "color": "#374151",
+        "radius": 4
+      },
+      "pane": "keyStopPane",
+      "feature_count": 155
+    },
+    {
+      "id": "figure2_key_places",
+      "title": "Key route points",
+      "title_en": "Key route points",
+      "title_ko": "주요 노정 지점",
+      "category": "figure2",
+      "default_visible": false,
+      "path": "data/figure2/key_places.geojson",
+      "style": {
+        "color": "#111827",
+        "radius": 7
+      },
+      "pane": "keyStopPane",
+      "feature_count": 11
+    },
+    {
+      "id": "figure2_admin_province_points",
+      "title": "Provincial capitals and Beijing",
+      "title_en": "Provincial capitals and Beijing",
+      "title_ko": "성성 및 북경",
+      "category": "figure2",
+      "default_visible": false,
+      "path": "data/figure2/administrative_points.geojson",
+      "style": {
+        "color": "#f59e0b",
+        "radius": 7
+      },
+      "pane": "keyStopPane",
+      "feature_count": 9
+    },
+    {
+      "id": "figure3_official_baseline_lines",
+      "title": "Guangzhou-Beijing postal baseline",
+      "title_en": "Guangzhou-Beijing postal baseline",
+      "title_ko": "광저우-베이징 역참로",
+      "category": "figure3",
+      "default_visible": false,
+      "path": "data/figure3/official_baseline_lines.geojson",
+      "style": {
+        "color": "#d81b60",
+        "weight": 4,
+        "opacity": 0.9,
+        "dashArray": "4 8"
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 75
+    },
+    {
+      "id": "figure3_actual_water_route_lines",
+      "title": "Xunyang-Huaiyin waterway detour",
+      "title_en": "Xunyang-Huaiyin waterway detour",
+      "title_ko": "심양-회음 수로 우회",
+      "category": "figure3",
+      "default_visible": false,
+      "path": "data/figure3/actual_water_route.geojson",
+      "style": {
+        "color": "#c2410c",
+        "weight": 5,
+        "opacity": 0.97
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 1
+    },
+    {
+      "id": "figure3_central_continuation_lines",
+      "title": "Shandong central route",
+      "title_en": "Shandong central route",
+      "title_ko": "산동중로",
+      "category": "figure3",
+      "default_visible": false,
+      "path": "data/figure3/central_route_lines.geojson",
+      "style": {
+        "color": "#c2410c",
+        "weight": 5,
+        "opacity": 0.97
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 28
+    },
+    {
+      "id": "figure3_eastern_continuation_lines",
+      "title": "Possible Shandong eastern route",
+      "title_en": "Possible Shandong eastern route",
+      "title_ko": "산동동로 가능 노선",
+      "category": "figure3",
+      "default_visible": false,
+      "path": "data/figure3/eastern_route_lines.geojson",
+      "style": {
+        "color": "#0057d9",
+        "weight": 4.5,
+        "opacity": 0.95,
+        "dashArray": "4 8"
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 32
+    },
+    {
+      "id": "figure3_route_points",
+      "title": "Station and route points",
+      "title_en": "Station and route points",
+      "title_ko": "역참 및 노정 지점",
+      "category": "figure3",
+      "default_visible": false,
+      "path": "data/figure3/route_points.geojson",
+      "style": {
+        "color": "#374151",
+        "radius": 4
+      },
+      "pane": "keyStopPane",
+      "feature_count": 95
+    },
+    {
+      "id": "figure3_key_places",
+      "title": "Key comparison places",
+      "title_en": "Key comparison places",
+      "title_ko": "주요 비교 지점",
+      "category": "figure3",
+      "default_visible": false,
+      "path": "data/figure3/key_places.geojson",
+      "style": {
+        "color": "#111827",
+        "radius": 7
+      },
+      "pane": "keyStopPane",
+      "feature_count": 9
+    },
+    {
+      "id": "figure4_corridor_band_lines",
+      "title": "Fujian corridor band",
+      "title_en": "Fujian corridor band",
+      "title_ko": "복건회랑 범위",
+      "category": "figure4",
+      "default_visible": false,
+      "path": "data/figure4/corridor_axis.geojson",
+      "style": {
+        "color": "#0f766e",
+        "weight": 16,
+        "opacity": 0.23
+      },
+      "pane": "figureRoutePane",
+      "searchable": false,
+      "feature_count": 5
+    },
+    {
+      "id": "figure4_corridor_axis_lines",
+      "title": "Waterway-derived corridor axis",
+      "title_en": "Waterway-derived corridor axis",
+      "title_ko": "수로 기반 회랑 축",
+      "category": "figure4",
+      "default_visible": false,
+      "path": "data/figure4/corridor_axis.geojson",
+      "style": {
+        "color": "#115e59",
+        "weight": 4.5,
+        "opacity": 0.96
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 5
+    },
+    {
+      "id": "figure4_full_corridor_context_lines",
+      "title": "Fujian-Beijing corridor context",
+      "title_en": "Fujian-Beijing corridor context",
+      "title_ko": "복건-북경 회랑 간략도",
+      "category": "figure4",
+      "default_visible": false,
+      "path": "data/figure4/full_corridor_context.geojson",
+      "style": {
+        "color": "#115e59",
+        "weight": 3.2,
+        "opacity": 0.88
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 72
+    },
+    {
+      "id": "figure4_reference_points",
+      "title": "Postal stations",
+      "title_en": "Postal stations",
+      "title_ko": "역참",
+      "category": "figure4",
+      "default_visible": false,
+      "path": "data/figure4/station_points.geojson",
+      "style": {
+        "color": "#374151",
+        "radius": 5
+      },
+      "pane": "keyStopPane",
+      "feature_count": 13
+    },
+    {
+      "id": "figure4_transition_points",
+      "title": "Water-land transition points",
+      "title_en": "Water-land transition points",
+      "title_ko": "수륙 전환점",
+      "category": "figure4",
+      "default_visible": false,
+      "path": "data/figure4/transition_points.geojson",
+      "style": {
+        "color": "#c2410c",
+        "radius": 8
+      },
+      "pane": "keyStopPane",
+      "feature_count": 3
+    }
+  ],
+  "scenes": [
+    {
+      "id": "figure2_public",
+      "title": "Figure 2",
+      "title_ko": "Figure 2",
+      "description": "Two reconstructed repatriation routes and their shared official-network section.",
+      "description_ko": "두 송환 노정과 공통 공식 역참망 구간.",
+      "visible_layers": [
+        "chgis_1820_lakes",
+        "chgis_1820_province_boundaries",
+        "canal_lines",
+        "figure2_mun_sundeuk_lines",
+        "figure2_mun_hogyeom_lines",
+        "figure2_shared_lines",
+        "figure2_station_context",
+        "figure2_key_places",
+        "figure2_admin_province_points"
+      ],
+      "bounds": [
+        [
+          21.2,
+          112.2
+        ],
+        [
+          42.6,
+          125.3
+        ]
+      ]
+    },
+    {
+      "id": "figure3_public",
+      "title": "Figure 3",
+      "title_ko": "Figure 3",
+      "description": "The official baseline, waterway detour, and two Shandong alternatives.",
+      "description_ko": "공식 기준선, 수로 우회, 산동중로와 산동동로의 비교.",
+      "visible_layers": [
+        "chgis_1820_lakes",
+        "chgis_1820_province_boundaries",
+        "canal_lines",
+        "figure3_official_baseline_lines",
+        "figure3_actual_water_route_lines",
+        "figure3_central_continuation_lines",
+        "figure3_eastern_continuation_lines",
+        "figure3_route_points",
+        "figure3_key_places"
+      ],
+      "bounds": [
+        [
+          29.15,
+          115.35
+        ],
+        [
+          37.85,
+          119.85
+        ]
+      ]
+    },
+    {
+      "id": "figure4_public",
+      "title": "Figure 4",
+      "title_ko": "Figure 4",
+      "description": "Waterborne and overland travel along the Grand Canal section of the Fujian corridor.",
+      "description_ko": "복건회랑 대운하 구간의 수로·육로 이동과 전환점.",
+      "visible_layers": [
+        "chgis_1820_lakes",
+        "chgis_1820_province_boundaries",
+        "canal_lines",
+        "figure4_corridor_band_lines",
+        "figure4_corridor_axis_lines",
+        "figure4_full_corridor_context_lines",
+        "figure4_reference_points",
+        "figure4_transition_points"
+      ],
+      "bounds": [
+        [
+          30.52,
+          118.1
+        ],
+        [
+          34.08,
+          120.95
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "figure2",
+      "title": "Figure 2 publication draft",
+      "path": "assets/figures/figure2.png"
+    },
+    {
+      "id": "figure3",
+      "title": "Figure 3 publication draft",
+      "path": "assets/figures/figure3.png"
+    },
+    {
+      "id": "figure4",
+      "title": "Figure 4 publication draft",
+      "path": "assets/figures/figure4.png"
+    }
+  ]
+}
