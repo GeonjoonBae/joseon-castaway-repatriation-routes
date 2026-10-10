@@ -114,7 +114,7 @@
         "coordinate_status": "검토용 후보 - 미채택",
         "id": "FIG2-A-067",
         "Chinese Name": "揚州府·廣陵驛",
-        "display_name": "Nanjing 南京",
+        "display_name": "Guangling Station 廣陵驛",
         "marker_role": "prefectural_capital",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
       }
@@ -185,7 +185,7 @@
         "coordinate_status": "검토용 후보 - 미채택",
         "id": "FJ:PL-QING-AUX-0031",
         "Chinese Name": "蘇州(蘇州府城·江蘇巡撫駐地)",
-        "display_name": "Guangling Station 廣陵驛",
+        "display_name": "Suzhou 蘇州",
         "marker_role": "prefectural_capital",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
       }
@@ -210,7 +210,7 @@
         "coordinate_status": "검토용 후보 - 미채택",
         "id": "GD:PL-GZBJ-065",
         "Chinese Name": "安德驛",
-        "display_name": "Beijing 北京",
+        "display_name": "Ande Station 安德驛",
         "marker_role": "junction",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
       }
