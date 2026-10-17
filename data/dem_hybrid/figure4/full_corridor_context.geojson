@@ -1,0 +1,4931 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.32157898,
+            26.07395363
+          ],
+          [
+            119.31559903,
+            26.07571796
+          ],
+          [
+            119.30883998,
+            26.07756645
+          ],
+          [
+            119.30146566,
+            26.07950089
+          ],
+          [
+            119.29363992,
+            26.08152306
+          ],
+          [
+            119.28552658,
+            26.08363472
+          ],
+          [
+            119.2772895,
+            26.08583767
+          ],
+          [
+            119.26909251,
+            26.08813368
+          ],
+          [
+            119.26109945,
+            26.09052453
+          ],
+          [
+            119.25347416,
+            26.09301199
+          ],
+          [
+            119.24638048,
+            26.09559786
+          ],
+          [
+            119.23998225,
+            26.0982839
+          ],
+          [
+            119.2344433,
+            26.1010719
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-001",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "三山驛",
+        "target_name_zh": "芋原驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-002",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.2344433,
+            26.1010719
+          ],
+          [
+            119.22416718,
+            26.10728763
+          ],
+          [
+            119.21271682,
+            26.11494292
+          ],
+          [
+            119.20030825,
+            26.12375752
+          ],
+          [
+            119.18715748,
+            26.13345118
+          ],
+          [
+            119.17348052,
+            26.14374366
+          ],
+          [
+            119.1594934,
+            26.1543547
+          ],
+          [
+            119.14541212,
+            26.16500406
+          ],
+          [
+            119.13145271,
+            26.1754115
+          ],
+          [
+            119.11783117,
+            26.18529676
+          ],
+          [
+            119.10476353,
+            26.19437959
+          ],
+          [
+            119.0924658,
+            26.20237975
+          ],
+          [
+            119.081154,
+            26.20901699
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-002",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "芋原驛",
+        "target_name_zh": "白沙驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.081154,
+            26.20901699
+          ],
+          [
+            119.06019785,
+            26.21997478
+          ],
+          [
+            119.03568568,
+            26.23203574
+          ],
+          [
+            119.00837343,
+            26.24495377
+          ],
+          [
+            118.97901703,
+            26.25848276
+          ],
+          [
+            118.94837243,
+            26.2723766
+          ],
+          [
+            118.91719556,
+            26.28638917
+          ],
+          [
+            118.88624237,
+            26.30027438
+          ],
+          [
+            118.85626879,
+            26.3137861
+          ],
+          [
+            118.82803076,
+            26.32667822
+          ],
+          [
+            118.80228422,
+            26.33870465
+          ],
+          [
+            118.77978512,
+            26.34961926
+          ],
+          [
+            118.76128938,
+            26.35917595
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-003",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "白沙驛",
+        "target_name_zh": "水口驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-004",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.76128938,
+            26.35917595
+          ],
+          [
+            118.75474096,
+            26.36328757
+          ],
+          [
+            118.74793207,
+            26.36852366
+          ],
+          [
+            118.74090629,
+            26.37463959
+          ],
+          [
+            118.73370717,
+            26.38139072
+          ],
+          [
+            118.72637829,
+            26.38853239
+          ],
+          [
+            118.71896321,
+            26.39581996
+          ],
+          [
+            118.7115055,
+            26.4030088
+          ],
+          [
+            118.70404871,
+            26.40985424
+          ],
+          [
+            118.69663643,
+            26.41611166
+          ],
+          [
+            118.68931221,
+            26.42153641
+          ],
+          [
+            118.68211962,
+            26.42588383
+          ],
+          [
+            118.67510223,
+            26.4289093
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-004",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "水口驛",
+        "target_name_zh": "黃田驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-005",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.67510223,
+            26.4289093
+          ],
+          [
+            118.66697095,
+            26.43078651
+          ],
+          [
+            118.65760366,
+            26.43164672
+          ],
+          [
+            118.64724723,
+            26.43169233
+          ],
+          [
+            118.63614854,
+            26.43112574
+          ],
+          [
+            118.62455447,
+            26.43014934
+          ],
+          [
+            118.61271189,
+            26.42896555
+          ],
+          [
+            118.60086769,
+            26.42777677
+          ],
+          [
+            118.58926874,
+            26.42678539
+          ],
+          [
+            118.57816192,
+            26.42619382
+          ],
+          [
+            118.5677941,
+            26.42620447
+          ],
+          [
+            118.55841217,
+            26.42701973
+          ],
+          [
+            118.550263,
+            26.428842
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-005",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "黃田驛",
+        "target_name_zh": "嵢峽驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-006",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.550263,
+            26.428842
+          ],
+          [
+            118.53966987,
+            26.43286548
+          ],
+          [
+            118.52830854,
+            26.43825294
+          ],
+          [
+            118.51634679,
+            26.44476404
+          ],
+          [
+            118.50395238,
+            26.45215846
+          ],
+          [
+            118.49129308,
+            26.46019585
+          ],
+          [
+            118.47853668,
+            26.46863588
+          ],
+          [
+            118.46585093,
+            26.47723823
+          ],
+          [
+            118.4534036,
+            26.48576256
+          ],
+          [
+            118.44136248,
+            26.49396853
+          ],
+          [
+            118.42989532,
+            26.50161582
+          ],
+          [
+            118.41916991,
+            26.50846409
+          ],
+          [
+            118.409354,
+            26.514273
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-006",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "嵢峽驛",
+        "target_name_zh": "茶洋驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-007",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.409354,
+            26.514273
+          ],
+          [
+            118.39228905,
+            26.52318263
+          ],
+          [
+            118.37209855,
+            26.53277253
+          ],
+          [
+            118.34955928,
+            26.542934
+          ],
+          [
+            118.32544805,
+            26.55355834
+          ],
+          [
+            118.30054163,
+            26.56453688
+          ],
+          [
+            118.27561682,
+            26.57576091
+          ],
+          [
+            118.2514504,
+            26.58712175
+          ],
+          [
+            118.22881916,
+            26.59851069
+          ],
+          [
+            118.2084999,
+            26.60981906
+          ],
+          [
+            118.19126939,
+            26.62093816
+          ],
+          [
+            118.17790444,
+            26.63175929
+          ],
+          [
+            118.16918182,
+            26.64217377
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-007",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "茶洋驛",
+        "target_name_zh": "劍浦驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-008",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.16918182,
+            26.64217377
+          ],
+          [
+            118.16605225,
+            26.65140559
+          ],
+          [
+            118.16695974,
+            26.6612554
+          ],
+          [
+            118.17125757,
+            26.67160911
+          ],
+          [
+            118.17829899,
+            26.68235266
+          ],
+          [
+            118.18743726,
+            26.69337196
+          ],
+          [
+            118.19802564,
+            26.70455295
+          ],
+          [
+            118.20941741,
+            26.71578155
+          ],
+          [
+            118.22096581,
+            26.72694367
+          ],
+          [
+            118.2320241,
+            26.73792526
+          ],
+          [
+            118.24194556,
+            26.74861222
+          ],
+          [
+            118.25008344,
+            26.7588905
+          ],
+          [
+            118.255791,
+            26.768646
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-008",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "劍浦驛",
+        "target_name_zh": "大橫驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-009",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.255791,
+            26.768646
+          ],
+          [
+            118.25980796,
+            26.77847261
+          ],
+          [
+            118.26350023,
+            26.789292
+          ],
+          [
+            118.26690425,
+            26.80091556
+          ],
+          [
+            118.27005647,
+            26.81315465
+          ],
+          [
+            118.27299334,
+            26.82582067
+          ],
+          [
+            118.2757513,
+            26.83872501
+          ],
+          [
+            118.2783668,
+            26.85167903
+          ],
+          [
+            118.28087629,
+            26.86449414
+          ],
+          [
+            118.2833162,
+            26.87698171
+          ],
+          [
+            118.285723,
+            26.88895312
+          ],
+          [
+            118.28813311,
+            26.90021975
+          ],
+          [
+            118.290583,
+            26.910593
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-009",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "大橫驛",
+        "target_name_zh": "太平驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-010",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.290583,
+            26.910593
+          ],
+          [
+            118.29330797,
+            26.91994587
+          ],
+          [
+            118.29682825,
+            26.93003366
+          ],
+          [
+            118.30090751,
+            26.94070879
+          ],
+          [
+            118.30530946,
+            26.95182367
+          ],
+          [
+            118.30979776,
+            26.96323073
+          ],
+          [
+            118.31413612,
+            26.97478237
+          ],
+          [
+            118.31808822,
+            26.98633103
+          ],
+          [
+            118.32141775,
+            26.99772912
+          ],
+          [
+            118.32388839,
+            27.00882905
+          ],
+          [
+            118.32526383,
+            27.01948326
+          ],
+          [
+            118.32530776,
+            27.02954415
+          ],
+          [
+            118.32378387,
+            27.03886414
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-010",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "太平驛",
+        "target_name_zh": "城西驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-011",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.32378387,
+            27.03886414
+          ],
+          [
+            118.31995159,
+            27.04936054
+          ],
+          [
+            118.31418729,
+            27.0602148
+          ],
+          [
+            118.30681525,
+            27.07133286
+          ],
+          [
+            118.29815979,
+            27.08262065
+          ],
+          [
+            118.2885452,
+            27.09398411
+          ],
+          [
+            118.27829579,
+            27.10532918
+          ],
+          [
+            118.26773586,
+            27.1165618
+          ],
+          [
+            118.25718971,
+            27.12758791
+          ],
+          [
+            118.24698165,
+            27.13831345
+          ],
+          [
+            118.23743598,
+            27.14864435
+          ],
+          [
+            118.22887699,
+            27.15848655
+          ],
+          [
+            118.221629,
+            27.167746
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-011",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "城西驛",
+        "target_name_zh": "葉坊驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-012",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.221629,
+            27.167746
+          ],
+          [
+            118.21274698,
+            27.18016512
+          ],
+          [
+            118.20279372,
+            27.19438199
+          ],
+          [
+            118.1920466,
+            27.20996232
+          ],
+          [
+            118.18078304,
+            27.2264718
+          ],
+          [
+            118.16928041,
+            27.24347611
+          ],
+          [
+            118.15781613,
+            27.26054096
+          ],
+          [
+            118.14666757,
+            27.27723203
+          ],
+          [
+            118.13611214,
+            27.29311501
+          ],
+          [
+            118.12642723,
+            27.30775561
+          ],
+          [
+            118.11789023,
+            27.32071951
+          ],
+          [
+            118.11077855,
+            27.33157241
+          ],
+          [
+            118.10536957,
+            27.33987999
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-012",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "葉坊驛",
+        "target_name_zh": "建溪驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-013",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.10536957,
+            27.33987999
+          ],
+          [
+            118.1053162,
+            27.34006761
+          ],
+          [
+            118.10544827,
+            27.34015966
+          ],
+          [
+            118.10573411,
+            27.34017512
+          ],
+          [
+            118.10614205,
+            27.34013299
+          ],
+          [
+            118.1066404,
+            27.34005223
+          ],
+          [
+            118.1071975,
+            27.33995184
+          ],
+          [
+            118.10778167,
+            27.33985078
+          ],
+          [
+            118.10836124,
+            27.33976805
+          ],
+          [
+            118.10890453,
+            27.33972263
+          ],
+          [
+            118.10937987,
+            27.33973349
+          ],
+          [
+            118.10975559,
+            27.33981962
+          ],
+          [
+            118.11,
+            27.34
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-013",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "建溪驛",
+        "target_name_zh": "營頭司驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-014",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.11,
+            27.34
+          ],
+          [
+            118.12223507,
+            27.35718702
+          ],
+          [
+            118.13806097,
+            27.37967395
+          ],
+          [
+            118.15687555,
+            27.40655023
+          ],
+          [
+            118.17807667,
+            27.43690533
+          ],
+          [
+            118.20106217,
+            27.46982871
+          ],
+          [
+            118.22522991,
+            27.50440984
+          ],
+          [
+            118.24997773,
+            27.53973817
+          ],
+          [
+            118.2747035,
+            27.57490316
+          ],
+          [
+            118.29880506,
+            27.60899428
+          ],
+          [
+            118.32168026,
+            27.64110099
+          ],
+          [
+            118.34272696,
+            27.67031274
+          ],
+          [
+            118.361343,
+            27.695719
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-014",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "營頭司驛",
+        "target_name_zh": "人和公館驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-015",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.361343,
+            27.695719
+          ],
+          [
+            118.37392333,
+            27.71241028
+          ],
+          [
+            118.38847769,
+            27.73126792
+          ],
+          [
+            118.40453977,
+            27.75175102
+          ],
+          [
+            118.42164321,
+            27.77331872
+          ],
+          [
+            118.43932169,
+            27.79543012
+          ],
+          [
+            118.45710887,
+            27.81754436
+          ],
+          [
+            118.47453843,
+            27.83912055
+          ],
+          [
+            118.49114401,
+            27.85961782
+          ],
+          [
+            118.50645929,
+            27.87849527
+          ],
+          [
+            118.52001794,
+            27.89521204
+          ],
+          [
+            118.53135362,
+            27.90922724
+          ],
+          [
+            118.54,
+            27.92
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-015",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "人和公館驛",
+        "target_name_zh": "柘浦驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-016",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.54,
+            27.92
+          ],
+          [
+            118.54,
+            27.92
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-016",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "柘浦驛",
+        "target_name_zh": "小關驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-017",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.54,
+            27.92
+          ],
+          [
+            118.54326182,
+            27.9605273
+          ],
+          [
+            118.54672987,
+            28.01477606
+          ],
+          [
+            118.55052798,
+            28.08014652
+          ],
+          [
+            118.55478002,
+            28.15403894
+          ],
+          [
+            118.55960984,
+            28.23385359
+          ],
+          [
+            118.56514128,
+            28.31699071
+          ],
+          [
+            118.57149822,
+            28.40085058
+          ],
+          [
+            118.57880449,
+            28.48283344
+          ],
+          [
+            118.58718394,
+            28.56033955
+          ],
+          [
+            118.59676045,
+            28.63076918
+          ],
+          [
+            118.60765785,
+            28.69152258
+          ],
+          [
+            118.62,
+            28.74
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-017",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "小關驛",
+        "target_name_zh": "廣濟驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-018",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.62,
+            28.74
+          ],
+          [
+            118.62886157,
+            28.76069528
+          ],
+          [
+            118.64206761,
+            28.78168492
+          ],
+          [
+            118.65895707,
+            28.80273732
+          ],
+          [
+            118.67886891,
+            28.8236209
+          ],
+          [
+            118.70114211,
+            28.84410407
+          ],
+          [
+            118.72511562,
+            28.86395524
+          ],
+          [
+            118.75012841,
+            28.88294282
+          ],
+          [
+            118.77551944,
+            28.90083524
+          ],
+          [
+            118.80062767,
+            28.91740089
+          ],
+          [
+            118.82479208,
+            28.93240821
+          ],
+          [
+            118.84735162,
+            28.94562558
+          ],
+          [
+            118.86764526,
+            28.95682144
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-018",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "廣濟驛",
+        "target_name_zh": "上航驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-019",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.86764526,
+            28.95682144
+          ],
+          [
+            118.88667566,
+            28.96548851
+          ],
+          [
+            118.90903288,
+            28.97328084
+          ],
+          [
+            118.93406601,
+            28.9803425
+          ],
+          [
+            118.96112413,
+            28.98681756
+          ],
+          [
+            118.98955631,
+            28.99285007
+          ],
+          [
+            119.01871165,
+            28.99858411
+          ],
+          [
+            119.04793923,
+            29.00416375
+          ],
+          [
+            119.07658812,
+            29.00973304
+          ],
+          [
+            119.10400742,
+            29.01543606
+          ],
+          [
+            119.1295462,
+            29.02141687
+          ],
+          [
+            119.15255354,
+            29.02781954
+          ],
+          [
+            119.17237854,
+            29.03478813
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-019",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "上航驛",
+        "target_name_zh": "亭步驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-020",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.17237854,
+            29.03478813
+          ],
+          [
+            119.19477403,
+            29.04370008
+          ],
+          [
+            119.22031712,
+            29.05373767
+          ],
+          [
+            119.24823503,
+            29.06484832
+          ],
+          [
+            119.27775495,
+            29.07697942
+          ],
+          [
+            119.30810408,
+            29.09007838
+          ],
+          [
+            119.33850964,
+            29.1040926
+          ],
+          [
+            119.3681988,
+            29.11896948
+          ],
+          [
+            119.39639879,
+            29.13465644
+          ],
+          [
+            119.42233681,
+            29.15110086
+          ],
+          [
+            119.44524004,
+            29.16825016
+          ],
+          [
+            119.46433571,
+            29.18605174
+          ],
+          [
+            119.478851,
+            29.204453
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-020",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "亭步驛",
+        "target_name_zh": "瀔水驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-021",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.478851,
+            29.204453
+          ],
+          [
+            119.48950546,
+            29.22626867
+          ],
+          [
+            119.49621994,
+            29.25119277
+          ],
+          [
+            119.49968621,
+            29.2786484
+          ],
+          [
+            119.50059606,
+            29.30805867
+          ],
+          [
+            119.49964124,
+            29.3388467
+          ],
+          [
+            119.49751352,
+            29.37043559
+          ],
+          [
+            119.49490468,
+            29.40224846
+          ],
+          [
+            119.49250649,
+            29.43370841
+          ],
+          [
+            119.49101072,
+            29.46423855
+          ],
+          [
+            119.49110913,
+            29.49326201
+          ],
+          [
+            119.4934935,
+            29.52020188
+          ],
+          [
+            119.49885559,
+            29.54448128
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-021",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "瀔水驛",
+        "target_name_zh": "富春驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-022",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.49885559,
+            29.54448128
+          ],
+          [
+            119.506244,
+            29.56497323
+          ],
+          [
+            119.51589518,
+            29.58672047
+          ],
+          [
+            119.52748222,
+            29.60940129
+          ],
+          [
+            119.54067821,
+            29.63269398
+          ],
+          [
+            119.55515625,
+            29.65627683
+          ],
+          [
+            119.57058944,
+            29.67982814
+          ],
+          [
+            119.58665086,
+            29.7030262
+          ],
+          [
+            119.60301362,
+            29.72554929
+          ],
+          [
+            119.6193508,
+            29.7470757
+          ],
+          [
+            119.63533551,
+            29.76728373
+          ],
+          [
+            119.65064084,
+            29.78585167
+          ],
+          [
+            119.66493988,
+            29.80245781
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-022",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "富春驛",
+        "target_name_zh": "桐江驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-023",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.66493988,
+            29.80245781
+          ],
+          [
+            119.68272541,
+            29.82165465
+          ],
+          [
+            119.7032564,
+            29.84220416
+          ],
+          [
+            119.72602461,
+            29.86379425
+          ],
+          [
+            119.7505218,
+            29.88611281
+          ],
+          [
+            119.77623973,
+            29.90884774
+          ],
+          [
+            119.80267016,
+            29.93168695
+          ],
+          [
+            119.82930486,
+            29.95431833
+          ],
+          [
+            119.85563557,
+            29.97642979
+          ],
+          [
+            119.88115408,
+            29.99770922
+          ],
+          [
+            119.90535213,
+            30.01784453
+          ],
+          [
+            119.92772149,
+            30.03652361
+          ],
+          [
+            119.94775391,
+            30.05343437
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-023",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "桐江驛",
+        "target_name_zh": "會江驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-024",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.94775391,
+            30.05343437
+          ],
+          [
+            119.9619791,
+            30.06519098
+          ],
+          [
+            119.97846664,
+            30.07826103
+          ],
+          [
+            119.99669595,
+            30.09235887
+          ],
+          [
+            120.01614649,
+            30.10719887
+          ],
+          [
+            120.03629767,
+            30.12249539
+          ],
+          [
+            120.05662895,
+            30.1379628
+          ],
+          [
+            120.07661975,
+            30.15331544
+          ],
+          [
+            120.09574952,
+            30.16826769
+          ],
+          [
+            120.1134977,
+            30.18253391
+          ],
+          [
+            120.12934371,
+            30.19582846
+          ],
+          [
+            120.142767,
+            30.2078657
+          ],
+          [
+            120.153247,
+            30.21836
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-024",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "會江驛",
+        "target_name_zh": "浙江驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-025",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.153247,
+            30.21836
+          ],
+          [
+            120.15661669,
+            30.22302005
+          ],
+          [
+            120.15947174,
+            30.22888497
+          ],
+          [
+            120.16185262,
+            30.2356835
+          ],
+          [
+            120.16379985,
+            30.24314439
+          ],
+          [
+            120.1653539,
+            30.25099637
+          ],
+          [
+            120.16655527,
+            30.25896817
+          ],
+          [
+            120.16744446,
+            30.26678853
+          ],
+          [
+            120.16806196,
+            30.2741862
+          ],
+          [
+            120.16844826,
+            30.2808899
+          ],
+          [
+            120.16864385,
+            30.28662838
+          ],
+          [
+            120.16868922,
+            30.29113036
+          ],
+          [
+            120.16862488,
+            30.2941246
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-025",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "浙江驛",
+        "target_name_zh": "武林驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-026",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.16862488,
+            30.2941246
+          ],
+          [
+            120.16808764,
+            30.29517629
+          ],
+          [
+            120.16678025,
+            30.29475175
+          ],
+          [
+            120.16488115,
+            30.29313639
+          ],
+          [
+            120.16256877,
+            30.29061566
+          ],
+          [
+            120.16002155,
+            30.28747499
+          ],
+          [
+            120.15741792,
+            30.28399981
+          ],
+          [
+            120.15493634,
+            30.28047556
+          ],
+          [
+            120.15275523,
+            30.27718768
+          ],
+          [
+            120.15105303,
+            30.2744216
+          ],
+          [
+            120.15000819,
+            30.27246275
+          ],
+          [
+            120.14979913,
+            30.27159658
+          ],
+          [
+            120.1506043,
+            30.2721085
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-026",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "武林驛",
+        "target_name_zh": "吳山驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-027",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.1506043,
+            30.2721085
+          ],
+          [
+            120.16285448,
+            30.28395724
+          ],
+          [
+            120.17915323,
+            30.30009239
+          ],
+          [
+            120.19883657,
+            30.31975598
+          ],
+          [
+            120.22124055,
+            30.34219007
+          ],
+          [
+            120.2457012,
+            30.36663671
+          ],
+          [
+            120.27155455,
+            30.39233796
+          ],
+          [
+            120.29813663,
+            30.41853586
+          ],
+          [
+            120.32478349,
+            30.44447247
+          ],
+          [
+            120.35083115,
+            30.46938984
+          ],
+          [
+            120.37561565,
+            30.49253002
+          ],
+          [
+            120.39847303,
+            30.51313506
+          ],
+          [
+            120.41873932,
+            30.53044701
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-027",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "吳山驛",
+        "target_name_zh": "皂林驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-028",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.41873932,
+            30.53044701
+          ],
+          [
+            120.44161113,
+            30.54764916
+          ],
+          [
+            120.46915633,
+            30.56598008
+          ],
+          [
+            120.50024563,
+            30.58524021
+          ],
+          [
+            120.53374977,
+            30.60523
+          ],
+          [
+            120.56853947,
+            30.62574989
+          ],
+          [
+            120.60348547,
+            30.64660034
+          ],
+          [
+            120.63745848,
+            30.66758177
+          ],
+          [
+            120.66932925,
+            30.68849465
+          ],
+          [
+            120.69796849,
+            30.7091394
+          ],
+          [
+            120.72224693,
+            30.72931649
+          ],
+          [
+            120.74103531,
+            30.74882634
+          ],
+          [
+            120.75320435,
+            30.76746941
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-028",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "皂林驛",
+        "target_name_zh": "西水驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-029",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.75320435,
+            30.76746941
+          ],
+          [
+            120.75710086,
+            30.78330551
+          ],
+          [
+            120.75517101,
+            30.80016473
+          ],
+          [
+            120.74839385,
+            30.81786069
+          ],
+          [
+            120.73774843,
+            30.83620702
+          ],
+          [
+            120.72421379,
+            30.85501735
+          ],
+          [
+            120.70876897,
+            30.8741053
+          ],
+          [
+            120.69239303,
+            30.89328449
+          ],
+          [
+            120.676065,
+            30.91236855
+          ],
+          [
+            120.66076393,
+            30.9311711
+          ],
+          [
+            120.64746887,
+            30.94950577
+          ],
+          [
+            120.63715887,
+            30.96718619
+          ],
+          [
+            120.63081296,
+            30.98402598
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-029",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "西水驛",
+        "target_name_zh": "平望驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-030",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.63081296,
+            30.98402598
+          ],
+          [
+            120.62691356,
+            31.00728771
+          ],
+          [
+            120.62557471,
+            31.03309474
+          ],
+          [
+            120.62618551,
+            31.06090868
+          ],
+          [
+            120.6281351,
+            31.09019113
+          ],
+          [
+            120.63081258,
+            31.12040369
+          ],
+          [
+            120.63360708,
+            31.15100798
+          ],
+          [
+            120.6359077,
+            31.1814656
+          ],
+          [
+            120.63710357,
+            31.21123815
+          ],
+          [
+            120.6365838,
+            31.23978724
+          ],
+          [
+            120.63373751,
+            31.26657448
+          ],
+          [
+            120.62795381,
+            31.29106146
+          ],
+          [
+            120.61862183,
+            31.31270981
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-030",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "平望驛",
+        "target_name_zh": "姑蘇驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-031",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.61862183,
+            31.31270981
+          ],
+          [
+            120.60301235,
+            31.33610684
+          ],
+          [
+            120.58276863,
+            31.35994854
+          ],
+          [
+            120.55867349,
+            31.38401577
+          ],
+          [
+            120.53150973,
+            31.4080894
+          ],
+          [
+            120.5020602,
+            31.43195031
+          ],
+          [
+            120.4711077,
+            31.45537936
+          ],
+          [
+            120.43943506,
+            31.47815744
+          ],
+          [
+            120.4078251,
+            31.5000654
+          ],
+          [
+            120.37706064,
+            31.52088412
+          ],
+          [
+            120.3479245,
+            31.54039448
+          ],
+          [
+            120.3211995,
+            31.55837734
+          ],
+          [
+            120.29766846,
+            31.57461357
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-031",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "姑蘇驛",
+        "target_name_zh": "錫山驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-032",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.29766846,
+            31.57461357
+          ],
+          [
+            120.27522945,
+            31.589957
+          ],
+          [
+            120.24953473,
+            31.60671115
+          ],
+          [
+            120.2212151,
+            31.62456212
+          ],
+          [
+            120.19090138,
+            31.64319601
+          ],
+          [
+            120.15922436,
+            31.6622989
+          ],
+          [
+            120.12681486,
+            31.6815569
+          ],
+          [
+            120.09430369,
+            31.7006561
+          ],
+          [
+            120.06232165,
+            31.7192826
+          ],
+          [
+            120.03149956,
+            31.7371225
+          ],
+          [
+            120.00246822,
+            31.75386188
+          ],
+          [
+            119.97585844,
+            31.76918685
+          ],
+          [
+            119.95230103,
+            31.78278351
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-032",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "錫山驛",
+        "target_name_zh": "毗陵驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-033",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.95230103,
+            31.78278351
+          ],
+          [
+            119.92655724,
+            31.79712177
+          ],
+          [
+            119.89693681,
+            31.81276651
+          ],
+          [
+            119.86426853,
+            31.82951197
+          ],
+          [
+            119.82938123,
+            31.84715238
+          ],
+          [
+            119.79310369,
+            31.86548198
+          ],
+          [
+            119.75626475,
+            31.88429499
+          ],
+          [
+            119.7196932,
+            31.90338566
+          ],
+          [
+            119.68421786,
+            31.92254821
+          ],
+          [
+            119.65066754,
+            31.94157688
+          ],
+          [
+            119.61987103,
+            31.9602659
+          ],
+          [
+            119.59265717,
+            31.97840951
+          ],
+          [
+            119.56985474,
+            31.99580193
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-033",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "毗陵驛",
+        "target_name_zh": "雲陽驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-034",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.56985474,
+            31.99580193
+          ],
+          [
+            119.55711808,
+            32.00764047
+          ],
+          [
+            119.54436816,
+            32.02174671
+          ],
+          [
+            119.53173292,
+            32.03775228
+          ],
+          [
+            119.51934034,
+            32.0552888
+          ],
+          [
+            119.50731837,
+            32.07398789
+          ],
+          [
+            119.49579497,
+            32.09348116
+          ],
+          [
+            119.48489809,
+            32.11340025
+          ],
+          [
+            119.4747557,
+            32.13337676
+          ],
+          [
+            119.46549575,
+            32.15304233
+          ],
+          [
+            119.45724621,
+            32.17202857
+          ],
+          [
+            119.45013503,
+            32.18996711
+          ],
+          [
+            119.44429016,
+            32.20648956
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-034",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "雲陽驛",
+        "target_name_zh": "京口驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-035",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.44429016,
+            32.20648956
+          ],
+          [
+            119.4406413,
+            32.2193908
+          ],
+          [
+            119.4377106,
+            32.23352793
+          ],
+          [
+            119.43546214,
+            32.24866062
+          ],
+          [
+            119.43386,
+            32.26454855
+          ],
+          [
+            119.43286825,
+            32.28095136
+          ],
+          [
+            119.43245099,
+            32.29762873
+          ],
+          [
+            119.43257229,
+            32.31434033
+          ],
+          [
+            119.43319622,
+            32.33084582
+          ],
+          [
+            119.43428688,
+            32.34690486
+          ],
+          [
+            119.43580835,
+            32.36227713
+          ],
+          [
+            119.43772469,
+            32.37672229
+          ],
+          [
+            119.44,
+            32.39
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-035",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "京口驛",
+        "target_name_zh": "廣陵驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-036",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.44,
+            32.39
+          ],
+          [
+            119.44301374,
+            32.4007051
+          ],
+          [
+            119.44776744,
+            32.4119279
+          ],
+          [
+            119.4538795,
+            32.42356808
+          ],
+          [
+            119.46096832,
+            32.43552534
+          ],
+          [
+            119.4686523,
+            32.44769935
+          ],
+          [
+            119.47654983,
+            32.4599898
+          ],
+          [
+            119.48427932,
+            32.47229637
+          ],
+          [
+            119.49145916,
+            32.48451875
+          ],
+          [
+            119.49770775,
+            32.49655661
+          ],
+          [
+            119.50264349,
+            32.50830966
+          ],
+          [
+            119.50588477,
+            32.51967756
+          ],
+          [
+            119.50705,
+            32.53056
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-036",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "廣陵驛",
+        "target_name_zh": "邵伯驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-037",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.50705,
+            32.53056
+          ],
+          [
+            119.50598156,
+            32.54771176
+          ],
+          [
+            119.50299546,
+            32.56691852
+          ],
+          [
+            119.49842049,
+            32.5878075
+          ],
+          [
+            119.49258546,
+            32.61000593
+          ],
+          [
+            119.48581919,
+            32.63314103
+          ],
+          [
+            119.47845047,
+            32.65684001
+          ],
+          [
+            119.47080811,
+            32.6807301
+          ],
+          [
+            119.46322092,
+            32.70443853
+          ],
+          [
+            119.45601771,
+            32.72759251
+          ],
+          [
+            119.44952728,
+            32.74981927
+          ],
+          [
+            119.44407844,
+            32.77074602
+          ],
+          [
+            119.44,
+            32.79
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-037",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "邵伯驛",
+        "target_name_zh": "盂城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-038",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.44,
+            32.79
+          ],
+          [
+            119.43767275,
+            32.80589784
+          ],
+          [
+            119.43601691,
+            32.82314212
+          ],
+          [
+            119.43487235,
+            32.84145752
+          ],
+          [
+            119.43407896,
+            32.86056873
+          ],
+          [
+            119.43347659,
+            32.8802004
+          ],
+          [
+            119.43290512,
+            32.90007722
+          ],
+          [
+            119.43220443,
+            32.91992387
+          ],
+          [
+            119.43121437,
+            32.939465
+          ],
+          [
+            119.42977483,
+            32.95842531
+          ],
+          [
+            119.42772568,
+            32.97652946
+          ],
+          [
+            119.42490677,
+            32.99350213
+          ],
+          [
+            119.421158,
+            33.009068
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-038",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "盂城驛",
+        "target_name_zh": "界首驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-039",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.421158,
+            33.009068
+          ],
+          [
+            119.41556784,
+            33.02652654
+          ],
+          [
+            119.40861165,
+            33.04522915
+          ],
+          [
+            119.40049889,
+            33.06490001
+          ],
+          [
+            119.39143902,
+            33.08526332
+          ],
+          [
+            119.38164151,
+            33.10604326
+          ],
+          [
+            119.37131583,
+            33.12696402
+          ],
+          [
+            119.36067143,
+            33.14774977
+          ],
+          [
+            119.34991778,
+            33.16812471
+          ],
+          [
+            119.33926435,
+            33.18781301
+          ],
+          [
+            119.3289206,
+            33.20653887
+          ],
+          [
+            119.31909599,
+            33.22402647
+          ],
+          [
+            119.31,
+            33.24
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-039",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "界首驛",
+        "target_name_zh": "安平驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-040",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.31,
+            33.24
+          ],
+          [
+            119.29889184,
+            33.25917171
+          ],
+          [
+            119.28635326,
+            33.28038102
+          ],
+          [
+            119.27264654,
+            33.30315274
+          ],
+          [
+            119.258034,
+            33.32701167
+          ],
+          [
+            119.24277793,
+            33.35148263
+          ],
+          [
+            119.22714064,
+            33.37609042
+          ],
+          [
+            119.21138442,
+            33.40035985
+          ],
+          [
+            119.19577158,
+            33.42381574
+          ],
+          [
+            119.18056441,
+            33.44598289
+          ],
+          [
+            119.16602523,
+            33.46638611
+          ],
+          [
+            119.15241632,
+            33.48455021
+          ],
+          [
+            119.14,
+            33.5
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-040",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "安平驛",
+        "target_name_zh": "淮陰驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-041",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.14,
+            33.5
+          ],
+          [
+            119.13311569,
+            33.50757763
+          ],
+          [
+            119.12483944,
+            33.51568226
+          ],
+          [
+            119.11540382,
+            33.5241441
+          ],
+          [
+            119.10504139,
+            33.53279333
+          ],
+          [
+            119.09398473,
+            33.54146014
+          ],
+          [
+            119.08246639,
+            33.54997472
+          ],
+          [
+            119.07071894,
+            33.55816725
+          ],
+          [
+            119.05897496,
+            33.56586794
+          ],
+          [
+            119.04746701,
+            33.57290697
+          ],
+          [
+            119.03642765,
+            33.57911453
+          ],
+          [
+            119.02608946,
+            33.58432081
+          ],
+          [
+            119.016685,
+            33.588356
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-041",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "淮陰驛",
+        "target_name_zh": "清口驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-042",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.016685,
+            33.588356
+          ],
+          [
+            118.99484515,
+            33.5959647
+          ],
+          [
+            118.96871334,
+            33.60387762
+          ],
+          [
+            118.93912255,
+            33.61203183
+          ],
+          [
+            118.90690578,
+            33.62036435
+          ],
+          [
+            118.87289602,
+            33.62881225
+          ],
+          [
+            118.83792625,
+            33.63731257
+          ],
+          [
+            118.80282946,
+            33.64580236
+          ],
+          [
+            118.76843866,
+            33.65421866
+          ],
+          [
+            118.73558681,
+            33.66249853
+          ],
+          [
+            118.70510693,
+            33.67057901
+          ],
+          [
+            118.677832,
+            33.67839715
+          ],
+          [
+            118.654595,
+            33.68589
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-042",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "清口驛",
+        "target_name_zh": "桃源驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-043",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.654595,
+            33.68589
+          ],
+          [
+            118.64317846,
+            33.69016136
+          ],
+          [
+            118.63031349,
+            33.69547984
+          ],
+          [
+            118.61631756,
+            33.70168771
+          ],
+          [
+            118.60150816,
+            33.7086272
+          ],
+          [
+            118.58620275,
+            33.71614055
+          ],
+          [
+            118.57071881,
+            33.72407002
+          ],
+          [
+            118.55537384,
+            33.73225785
+          ],
+          [
+            118.54048529,
+            33.74054628
+          ],
+          [
+            118.52637066,
+            33.74877757
+          ],
+          [
+            118.51334741,
+            33.75679396
+          ],
+          [
+            118.50173303,
+            33.76443768
+          ],
+          [
+            118.491845,
+            33.771551
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-043",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "桃源驛",
+        "target_name_zh": "古城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-044",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.491845,
+            33.771551
+          ],
+          [
+            118.47674249,
+            33.78274332
+          ],
+          [
+            118.45936166,
+            33.79525374
+          ],
+          [
+            118.44032438,
+            33.80892522
+          ],
+          [
+            118.42025253,
+            33.8236007
+          ],
+          [
+            118.39976798,
+            33.83912313
+          ],
+          [
+            118.3794926,
+            33.85533544
+          ],
+          [
+            118.36004827,
+            33.87208059
+          ],
+          [
+            118.34205687,
+            33.88920153
+          ],
+          [
+            118.32614027,
+            33.90654119
+          ],
+          [
+            118.31292034,
+            33.92394252
+          ],
+          [
+            118.30301896,
+            33.94124848
+          ],
+          [
+            118.297058,
+            33.958302
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-044",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "古城驛",
+        "target_name_zh": "鍾吾驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-045",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.297058,
+            33.958302
+          ],
+          [
+            118.29286506,
+            33.98795227
+          ],
+          [
+            118.291842,
+            34.02310297
+          ],
+          [
+            118.29347595,
+            34.06265292
+          ],
+          [
+            118.29725405,
+            34.10550096
+          ],
+          [
+            118.30266343,
+            34.15054592
+          ],
+          [
+            118.30919122,
+            34.19668662
+          ],
+          [
+            118.31632455,
+            34.2428219
+          ],
+          [
+            118.32355056,
+            34.28785059
+          ],
+          [
+            118.33035638,
+            34.33067151
+          ],
+          [
+            118.33622914,
+            34.3701835
+          ],
+          [
+            118.34065597,
+            34.40528539
+          ],
+          [
+            118.343124,
+            34.434876
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-045",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "鍾吾驛",
+        "target_name_zh": "紅花埠驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-046",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.343124,
+            34.434876
+          ],
+          [
+            118.34327498,
+            34.44842983
+          ],
+          [
+            118.34256415,
+            34.46302231
+          ],
+          [
+            118.34118217,
+            34.47844401
+          ],
+          [
+            118.33931968,
+            34.4944855
+          ],
+          [
+            118.33716734,
+            34.51093738
+          ],
+          [
+            118.33491581,
+            34.52759022
+          ],
+          [
+            118.33275573,
+            34.54423461
+          ],
+          [
+            118.33087776,
+            34.56066112
+          ],
+          [
+            118.32947255,
+            34.57666033
+          ],
+          [
+            118.32873075,
+            34.59202283
+          ],
+          [
+            118.32884301,
+            34.60653919
+          ],
+          [
+            118.33,
+            34.62
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-046",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "紅花埠驛",
+        "target_name_zh": "在城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-047",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.33,
+            34.62
+          ],
+          [
+            118.33352641,
+            34.6393284
+          ],
+          [
+            118.33888576,
+            34.66051256
+          ],
+          [
+            118.34567687,
+            34.68317672
+          ],
+          [
+            118.35349854,
+            34.70694516
+          ],
+          [
+            118.36194958,
+            34.73144214
+          ],
+          [
+            118.3706288,
+            34.75629192
+          ],
+          [
+            118.379135,
+            34.78111876
+          ],
+          [
+            118.38706699,
+            34.80554692
+          ],
+          [
+            118.39402358,
+            34.82920066
+          ],
+          [
+            118.39960357,
+            34.85170424
+          ],
+          [
+            118.40340578,
+            34.87268194
+          ],
+          [
+            118.405029,
+            34.891758
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-047",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "在城驛",
+        "target_name_zh": "李家莊驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-048",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.405029,
+            34.891758
+          ],
+          [
+            118.40420541,
+            34.90523312
+          ],
+          [
+            118.40138771,
+            34.91950979
+          ],
+          [
+            118.39692347,
+            34.93442273
+          ],
+          [
+            118.39116026,
+            34.94980667
+          ],
+          [
+            118.38444565,
+            34.96549631
+          ],
+          [
+            118.37712721,
+            34.98132638
+          ],
+          [
+            118.36955251,
+            34.99713159
+          ],
+          [
+            118.36206911,
+            35.01274667
+          ],
+          [
+            118.3550246,
+            35.02800634
+          ],
+          [
+            118.34876653,
+            35.0427453
+          ],
+          [
+            118.34364247,
+            35.05679828
+          ],
+          [
+            118.34,
+            35.07
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-048",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "李家莊驛",
+        "target_name_zh": "在城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-049",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.34,
+            35.07
+          ],
+          [
+            118.33646398,
+            35.08944684
+          ],
+          [
+            118.33372743,
+            35.11094316
+          ],
+          [
+            118.33158389,
+            35.13408117
+          ],
+          [
+            118.32982693,
+            35.15845306
+          ],
+          [
+            118.32825011,
+            35.18365104
+          ],
+          [
+            118.32664698,
+            35.2092673
+          ],
+          [
+            118.3248111,
+            35.23489404
+          ],
+          [
+            118.32253603,
+            35.26012347
+          ],
+          [
+            118.31961532,
+            35.28454778
+          ],
+          [
+            118.31584254,
+            35.30775917
+          ],
+          [
+            118.31101125,
+            35.32934985
+          ],
+          [
+            118.304915,
+            35.348912
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-049",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "在城驛",
+        "target_name_zh": "徐公店驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-050",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.304915,
+            35.348912
+          ],
+          [
+            118.29830054,
+            35.36475519
+          ],
+          [
+            118.28984945,
+            35.38171679
+          ],
+          [
+            118.27982873,
+            35.39950774
+          ],
+          [
+            118.26850538,
+            35.417839
+          ],
+          [
+            118.25614638,
+            35.43642153
+          ],
+          [
+            118.24301874,
+            35.45496628
+          ],
+          [
+            118.22938945,
+            35.47318421
+          ],
+          [
+            118.2155255,
+            35.49078628
+          ],
+          [
+            118.20169388,
+            35.50748344
+          ],
+          [
+            118.1881616,
+            35.52298664
+          ],
+          [
+            118.17519564,
+            35.53700684
+          ],
+          [
+            118.163063,
+            35.549255
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-050",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "徐公店驛",
+        "target_name_zh": "垛莊驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-051",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.163063,
+            35.549255
+          ],
+          [
+            118.14881395,
+            35.56190837
+          ],
+          [
+            118.13175972,
+            35.57523415
+          ],
+          [
+            118.11245236,
+            35.58908814
+          ],
+          [
+            118.09144388,
+            35.60332614
+          ],
+          [
+            118.06928633,
+            35.61780394
+          ],
+          [
+            118.04653174,
+            35.63237734
+          ],
+          [
+            118.02373213,
+            35.64690214
+          ],
+          [
+            118.00143954,
+            35.66123413
+          ],
+          [
+            117.980206,
+            35.67522912
+          ],
+          [
+            117.96058354,
+            35.68874289
+          ],
+          [
+            117.9431242,
+            35.70163125
+          ],
+          [
+            117.92838,
+            35.71375
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-051",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "垛莊驛",
+        "target_name_zh": "在城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-052",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.92838,
+            35.71375
+          ],
+          [
+            117.91542998,
+            35.72624023
+          ],
+          [
+            117.90188356,
+            35.74104957
+          ],
+          [
+            117.88784194,
+            35.75769151
+          ],
+          [
+            117.87340631,
+            35.77567951
+          ],
+          [
+            117.85867786,
+            35.79452708
+          ],
+          [
+            117.84375779,
+            35.81374768
+          ],
+          [
+            117.82874728,
+            35.83285479
+          ],
+          [
+            117.81374754,
+            35.85136191
+          ],
+          [
+            117.79885974,
+            35.86878251
+          ],
+          [
+            117.78418509,
+            35.88463007
+          ],
+          [
+            117.76982478,
+            35.89841807
+          ],
+          [
+            117.75588,
+            35.90966
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-052",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "在城驛",
+        "target_name_zh": "在城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-053",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.75588,
+            35.90966
+          ],
+          [
+            117.7431581,
+            35.91756272
+          ],
+          [
+            117.72764465,
+            35.92531386
+          ],
+          [
+            117.70987766,
+            35.93290936
+          ],
+          [
+            117.69039515,
+            35.94034519
+          ],
+          [
+            117.66973511,
+            35.94761731
+          ],
+          [
+            117.64843555,
+            35.95472169
+          ],
+          [
+            117.62703449,
+            35.96165427
+          ],
+          [
+            117.60606992,
+            35.96841103
+          ],
+          [
+            117.58607987,
+            35.97498792
+          ],
+          [
+            117.56760232,
+            35.98138091
+          ],
+          [
+            117.5511753,
+            35.98758595
+          ],
+          [
+            117.5373368,
+            35.993599
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-053",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "在城驛",
+        "target_name_zh": "楊柳店驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-054",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.5373368,
+            35.993599
+          ],
+          [
+            117.50032416,
+            36.01112806
+          ],
+          [
+            117.45562894,
+            36.03209209
+          ],
+          [
+            117.40485963,
+            36.05589722
+          ],
+          [
+            117.34962469,
+            36.08194954
+          ],
+          [
+            117.29153261,
+            36.10965517
+          ],
+          [
+            117.23219187,
+            36.1384202
+          ],
+          [
+            117.17321093,
+            36.16765075
+          ],
+          [
+            117.11619827,
+            36.19675293
+          ],
+          [
+            117.06276238,
+            36.22513283
+          ],
+          [
+            117.01451171,
+            36.25219657
+          ],
+          [
+            116.97305476,
+            36.27735026
+          ],
+          [
+            116.94,
+            36.3
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-054",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "楊柳店驛",
+        "target_name_zh": "長城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-055",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.94,
+            36.3
+          ],
+          [
+            116.92697141,
+            36.31168859
+          ],
+          [
+            116.91482013,
+            36.32624194
+          ],
+          [
+            116.90349089,
+            36.34317939
+          ],
+          [
+            116.89292841,
+            36.3620203
+          ],
+          [
+            116.88307741,
+            36.38228402
+          ],
+          [
+            116.87388262,
+            36.40348989
+          ],
+          [
+            116.86528878,
+            36.42515727
+          ],
+          [
+            116.85724059,
+            36.44680551
+          ],
+          [
+            116.8496828,
+            36.46795395
+          ],
+          [
+            116.84256011,
+            36.48812194
+          ],
+          [
+            116.83581727,
+            36.50682884
+          ],
+          [
+            116.829399,
+            36.523594
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-055",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "長城驛",
+        "target_name_zh": "崮山驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-056",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.829399,
+            36.523594
+          ],
+          [
+            116.82482579,
+            36.53605297
+          ],
+          [
+            116.82050687,
+            36.54975037
+          ],
+          [
+            116.81638834,
+            36.56443726
+          ],
+          [
+            116.81241624,
+            36.57986468
+          ],
+          [
+            116.80853667,
+            36.5957837
+          ],
+          [
+            116.80469568,
+            36.61194536
+          ],
+          [
+            116.80083934,
+            36.62810073
+          ],
+          [
+            116.79691373,
+            36.64400086
+          ],
+          [
+            116.79286493,
+            36.65939679
+          ],
+          [
+            116.78863899,
+            36.67403959
+          ],
+          [
+            116.78418199,
+            36.68768031
+          ],
+          [
+            116.77944,
+            36.70007
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-056",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "崮山驛",
+        "target_name_zh": "晏城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-057",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.77944,
+            36.70007
+          ],
+          [
+            116.77185686,
+            36.71794716
+          ],
+          [
+            116.76334473,
+            36.73757964
+          ],
+          [
+            116.75401843,
+            36.75858068
+          ],
+          [
+            116.74399279,
+            36.78056351
+          ],
+          [
+            116.73338262,
+            36.80314136
+          ],
+          [
+            116.72230275,
+            36.82592746
+          ],
+          [
+            116.71086799,
+            36.84853504
+          ],
+          [
+            116.69919316,
+            36.87057733
+          ],
+          [
+            116.68739307,
+            36.89166757
+          ],
+          [
+            116.67558256,
+            36.91141899
+          ],
+          [
+            116.66387644,
+            36.92944482
+          ],
+          [
+            116.65238953,
+            36.94535828
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-057",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "晏城驛",
+        "target_name_zh": "劉普驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-058",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.65238953,
+            36.94535828
+          ],
+          [
+            116.63889479,
+            36.961231
+          ],
+          [
+            116.62247327,
+            36.9779933
+          ],
+          [
+            116.60371851,
+            36.99547334
+          ],
+          [
+            116.58322402,
+            37.01349929
+          ],
+          [
+            116.56158332,
+            37.03189933
+          ],
+          [
+            116.53938992,
+            37.05050161
+          ],
+          [
+            116.51723735,
+            37.06913432
+          ],
+          [
+            116.49571912,
+            37.08762561
+          ],
+          [
+            116.47542875,
+            37.10580365
+          ],
+          [
+            116.45695976,
+            37.12349662
+          ],
+          [
+            116.44090567,
+            37.14053268
+          ],
+          [
+            116.42786,
+            37.15674
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-058",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "劉普驛",
+        "target_name_zh": "桃園驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-059",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.42786,
+            37.15674
+          ],
+          [
+            116.41497459,
+            37.17606693
+          ],
+          [
+            116.40216414,
+            37.19791948
+          ],
+          [
+            116.38947061,
+            37.22182623
+          ],
+          [
+            116.37693597,
+            37.24731579
+          ],
+          [
+            116.36460219,
+            37.27391675
+          ],
+          [
+            116.35251122,
+            37.30115771
+          ],
+          [
+            116.34070503,
+            37.32856727
+          ],
+          [
+            116.32922559,
+            37.35567402
+          ],
+          [
+            116.31811485,
+            37.38200656
+          ],
+          [
+            116.30741479,
+            37.40709349
+          ],
+          [
+            116.29716737,
+            37.4304634
+          ],
+          [
+            116.28741455,
+            37.4516449
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-059",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "桃園驛",
+        "target_name_zh": "安德驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-060",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.28741455,
+            37.4516449
+          ],
+          [
+            116.28299743,
+            37.46840102
+          ],
+          [
+            116.27971197,
+            37.4867793
+          ],
+          [
+            116.27732638,
+            37.50645348
+          ],
+          [
+            116.27560886,
+            37.52709733
+          ],
+          [
+            116.27432759,
+            37.54838462
+          ],
+          [
+            116.27325077,
+            37.56998909
+          ],
+          [
+            116.2721466,
+            37.5915845
+          ],
+          [
+            116.27078329,
+            37.61284463
+          ],
+          [
+            116.26892901,
+            37.63344321
+          ],
+          [
+            116.26635198,
+            37.65305402
+          ],
+          [
+            116.26282038,
+            37.67135082
+          ],
+          [
+            116.25810242,
+            37.68800735
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-060",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "安德驛",
+        "target_name_zh": "東光驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-061",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.25810242,
+            37.68800735
+          ],
+          [
+            116.25195236,
+            37.7017445
+          ],
+          [
+            116.2430615,
+            37.7162057
+          ],
+          [
+            116.2320721,
+            37.73124341
+          ],
+          [
+            116.21962642,
+            37.74671007
+          ],
+          [
+            116.20636673,
+            37.76245813
+          ],
+          [
+            116.19293529,
+            37.77834004
+          ],
+          [
+            116.17997436,
+            37.79420824
+          ],
+          [
+            116.16812622,
+            37.80991518
+          ],
+          [
+            116.15803312,
+            37.82531331
+          ],
+          [
+            116.15033733,
+            37.84025508
+          ],
+          [
+            116.14568111,
+            37.85459293
+          ],
+          [
+            116.14470673,
+            37.86817932
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-061",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "東光驛",
+        "target_name_zh": "阜城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-062",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.14470673,
+            37.86817932
+          ],
+          [
+            116.14845354,
+            37.88099923
+          ],
+          [
+            116.15691481,
+            37.89360021
+          ],
+          [
+            116.16911008,
+            37.90602533
+          ],
+          [
+            116.18405885,
+            37.91831766
+          ],
+          [
+            116.20078066,
+            37.93052028
+          ],
+          [
+            116.21829502,
+            37.94267624
+          ],
+          [
+            116.23562146,
+            37.95482861
+          ],
+          [
+            116.2517795,
+            37.96702047
+          ],
+          [
+            116.26578866,
+            37.97929487
+          ],
+          [
+            116.27666847,
+            37.9916949
+          ],
+          [
+            116.28343844,
+            38.00426361
+          ],
+          [
+            116.2851181,
+            38.01704407
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-062",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "阜城驛",
+        "target_name_zh": "富莊驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-063",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.2851181,
+            38.01704407
+          ],
+          [
+            116.28127164,
+            38.03024246
+          ],
+          [
+            116.27268832,
+            38.04397556
+          ],
+          [
+            116.26022529,
+            38.05815239
+          ],
+          [
+            116.24473968,
+            38.07268194
+          ],
+          [
+            116.22708863,
+            38.08747322
+          ],
+          [
+            116.20812929,
+            38.10243522
+          ],
+          [
+            116.18871878,
+            38.11747696
+          ],
+          [
+            116.16971425,
+            38.13250743
+          ],
+          [
+            116.15197284,
+            38.14743564
+          ],
+          [
+            116.13635168,
+            38.16217059
+          ],
+          [
+            116.12370791,
+            38.17662128
+          ],
+          [
+            116.11489868,
+            38.19069672
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-063",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "富莊驛",
+        "target_name_zh": "樂城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-064",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.11489868,
+            38.19069672
+          ],
+          [
+            116.10810748,
+            38.20726734
+          ],
+          [
+            116.10248391,
+            38.22565669
+          ],
+          [
+            116.09791463,
+            38.24552897
+          ],
+          [
+            116.0942863,
+            38.26654833
+          ],
+          [
+            116.09148559,
+            38.28837895
+          ],
+          [
+            116.08939914,
+            38.31068502
+          ],
+          [
+            116.08791363,
+            38.3331307
+          ],
+          [
+            116.08691571,
+            38.35538017
+          ],
+          [
+            116.08629204,
+            38.37709761
+          ],
+          [
+            116.08592928,
+            38.39794718
+          ],
+          [
+            116.08571409,
+            38.41759308
+          ],
+          [
+            116.08553314,
+            38.43569946
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-064",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "樂城驛",
+        "target_name_zh": "瀛海驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-065",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.08553314,
+            38.43569946
+          ],
+          [
+            116.08567132,
+            38.46491316
+          ],
+          [
+            116.08661256,
+            38.49835861
+          ],
+          [
+            116.08820624,
+            38.53510312
+          ],
+          [
+            116.09030177,
+            38.57421403
+          ],
+          [
+            116.09274854,
+            38.61475866
+          ],
+          [
+            116.09539595,
+            38.65580431
+          ],
+          [
+            116.0980934,
+            38.69641833
+          ],
+          [
+            116.10069027,
+            38.73566802
+          ],
+          [
+            116.10303597,
+            38.77262071
+          ],
+          [
+            116.1049799,
+            38.80634373
+          ],
+          [
+            116.10637144,
+            38.83590438
+          ],
+          [
+            116.10706,
+            38.86037
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-065",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "瀛海驛",
+        "target_name_zh": "鄚城驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-066",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.10706,
+            38.86037
+          ],
+          [
+            116.10705186,
+            38.86887534
+          ],
+          [
+            116.1068144,
+            38.8780524
+          ],
+          [
+            116.10635162,
+            38.88776079
+          ],
+          [
+            116.10566751,
+            38.8978601
+          ],
+          [
+            116.10476604,
+            38.90820993
+          ],
+          [
+            116.10365121,
+            38.91866989
+          ],
+          [
+            116.102327,
+            38.92909956
+          ],
+          [
+            116.10079739,
+            38.93935855
+          ],
+          [
+            116.09906638,
+            38.94930646
+          ],
+          [
+            116.09713795,
+            38.95880288
+          ],
+          [
+            116.09501608,
+            38.96770742
+          ],
+          [
+            116.09270477,
+            38.97587967
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-066",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "鄚城驛",
+        "target_name_zh": "歸義驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-067",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.09270477,
+            38.97587967
+          ],
+          [
+            116.08696985,
+            38.99268591
+          ],
+          [
+            116.07955141,
+            39.01197
+          ],
+          [
+            116.0707894,
+            39.03329947
+          ],
+          [
+            116.06102379,
+            39.05624184
+          ],
+          [
+            116.05059453,
+            39.08036466
+          ],
+          [
+            116.03984158,
+            39.10523543
+          ],
+          [
+            116.0291049,
+            39.13042169
+          ],
+          [
+            116.01872445,
+            39.15549097
+          ],
+          [
+            116.00904018,
+            39.18001079
+          ],
+          [
+            116.00039206,
+            39.20354869
+          ],
+          [
+            115.99312004,
+            39.22567218
+          ],
+          [
+            115.98756409,
+            39.24594879
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-067",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "歸義驛",
+        "target_name_zh": "汾水驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-068",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.98756409,
+            39.24594879
+          ],
+          [
+            115.98350662,
+            39.26348281
+          ],
+          [
+            115.97938542,
+            39.28258755
+          ],
+          [
+            115.97536108,
+            39.3029447
+          ],
+          [
+            115.97159421,
+            39.324236
+          ],
+          [
+            115.96824541,
+            39.34614312
+          ],
+          [
+            115.96547527,
+            39.3683478
+          ],
+          [
+            115.9634444,
+            39.39053173
+          ],
+          [
+            115.96231339,
+            39.41237663
+          ],
+          [
+            115.96224285,
+            39.43356419
+          ],
+          [
+            115.96339337,
+            39.45377614
+          ],
+          [
+            115.96592555,
+            39.47269417
+          ],
+          [
+            115.97,
+            39.49
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-068",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "汾水驛",
+        "target_name_zh": "涿鹿驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-069",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.97,
+            39.49
+          ],
+          [
+            115.97699465,
+            39.50970462
+          ],
+          [
+            115.98644042,
+            39.53079008
+          ],
+          [
+            115.99797309,
+            39.5529094
+          ],
+          [
+            116.01122845,
+            39.57571558
+          ],
+          [
+            116.02584228,
+            39.59886163
+          ],
+          [
+            116.04145036,
+            39.62200056
+          ],
+          [
+            116.05768848,
+            39.64478536
+          ],
+          [
+            116.07419241,
+            39.66686906
+          ],
+          [
+            116.09059794,
+            39.68790466
+          ],
+          [
+            116.10654086,
+            39.70754516
+          ],
+          [
+            116.12165694,
+            39.72544357
+          ],
+          [
+            116.13558197,
+            39.7412529
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-069",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "涿鹿驛",
+        "target_name_zh": "固節驛",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-CONTEXT-070",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.13558197,
+            39.7412529
+          ],
+          [
+            116.14934815,
+            39.75550474
+          ],
+          [
+            116.16585277,
+            39.7709601
+          ],
+          [
+            116.18457988,
+            39.78734497
+          ],
+          [
+            116.20501352,
+            39.80438536
+          ],
+          [
+            116.22663775,
+            39.82180727
+          ],
+          [
+            116.24893662,
+            39.83933669
+          ],
+          [
+            116.27139418,
+            39.85669963
+          ],
+          [
+            116.29349447,
+            39.87362208
+          ],
+          [
+            116.31472155,
+            39.88983004
+          ],
+          [
+            116.33455946,
+            39.90504952
+          ],
+          [
+            116.35249226,
+            39.9190065
+          ],
+          [
+            116.368004,
+            39.931427
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4 hydrographic hybrid",
+        "feature_type": "route_segment",
+        "id": "FIG4-CONTEXT-070",
+        "route_name": "Fujian-Beijing corridor context",
+        "source_name_zh": "固節驛",
+        "target_name_zh": "北京",
+        "geometry_basis": "Mun Ho-gyeom corridor sequence and Shandong eastern continuation",
+        "source_summary": "Hydrographic hybrid retained because Figure 4 follows the Grand Canal corridor."
+      }
+    }
+  ]
+}

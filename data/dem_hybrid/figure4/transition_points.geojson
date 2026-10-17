@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FIG4-B-31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61862183,
+          31.31270981
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4",
+        "feature_type": "place",
+        "historical_prefecture": "蘇州府",
+        "historical_county": "元和縣",
+        "coordinate_basis": "Suzhou prefectural-seat and Gusu Station correspondence",
+        "coordinate_confidence": "researcher_approved_proxy",
+        "coordinate_status": "승인된 수륙 전환 구역 대체점",
+        "id": "FIG4-B-31",
+        "Chinese Name": "姑蘇驛（蘇州府城）",
+        "display_name": "Gusu Station (Suzhou Prefectural Seat) 姑蘇驛（蘇州府城）",
+        "marker_role": "transition",
+        "comparison_no": 31,
+        "source_summary": "Recorded disembarkation point matched to the Huidian zeli station sequence."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4-B-38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44,
+          32.79
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4",
+        "feature_type": "place",
+        "historical_zhou": "高郵州",
+        "coordinate_basis": "appendix_sequence_and_exact_name",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "검토용 후보 - 미채택",
+        "id": "FIG4-B-38",
+        "Chinese Name": "盂城驛",
+        "display_name": "Yucheng Station 盂城驛",
+        "marker_role": "transition",
+        "comparison_no": 38,
+        "source_summary": "Recorded disembarkation point matched to the Huidian zeli station sequence."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG4:PL-QINGKOU-TRANSITION",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.016685,
+          33.588356
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 4",
+        "feature_type": "place",
+        "historical_county": "清河縣",
+        "coordinate_basis": "county-seat/administrative point candidate",
+        "coordinate_confidence": "researcher_approved_single_transition_proxy",
+        "coordinate_status": "《驛程》 清口驛 위치를 수로·육로 공통 전환점으로 사용",
+        "id": "FIG4:PL-QINGKOU-TRANSITION",
+        "Chinese Name": "清口驛（清江浦）",
+        "display_name": "Qingkou Station (Qingjiangpu) 清口驛（清江浦）",
+        "marker_role": "single_mode_transition_proxy",
+        "comparison_no": 42,
+        "source_summary": "Recorded disembarkation point matched to the Huidian zeli station sequence."
+      }
+    }
+  ]
+}

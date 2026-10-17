@@ -4,6 +4,8 @@ Anonymous pre-publication companion maps prepared for peer review.
 
 The site contains only the layers rendered in Figures 2, 3, and 4 of the associated article draft. Route lines and station locations are scholarly reconstructions and should not be interpreted as exact travelled alignments or surveyed station sites.
 
+Separately named DEM-hybrid scenes preserve the original figure layers while showing first-pass terrain candidates for comparison. These experimental lines are not adopted historical road alignments.
+
 ## Figures
 
 - Figure 2 compares two reconstructed repatriation routes and their shared official-network section.

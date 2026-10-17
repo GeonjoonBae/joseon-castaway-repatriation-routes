@@ -372,6 +372,11 @@
       "source_name_zh": "Start Place",
       "target_name_zh": "End Place",
       "geometry_basis": "Geometry Basis",
+      "geometry_grade": "Geometry Grade",
+      "analysis_cell_size_m": "DEM Cell Size (m)",
+      "path_km": "Modelled Path (km)",
+      "path_straight_ratio": "Path/Straight Ratio",
+      "dem_adoption_status": "DEM Candidate Status",
       "source_summary": "Source Summary",
       "name_pinyin": "Romanized Name"
     },
@@ -437,6 +442,11 @@
       "source_name_zh": "시점",
       "target_name_zh": "종점",
       "geometry_basis": "선형 근거",
+      "geometry_grade": "선형 근거 등급",
+      "analysis_cell_size_m": "DEM 격자 크기(m)",
+      "path_km": "모델 경로(km)",
+      "path_straight_ratio": "경로/직선 비율",
+      "dem_adoption_status": "DEM 후보 상태",
       "source_summary": "출처 요약",
       "name_pinyin": "로마자명"
     }
@@ -750,6 +760,7 @@
     var preferred = [
       "display_name", FIELD.id, FIELD.hanja, FIELD.korean, "NM_KOR", "NM_CHN", "feature_type",
       "route_name", "sequence", "source_name_zh", "target_name_zh", "source_summary", "geometry_basis",
+      "geometry_grade", "analysis_cell_size_m", "path_km", "path_straight_ratio", "dem_adoption_status",
       "name_pinyin", "SEQ", "TYPE_NAME", "NOTE",
       "historical_province", "historical_prefecture", "historical_zhou", "historical_county",
       "historical_admin_basis", "coordinate_candidate_name", "coordinate_candidate_admin",

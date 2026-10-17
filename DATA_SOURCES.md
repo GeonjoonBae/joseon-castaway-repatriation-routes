@@ -18,6 +18,17 @@ The DEM-hillshade tiles used by the viewer derive from the project CHGIS Version
 
 The Figure 3 waterway reconstruction uses a Natural Earth Yangtze centreline together with the project Grand Canal reference geometry. Natural Earth data are available at <https://www.naturalearthdata.com/>.
 
+## DEM candidate routes
+
+The separately named DEM-hybrid layers use the Copernicus DEM GLO-30 Public 2021 digital surface model, downloaded from the Registry of Open Data on AWS. The 30 m source tiles were resampled to a 90 m working grid and evaluated with a slope-only anisotropic least-cost model equivalent to the GRASS `r.walk` walking-cost equation.
+
+Copernicus DEM source and documentation:
+
+- <https://registry.opendata.aws/copernicus-dem/>
+- <https://copernicus-dem-30m.s3.amazonaws.com/readme.html>
+
+The DEM output is a first-pass terrain-accessibility candidate. It does not by itself identify a Qing postal road and has not been promoted to a source-corroborated route geometry.
+
 ## Accuracy statement
 
 - Route lines are generalized analytical connections.
@@ -25,3 +36,4 @@ The Figure 3 waterway reconstruction uses a Natural Earth Yangtze centreline tog
 - Some station points use historical administrative seats as spatial proxies.
 - Coordinate confidence and coordinate basis are retained in public popups when available.
 - Figure 4's corridor band expresses a shared transport corridor rather than a measurable road width.
+- DEM-hybrid layers model terrain accessibility and remain separate from the publication geometry pending hydrographic and historical-source review.

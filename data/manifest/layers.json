@@ -338,6 +338,183 @@
       },
       "pane": "keyStopPane",
       "feature_count": 3
+    },
+    {
+      "id": "figure2_dem_mun_sundeuk_lines",
+      "title": "Mun Sundeuk group — DEM candidate",
+      "title_en": "Mun Sundeuk group — DEM candidate",
+      "title_ko": "문순득 일행 — DEM 후보",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure2/mun_sundeuk_lines.geojson",
+      "style": {
+        "color": "#c2410c",
+        "weight": 4.7,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 61
+    },
+    {
+      "id": "figure2_dem_mun_hogyeom_lines",
+      "title": "Mun Ho-gyeom group — DEM candidate",
+      "title_en": "Mun Ho-gyeom group — DEM candidate",
+      "title_ko": "문호겸 일행 — DEM 후보",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure2/mun_hogyeom_lines.geojson",
+      "style": {
+        "color": "#2563eb",
+        "weight": 4.7,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 59
+    },
+    {
+      "id": "figure2_dem_shared_lines",
+      "title": "Shared official-network section — DEM candidate",
+      "title_en": "Shared official-network section — DEM candidate",
+      "title_ko": "공통 역참망 — DEM 후보",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure2/shared_lines.geojson",
+      "style": {
+        "color": "#312e81",
+        "weight": 5.2,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 43
+    },
+    {
+      "id": "figure3_dem_official_baseline_lines",
+      "title": "Guangzhou-Beijing baseline — DEM candidate",
+      "title_en": "Guangzhou-Beijing baseline — DEM candidate",
+      "title_ko": "광저우-베이징 역참로 — DEM 후보",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure3/official_baseline_lines.geojson",
+      "style": {
+        "color": "#d81b60",
+        "weight": 4,
+        "opacity": 0.9,
+        "dashArray": "4 8"
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 75
+    },
+    {
+      "id": "figure3_dem_central_continuation_lines",
+      "title": "Shandong central route — DEM candidate",
+      "title_en": "Shandong central route — DEM candidate",
+      "title_ko": "산동중로 — DEM 후보",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure3/central_route_lines.geojson",
+      "style": {
+        "color": "#c2410c",
+        "weight": 5,
+        "opacity": 0.97
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 28
+    },
+    {
+      "id": "figure3_dem_eastern_continuation_lines",
+      "title": "Possible Shandong eastern route — DEM candidate",
+      "title_en": "Possible Shandong eastern route — DEM candidate",
+      "title_ko": "산동동로 — DEM 후보",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure3/eastern_route_lines.geojson",
+      "style": {
+        "color": "#0057d9",
+        "weight": 4.5,
+        "opacity": 0.95,
+        "dashArray": "4 8"
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 30
+    },
+    {
+      "id": "figure4_dem_corridor_band_lines",
+      "title": "Fujian corridor band — hydrographic hybrid",
+      "title_en": "Fujian corridor band — hydrographic hybrid",
+      "title_ko": "복건회랑 범위 — 수계 혼합형",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure4/corridor_axis.geojson",
+      "style": {
+        "color": "#0f766e",
+        "weight": 16,
+        "opacity": 0.23
+      },
+      "pane": "figureRoutePane",
+      "searchable": false,
+      "feature_count": 5
+    },
+    {
+      "id": "figure4_dem_corridor_axis_lines",
+      "title": "Waterway-derived corridor axis — hydrographic hybrid",
+      "title_en": "Waterway-derived corridor axis — hydrographic hybrid",
+      "title_ko": "수로 기반 회랑 축 — 수계 혼합형",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure4/corridor_axis.geojson",
+      "style": {
+        "color": "#115e59",
+        "weight": 4.5,
+        "opacity": 0.96
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 5
+    },
+    {
+      "id": "figure4_dem_full_corridor_context_lines",
+      "title": "Fujian-Beijing corridor context — hydrographic hybrid",
+      "title_en": "Fujian-Beijing corridor context — hydrographic hybrid",
+      "title_ko": "복건-북경 회랑 간략도 — 수계 혼합형",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure4/full_corridor_context.geojson",
+      "style": {
+        "color": "#115e59",
+        "weight": 3.2,
+        "opacity": 0.88
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 70
+    },
+    {
+      "id": "figure4_dem_reference_points",
+      "title": "Postal stations — hydrographic hybrid",
+      "title_en": "Postal stations — hydrographic hybrid",
+      "title_ko": "역참 — 수계 혼합형",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure4/station_points.geojson",
+      "style": {
+        "color": "#374151",
+        "radius": 5
+      },
+      "pane": "keyStopPane",
+      "feature_count": 13
+    },
+    {
+      "id": "figure4_dem_transition_points",
+      "title": "Water-land transition points — hydrographic hybrid",
+      "title_en": "Water-land transition points — hydrographic hybrid",
+      "title_ko": "수륙 전환점 — 수계 혼합형",
+      "category": "dem_hybrid",
+      "default_visible": false,
+      "path": "data/dem_hybrid/figure4/transition_points.geojson",
+      "style": {
+        "color": "#c2410c",
+        "radius": 8
+      },
+      "pane": "keyStopPane",
+      "feature_count": 3
     }
   ],
   "scenes": [
@@ -423,6 +600,89 @@
           120.95
         ]
       ]
+    },
+    {
+      "id": "figure2_dem_public",
+      "title": "Figure 2 — DEM candidate",
+      "title_ko": "Figure 2 — DEM 후보",
+      "description": "Separate first-pass terrain candidates; original publication geometry remains available.",
+      "description_ko": "기존 도판을 보존한 별도 1차 지형 후보선.",
+      "visible_layers": [
+        "chgis_1820_lakes",
+        "chgis_1820_province_boundaries",
+        "canal_lines",
+        "figure2_dem_mun_sundeuk_lines",
+        "figure2_dem_mun_hogyeom_lines",
+        "figure2_dem_shared_lines",
+        "figure2_station_context",
+        "figure2_key_places",
+        "figure2_admin_province_points"
+      ],
+      "bounds": [
+        [
+          21.2,
+          112.2
+        ],
+        [
+          42.6,
+          125.3
+        ]
+      ]
+    },
+    {
+      "id": "figure3_dem_public",
+      "title": "Figure 3 — DEM candidate",
+      "title_ko": "Figure 3 — DEM 후보",
+      "description": "Separate first-pass terrain candidates with the established waterway route retained.",
+      "description_ko": "수로 근거선은 유지하고 육로만 계산한 별도 1차 지형 후보선.",
+      "visible_layers": [
+        "chgis_1820_lakes",
+        "chgis_1820_province_boundaries",
+        "canal_lines",
+        "figure3_dem_official_baseline_lines",
+        "figure3_actual_water_route_lines",
+        "figure3_dem_central_continuation_lines",
+        "figure3_dem_eastern_continuation_lines",
+        "figure3_route_points",
+        "figure3_key_places"
+      ],
+      "bounds": [
+        [
+          29.15,
+          115.35
+        ],
+        [
+          37.85,
+          119.85
+        ]
+      ]
+    },
+    {
+      "id": "figure4_dem_hybrid_public",
+      "title": "Figure 4 — hydrographic hybrid",
+      "title_ko": "Figure 4 — 수계 혼합형",
+      "description": "Figure 4 retains the waterway-derived corridor because land DEM routing is not applicable to its principal geometry.",
+      "description_ko": "주요 선형이 운하 회랑이므로 기존 수계 기반 선형을 유지한 도판.",
+      "visible_layers": [
+        "chgis_1820_lakes",
+        "chgis_1820_province_boundaries",
+        "canal_lines",
+        "figure4_dem_corridor_band_lines",
+        "figure4_dem_corridor_axis_lines",
+        "figure4_dem_full_corridor_context_lines",
+        "figure4_dem_reference_points",
+        "figure4_dem_transition_points"
+      ],
+      "bounds": [
+        [
+          30.52,
+          118.1
+        ],
+        [
+          34.08,
+          120.95
+        ]
+      ]
     }
   ],
   "images": [
@@ -440,6 +700,21 @@
       "id": "figure4",
       "title": "Figure 4 publication draft",
       "path": "assets/figures/figure4.png"
+    },
+    {
+      "id": "figure2_dem_hybrid",
+      "title": "Figure 2 DEM-hybrid draft",
+      "path": "assets/figures/figure2_dem_hybrid.png"
+    },
+    {
+      "id": "figure3_dem_hybrid",
+      "title": "Figure 3 DEM-hybrid draft",
+      "path": "assets/figures/figure3_dem_hybrid.png"
+    },
+    {
+      "id": "figure4_dem_hybrid",
+      "title": "Figure 4 hydrographic-hybrid draft",
+      "path": "assets/figures/figure4_dem_hybrid.png"
     }
   ]
 }
