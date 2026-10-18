@@ -302,8 +302,13 @@
         "same_river_component": "False",
         "hydro_candidate_class": "review_disconnected_nearest_rivers",
         "edge_key": "ad2e1518313332a4",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "155,1600,1924",
+        "river_follow_start": "三山驛",
+        "river_follow_end": "芋原驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 閩江 (river_id=2592) 선택; DEM 선 표본과의 평균거리 1612.7m."
       }
     },
     {
@@ -866,8 +871,13 @@
         "same_river_component": "False",
         "hydro_candidate_class": "review_disconnected_nearest_rivers",
         "edge_key": "5bd0b1e750a9c404",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "155,1600,1924",
+        "river_follow_start": "芋原驛",
+        "river_follow_end": "白沙驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 閩江 (river_id=2592) 선택; DEM 선 표본과의 평균거리 373.6m."
       }
     },
     {
@@ -2050,8 +2060,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "eed99f51c231546d",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1600,1923,1924,2668",
+        "river_follow_start": "白沙驛",
+        "river_follow_end": "水口驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 閩江 (river_id=2592) 선택; DEM 선 표본과의 평균거리 716.9m."
       }
     },
     {
@@ -2402,8 +2417,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "fa8014c8551cd69c",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1923,1924,2668",
+        "river_follow_start": "水口驛",
+        "river_follow_end": "黃田驛",
+        "hydro_review_note": "CHGIS 하천 후보 2개; 閩江 (river_id=2592) 선택; DEM 선 표본과의 평균거리 1338.5m. 대안: 古田溪[river_id=2091;coverage=0.85;mean_m=2830.7]. 최근접 평균거리 기준으로 선택."
       }
     },
     {
@@ -2846,8 +2866,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "01b1491d4ae921a2",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1923,1924,2668",
+        "river_follow_start": "黃田驛",
+        "river_follow_end": "嵢峽驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 閩江 (river_id=2592) 선택; DEM 선 표본과의 평균거리 298.2m."
       }
     },
     {
@@ -3322,8 +3347,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "90bf0f15117a0f41",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2672,2673,2674",
+        "river_follow_start": "嵢峽驛",
+        "river_follow_end": "茶洋驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 4740.7m."
       }
     },
     {
@@ -4107,8 +4137,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "2b34639f8a6f321f",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2671,2672,2674,2675",
+        "river_follow_start": "茶洋驛",
+        "river_follow_end": "劍浦驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 306.6m."
       }
     },
     {
@@ -4628,8 +4663,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "e8c98abe562f77d6",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2671,2672,2674,2675",
+        "river_follow_start": "劍浦驛",
+        "river_follow_end": "大橫驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 351.3m."
       }
     },
     {
@@ -5197,8 +5237,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "726634bf35913cb3",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2671",
+        "river_follow_start": "大橫驛",
+        "river_follow_end": "太平驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 1202.9m."
       }
     },
     {
@@ -5698,8 +5743,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "f18635cbb28dff92",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2670,2671",
+        "river_follow_start": "太平驛",
+        "river_follow_end": "城西驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 706.3m."
       }
     },
     {
@@ -6234,8 +6284,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "80800de1383c5e14",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2670,2671,3480",
+        "river_follow_start": "城西驛",
+        "river_follow_end": "葉坊驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 696.1m."
       }
     },
     {
@@ -6958,8 +7013,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "e204aeaba06c8b27",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2670,3479,3480",
+        "river_follow_start": "葉坊驛",
+        "river_follow_end": "建溪驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 507.9m."
       }
     },
     {
@@ -7010,8 +7070,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "9ed559681e39e1a9",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "3479,3480",
+        "river_follow_start": "建溪驛",
+        "river_follow_end": "營頭司驛",
+        "hydro_review_note": "CHGIS 하천 후보 2개; 建溪 (river_id=2591) 선택; DEM 선 표본과의 평균거리 805.3m. 대안: 武溪[river_id=888;coverage=1.00;mean_m=904.5]. 최근접 평균거리 기준으로 선택."
       }
     },
     {
@@ -13410,8 +13475,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "4f75ec61e4a9b252",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "4032,5013,5014",
+        "river_follow_start": "廣濟驛",
+        "river_follow_end": "上航驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 衢江 (river_id=2110) 선택; DEM 선 표본과의 평균거리 403.7m."
       }
     },
     {
@@ -14362,8 +14432,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "f61f796110b22f2b",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "4031,4032,5013,5014",
+        "river_follow_start": "上航驛",
+        "river_follow_end": "亭步驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 衢江 (river_id=2110) 선택; DEM 선 표본과의 평균거리 1480.9m."
       }
     },
     {
@@ -15286,8 +15361,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "c19cd5e30545fcb2",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "4031,5013",
+        "river_follow_start": "亭步驛",
+        "river_follow_end": "瀔水驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 衢江 (river_id=2110) 선택; DEM 선 표본과의 평균거리 576.9m."
       }
     },
     {
@@ -16566,8 +16646,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "6f34a82113849ce6",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2150,2153,2154,3001,3002",
+        "river_follow_start": "瀔水驛",
+        "river_follow_end": "富春驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 東陽江(婺港) (river_id=2602) 선택; DEM 선 표본과의 평균거리 504.1m."
       }
     },
     {
@@ -17486,8 +17571,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "ed4a80bfdbe61628",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "160,2751,2752,2999,3000",
+        "river_follow_start": "富春驛",
+        "river_follow_end": "桐江驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 桐江 (river_id=2611) 선택; DEM 선 표본과의 평균거리 3004.5m."
       }
     },
     {
@@ -18602,8 +18692,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "29abe025248d50cb",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "158,159,1434,1928",
+        "river_follow_start": "桐江驛",
+        "river_follow_end": "會江驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 富春江 (river_id=2603) 선택; DEM 선 표본과의 평균거리 2314.6m."
       }
     },
     {
@@ -19406,8 +19501,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "f6a8d09863a9ed47",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "156,157,158,1434,1928,1929",
+        "river_follow_start": "會江驛",
+        "river_follow_end": "浙江驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 富春江 (river_id=2603) 선택; DEM 선 표본과의 평균거리 1787.4m."
       }
     },
     {
@@ -19742,8 +19842,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "9a69dd2998e32d46",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "5724",
+        "river_follow_start": "浙江驛",
+        "river_follow_end": "武林驛",
+        "hydro_review_note": "CHGIS 하천 후보 2개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 2090.4m. 대안: 錢塘江[river_id=2373;coverage=0.63;mean_m=4014.8]. 최근접 평균거리 기준으로 선택."
       }
     },
     {
@@ -22238,8 +22343,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "674c9686548fb516",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2588,5724",
+        "river_follow_start": "皂林驛",
+        "river_follow_end": "西水驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 3954.6m."
       }
     },
     {
@@ -22854,8 +22964,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "72b51c2a33b497ac",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2588,5277,5724",
+        "river_follow_start": "西水驛",
+        "river_follow_end": "平望驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 1554.2m."
       }
     },
     {
@@ -24491,8 +24606,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "03bc78bf5b71908a",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "P",
+        "selected_river_source_id": "2588,4488,4489,5277",
+        "river_follow_start": "平望驛",
+        "river_follow_end": "姑蘇驛 정남 진입점 (120.61862183, 31.27324915)",
+        "hydro_review_note": "CHGIS 하천 후보 2개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 2930.1m. 대안: 무명[river_id=2643;coverage=0.80;mean_m=3241.8]. 최근접 평균거리 기준으로 선택. 운하를 따르다가 姑蘇驛과 같은 경도의 남측 교차점에서 정북향 직선으로 姑蘇驛에 진입."
       }
     },
     {
@@ -25804,8 +25924,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "aceb749a0b78e9bd",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "P",
+        "selected_river_source_id": "2324,4488,4489",
+        "river_follow_start": "姑蘇驛 정서 재합류점 (120.56412524, 31.31270981)",
+        "river_follow_end": "錫山驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 1790.5m. 姑蘇驛에서 정서향 직선으로 운하에 재합류한 뒤 錫山驛 방향으로 운하 추종."
       }
     },
     {
@@ -26900,8 +27025,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "caabd3d6d0eeecdb",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2324,3567,3568,3583,3584,4489",
+        "river_follow_start": "錫山驛",
+        "river_follow_end": "毗陵驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 396.6m."
       }
     },
     {
@@ -27952,8 +28082,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "b3b25e5008c76c5b",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2325,3567,3568,3583,3584,5395,5822",
+        "river_follow_start": "毗陵驛",
+        "river_follow_end": "雲陽驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 1067.3m."
       }
     },
     {
@@ -28564,8 +28699,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "6a5dc23a3058d656",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2325,4490,5395,5822",
+        "river_follow_start": "雲陽驛",
+        "river_follow_end": "京口驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 運河 (river_id=2775) 선택; DEM 선 표본과의 평균거리 3186.5m."
       }
     },
     {
@@ -29468,8 +29608,13 @@
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "07eafde4ecf7a34d",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "W",
+        "selected_river_source_id": "canal:2325,2336,2337,4490; crossing:river_id=2778:2322,2323,2326,3058,5430",
+        "river_follow_start": "京口驛-남안 운하 말단 (119.39373782, 32.19905853)",
+        "river_follow_end": "북안 운하 시점 (119.39306643, 32.22814178)-廣陵驛",
+        "hydro_review_note": "대하천 횡단 규칙 적용. 京口驛 측 運河(source_fid 2325)를 따라 남안 말단까지 이동하고, lakes 수면을 횡단하여 맞은편 運河(source_fid 4490)에 연결한 뒤 2336 방향으로 廣陵驛까지 추종. 횡단 수계는 大江 river_id=2778."
       }
     },
     {

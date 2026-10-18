@@ -22,7 +22,7 @@
     ilseongnok: "『일성록』"
   };
 
-  var APP_VERSION = "20261018-hydro-review-2";
+  var APP_VERSION = "20261019-hydro-review-3";
 
   var I18N = {
     ko: {
@@ -386,6 +386,11 @@
       "hydro_candidate_class": "Hydrography Review Class",
       "hydro_review_status": "Hydrography Review Status",
       "hydro_review_options": "Review Options",
+      "hydro_review_decision": "Hydrography Decision",
+      "selected_river_source_id": "Selected CHGIS River Feature IDs",
+      "river_follow_start": "River-following Start",
+      "river_follow_end": "River-following End",
+      "hydro_review_note": "Hydrography Decision Note",
       "river_source_id": "CHGIS River Feature ID",
       "river_id": "CHGIS River ID",
       "river_key_id": "CHGIS River Key ID",
@@ -466,6 +471,11 @@
       "hydro_candidate_class": "수계 검토 분류",
       "hydro_review_status": "수계 검토 상태",
       "hydro_review_options": "판정 선택지",
+      "hydro_review_decision": "수계 판정",
+      "selected_river_source_id": "선택 CHGIS 하천 피처 ID",
+      "river_follow_start": "하천 추종 시작",
+      "river_follow_end": "하천 추종 종료",
+      "hydro_review_note": "수계 판정 비고",
       "river_source_id": "CHGIS 하천 피처 ID",
       "river_id": "CHGIS 하천 ID",
       "river_key_id": "CHGIS 하천 키 ID",
