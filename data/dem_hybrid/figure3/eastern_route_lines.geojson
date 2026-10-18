@@ -5100,10 +5100,10 @@
         "hydro_review_status": "decided",
         "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
         "hydro_review_decision": "G",
-        "river_follow_start": "???",
-        "river_follow_end": "????",
-        "hydro_review_note": "???? ?? ??? ?? ???-???? ?? ?? ??? ??? ???-????? DEM ?? ??? ??? ??? ??? ???? ????.",
-        "selected_river_source_id": "lake:LKS_ID=355:??"
+        "river_follow_start": "鍾吾驛",
+        "river_follow_end": "紅花埠驛",
+        "hydro_review_note": "㟃峿驛의 독립 좌표가 없어 鍾吾驛-㟃峿驛의 黃河 인접 일반화 회랑과 㟃峿驛-紅花埠驛의 DEM 유지 구간을 하나의 검토용 일반화 선형으로 표시한다.",
+        "selected_river_source_id": "lake:LKS_ID=355:黃河"
       }
     },
     {

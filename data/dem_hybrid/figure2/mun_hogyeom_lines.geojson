@@ -9423,9 +9423,9 @@
         "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "selected_river_source_id": "",
-        "river_follow_start": "???",
-        "river_follow_end": "???",
-        "hydro_review_note": "DEM ?? ?? ????? ??? ??? ??? ?? ?? ???DEM ?? ?? ??? ????."
+        "river_follow_start": "柘浦驛",
+        "river_follow_end": "小關驛",
+        "hydro_review_note": "DEM 후보 생성 대기열에는 없지만 사용자 결정에 따라 현재 수계·DEM 혼합 후보 선형을 유지한다."
       }
     },
     {
@@ -36561,10 +36561,10 @@
         "target_historical_county": "郯城縣",
         "hydro_review_status": "decided",
         "hydro_review_decision": "G",
-        "selected_river_source_id": "lake:LKS_ID=355:??",
-        "river_follow_start": "???",
-        "river_follow_end": "????",
-        "hydro_review_note": "???? ?? ??? ?? ???-???? ?? ?? ??? ??? ???-????? DEM ?? ??? ??? ??? ??? ???? ????."
+        "selected_river_source_id": "lake:LKS_ID=355:黃河",
+        "river_follow_start": "鍾吾驛",
+        "river_follow_end": "紅花埠驛",
+        "hydro_review_note": "㟃峿驛의 독립 좌표가 없어 鍾吾驛-㟃峿驛의 黃河 인접 일반화 회랑과 㟃峿驛-紅花埠驛의 DEM 유지 구간을 하나의 검토용 일반화 선형으로 표시한다."
       }
     },
     {
@@ -43314,9 +43314,9 @@
         "hydro_review_status": "decided",
         "hydro_review_decision": "D",
         "selected_river_source_id": "",
-        "river_follow_start": "????",
-        "river_follow_end": "???",
-        "hydro_review_note": "????? ?? ??? ?? ??? ??? DEM ?? ??? ????."
+        "river_follow_start": "楊柳店驛",
+        "river_follow_end": "長城驛",
+        "hydro_review_note": "崔家莊驛의 독립 좌표가 없어 결합된 일반화 DEM 후보 선형을 유지한다."
       }
     },
     {
