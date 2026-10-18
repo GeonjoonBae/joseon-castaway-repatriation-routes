@@ -22,7 +22,7 @@
     ilseongnok: "『일성록』"
   };
 
-  var APP_VERSION = "20261018-hydro-review-1";
+  var APP_VERSION = "20261018-hydro-review-2";
 
   var I18N = {
     ko: {
@@ -38,6 +38,7 @@
       labelDensity: "레이블 밀도",
       pointLabels: "점 라벨",
       lineLabels: "선 라벨",
+      riverLayer: "1820년 하천 비교",
       searchPlaceholder: "지명, 한자명, 사료명",
       loading: "데이터 로딩 중",
       noResults: "검색 결과 없음",
@@ -150,6 +151,7 @@
       labelDensity: "Label Density",
       pointLabels: "Point Labels",
       lineLabels: "Line Labels",
+      riverLayer: "1820 Rivers for Route Review",
       searchPlaceholder: "Place name, Chinese characters, source",
       loading: "Loading data",
       noResults: "No results",
@@ -667,7 +669,7 @@
   }
 
   function isLineLayer(def) {
-    return def.id.indexOf("lines") !== -1 || def.id === "route_lines" || def.id === "ming_courier_routes";
+    return def.id.indexOf("lines") !== -1 || def.id === "route_lines" || def.id === "ming_courier_routes" || def.id === "chgis_1820_rivers_review";
   }
 
   function isBoundaryLayer(def) {
@@ -1730,6 +1732,10 @@
     }
     var checkbox = state.parentCheckboxes.get(layerId);
     if (checkbox) checkbox.checked = visible;
+    if (layerId === "chgis_1820_rivers_review") {
+      var riverToggle = qs("river-layer-toggle");
+      if (riverToggle) riverToggle.checked = visible;
+    }
     refreshLayer(layerId);
   }
 
@@ -2198,6 +2204,7 @@
     qs("label-density-title").textContent = t("labelDensity");
     qs("point-label-title").textContent = t("pointLabels");
     qs("line-label-title").textContent = t("lineLabels");
+    qs("river-layer-title").textContent = t("riverLayer");
     updateDensityLabel();
     qs("section-layers").textContent = t("layers");
     qs("section-legend").textContent = t("legend");
@@ -2206,6 +2213,7 @@
     qs("label-density").value = String(state.labelDensity);
     qs("point-label-toggle").checked = state.showPointLabels;
     qs("line-label-toggle").checked = state.showLineLabels;
+    qs("river-layer-toggle").checked = !!state.parentVisible.get("chgis_1820_rivers_review");
     var sidebarLabel = state.sidebarCollapsed ? t("showSidebar") : t("hideSidebar");
     qs("sidebar-toggle").title = sidebarLabel;
     qs("sidebar-toggle").setAttribute("aria-label", sidebarLabel);
@@ -2330,6 +2338,12 @@
     qs("line-label-toggle").addEventListener("change", function (event) {
       state.showLineLabels = event.target.checked;
       updateAllLabels();
+    });
+    qs("river-layer-toggle").addEventListener("change", function (event) {
+      setLayerVisible("chgis_1820_rivers_review", event.target.checked);
+      state.activeScene = null;
+      clearSceneActive();
+      updateStatus(visibleLayerIds().length + " " + t("visibleLayers"));
     });
     qs("language-toggle").addEventListener("click", function () {
       state.lang = state.lang === "en" ? "ko" : "en";
