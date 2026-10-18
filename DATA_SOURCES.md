@@ -8,6 +8,8 @@ The reconstructed postal-station sequences draw primarily on the "Relay Itinerar
 
 Historical administrative boundaries, lakes, administrative-seat coordinates where identified, and the DEM-hillshade background derive from the China Historical Geographic Information System (CHGIS). The map distinguishes administrative-seat proxies from exact station-site identifications where the available evidence permits.
 
+The DEM review scenes also include a route-corridor subset of the CHGIS Version 6 `v6_1820_coded_rvr_lin` layer. Its lines are simplified for web inspection and are provided to compare terrain candidates with historical hydrography; proximity to a river does not by itself establish waterborne travel or an exact road alignment.
+
 Suggested citation:
 
 > CHGIS, Version 6. Cambridge, MA: Harvard Yenching Institute and Fudan Center for Historical Geography, 2016.

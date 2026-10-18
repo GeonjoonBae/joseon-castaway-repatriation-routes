@@ -39,6 +39,23 @@
       "feature_count": 129
     },
     {
+      "id": "chgis_1820_rivers_review",
+      "title": "1820 rivers — route review",
+      "title_en": "1820 rivers — route review",
+      "title_ko": "1820년 하천 — 노선 검토",
+      "category": "hydrography",
+      "default_visible": false,
+      "path": "data/context/rivers.geojson",
+      "style": {
+        "color": "#0284c7",
+        "weight": 1.35,
+        "opacity": 0.82
+      },
+      "pane": "hydrographyPane",
+      "searchable": false,
+      "feature_count": 1031
+    },
+    {
       "id": "chgis_1820_province_boundaries",
       "title": "1820 province boundaries",
       "title_en": "1820 province boundaries",
@@ -604,12 +621,13 @@
       "id": "figure2_dem_public",
       "title": "Figure 2 — DEM candidate",
       "title_ko": "Figure 2 — DEM 후보",
-      "description": "Separate first-pass terrain candidates; original publication geometry remains available.",
-      "description_ko": "기존 도판을 보존한 별도 1차 지형 후보선.",
+      "description": "Manual comparison of first-pass terrain candidates, postal stations, and CHGIS 1820 rivers.",
+      "description_ko": "DEM 후보선·역참점·CHGIS 1820 하천을 육안 대조하는 검토 장면.",
       "visible_layers": [
         "chgis_1820_lakes",
         "chgis_1820_province_boundaries",
         "canal_lines",
+        "chgis_1820_rivers_review",
         "figure2_dem_mun_sundeuk_lines",
         "figure2_dem_mun_hogyeom_lines",
         "figure2_dem_shared_lines",
@@ -632,12 +650,13 @@
       "id": "figure3_dem_public",
       "title": "Figure 3 — DEM candidate",
       "title_ko": "Figure 3 — DEM 후보",
-      "description": "Separate first-pass terrain candidates with the established waterway route retained.",
-      "description_ko": "수로 근거선은 유지하고 육로만 계산한 별도 1차 지형 후보선.",
+      "description": "Manual comparison of first-pass terrain candidates, station points, and CHGIS 1820 rivers.",
+      "description_ko": "DEM 후보선·역참 및 노정점·CHGIS 1820 하천을 육안 대조하는 검토 장면.",
       "visible_layers": [
         "chgis_1820_lakes",
         "chgis_1820_province_boundaries",
         "canal_lines",
+        "chgis_1820_rivers_review",
         "figure3_dem_official_baseline_lines",
         "figure3_actual_water_route_lines",
         "figure3_dem_central_continuation_lines",
@@ -716,4 +735,3 @@
     }
   ]
 }
-

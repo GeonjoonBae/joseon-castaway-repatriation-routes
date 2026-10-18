@@ -22,7 +22,7 @@
     ilseongnok: "『일성록』"
   };
 
-  var APP_VERSION = "20261009-1";
+  var APP_VERSION = "20261018-hydro-review-1";
 
   var I18N = {
     ko: {
@@ -377,6 +377,16 @@
       "path_km": "Modelled Path (km)",
       "path_straight_ratio": "Path/Straight Ratio",
       "dem_adoption_status": "DEM Candidate Status",
+      "edge_key": "Shared Edge Key",
+      "source_river_m": "Start-to-River Distance (m)",
+      "target_river_m": "End-to-River Distance (m)",
+      "same_river_component": "Same Connected River Component",
+      "hydro_candidate_class": "Hydrography Review Class",
+      "hydro_review_status": "Hydrography Review Status",
+      "hydro_review_options": "Review Options",
+      "river_source_id": "CHGIS River Feature ID",
+      "river_id": "CHGIS River ID",
+      "river_key_id": "CHGIS River Key ID",
       "source_summary": "Source Summary",
       "name_pinyin": "Romanized Name"
     },
@@ -447,6 +457,16 @@
       "path_km": "모델 경로(km)",
       "path_straight_ratio": "경로/직선 비율",
       "dem_adoption_status": "DEM 후보 상태",
+      "edge_key": "공유 구간 키",
+      "source_river_m": "시점-최근접 하천 거리(m)",
+      "target_river_m": "종점-최근접 하천 거리(m)",
+      "same_river_component": "동일 연결 수계 여부",
+      "hydro_candidate_class": "수계 검토 분류",
+      "hydro_review_status": "수계 검토 상태",
+      "hydro_review_options": "판정 선택지",
+      "river_source_id": "CHGIS 하천 피처 ID",
+      "river_id": "CHGIS 하천 ID",
+      "river_key_id": "CHGIS 하천 키 ID",
       "source_summary": "출처 요약",
       "name_pinyin": "로마자명"
     }
@@ -2355,4 +2375,3 @@
       updateStatus(t("error") + ": " + error.message);
     });
 }());
-

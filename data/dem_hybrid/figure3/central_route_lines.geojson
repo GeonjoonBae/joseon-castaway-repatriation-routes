@@ -455,7 +455,14 @@
         "path_straight_ratio": 1.0128,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
         "source_historical_county": "山陽縣",
-        "target_historical_county": "清河縣"
+        "target_historical_county": "清河縣",
+        "source_river_m": "1868.2",
+        "target_river_m": "790.1",
+        "same_river_component": "True",
+        "hydro_candidate_class": "strong_connected_river_candidate",
+        "edge_key": "2cf3322ab5fbf1e7",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -2264,7 +2271,14 @@
         "path_straight_ratio": 1.0084,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
         "source_historical_county": "清河縣",
-        "target_historical_county": "宿遷縣"
+        "target_historical_county": "宿遷縣",
+        "source_river_m": "790.1",
+        "target_river_m": "960.9",
+        "same_river_component": "True",
+        "hydro_candidate_class": "strong_connected_river_candidate",
+        "edge_key": "c9cc34e6b484978f",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -3692,7 +3706,14 @@
         "path_km": 65.057,
         "path_straight_ratio": 1.0063,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "source_historical_county": "宿遷縣"
+        "source_historical_county": "宿遷縣",
+        "source_river_m": "960.9",
+        "target_river_m": "744.7",
+        "same_river_component": "True",
+        "hydro_candidate_class": "strong_connected_river_candidate",
+        "edge_key": "b46dacea230a47b7",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -5151,7 +5172,14 @@
         "analysis_cell_size_m": 90,
         "path_km": 48.323,
         "path_straight_ratio": 1.009,
-        "dem_adoption_status": "diagnostic_candidate_not_adopted"
+        "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "source_river_m": "744.7",
+        "target_river_m": "875.6",
+        "same_river_component": "True",
+        "hydro_candidate_class": "strong_connected_river_candidate",
+        "edge_key": "059b5c6f99a6b28d",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -6664,7 +6692,14 @@
         "path_straight_ratio": 1.014,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
         "target_historical_province": "山東",
-        "target_historical_county": "滕縣"
+        "target_historical_county": "滕縣",
+        "source_river_m": "875.6",
+        "target_river_m": "616.4",
+        "same_river_component": "True",
+        "hydro_candidate_class": "strong_connected_river_candidate",
+        "edge_key": "828e1d96ba38d819",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -7095,7 +7130,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "滕縣",
         "target_historical_province": "山東",
-        "target_historical_county": "鄒縣"
+        "target_historical_county": "鄒縣",
+        "source_river_m": "616.4",
+        "target_river_m": "858.2",
+        "same_river_component": "True",
+        "hydro_candidate_class": "strong_connected_river_candidate",
+        "edge_key": "26342fa417cb425c",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -7730,7 +7772,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "鄒縣",
         "target_historical_province": "山東",
-        "target_historical_county": "鄒縣"
+        "target_historical_county": "鄒縣",
+        "source_river_m": "858.2",
+        "target_river_m": "8944.0",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "5857edee0fe3163a",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -8341,7 +8390,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "鄒縣",
         "target_historical_province": "山東",
-        "target_historical_county": "滋陽縣"
+        "target_historical_county": "滋陽縣",
+        "source_river_m": "8944.0",
+        "target_river_m": "1448.2",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "8cb9a787c1cc68f9",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -8840,7 +8896,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "滋陽縣",
         "target_historical_province": "山東",
-        "target_historical_county": "滋陽縣"
+        "target_historical_county": "滋陽縣",
+        "source_river_m": "1448.2",
+        "target_river_m": "4988.7",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "903733b87fefe9aa",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -9271,7 +9334,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "滋陽縣",
         "target_historical_province": "山東",
-        "target_historical_county": "汶上縣"
+        "target_historical_county": "汶上縣",
+        "source_river_m": "4988.7",
+        "target_river_m": "3762.1",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "99bd193ba6f7f879",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -10050,7 +10120,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "汶上縣",
         "target_historical_province": "山東",
-        "target_historical_zhou": "東平州"
+        "target_historical_zhou": "東平州",
+        "source_river_m": "3762.1",
+        "target_river_m": "1491.2",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "696be5213b6e3ac0",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -10769,7 +10846,14 @@
         "source_historical_province": "山東",
         "source_historical_zhou": "東平州",
         "target_historical_province": "山東",
-        "target_historical_county": "東阿縣"
+        "target_historical_county": "東阿縣",
+        "source_river_m": "1491.2",
+        "target_river_m": "3655.3",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "a4a9688d686ef6c0",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -11732,7 +11816,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "東阿縣",
         "target_historical_province": "山東",
-        "target_historical_county": "東阿縣"
+        "target_historical_county": "東阿縣",
+        "source_river_m": "3655.3",
+        "target_river_m": "7021.9",
+        "same_river_component": "False",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "8c0a6cca69b2c48d",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -12979,7 +13070,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "東阿縣",
         "target_historical_province": "山東",
-        "target_historical_county": "荏平縣"
+        "target_historical_county": "荏平縣",
+        "source_river_m": "7021.9",
+        "target_river_m": "9990.8",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "e16c533962f7d134",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -14254,7 +14352,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "荏平縣",
         "target_historical_province": "山東",
-        "target_historical_zhou": "高唐州"
+        "target_historical_zhou": "高唐州",
+        "source_river_m": "9990.8",
+        "target_river_m": "5976.0",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "87e9444da48a0677",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -15521,7 +15626,14 @@
         "source_historical_province": "山東",
         "source_historical_zhou": "高唐州",
         "target_historical_province": "山東",
-        "target_historical_county": "恩縣"
+        "target_historical_county": "恩縣",
+        "source_river_m": "5976.0",
+        "target_river_m": "6436.1",
+        "same_river_component": "False",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "42f96dfd734f97c8",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -16976,7 +17088,14 @@
         "source_historical_province": "山東",
         "source_historical_county": "恩縣",
         "target_historical_province": "山東",
-        "target_historical_zhou": "德州"
+        "target_historical_zhou": "德州",
+        "source_river_m": "6436.1",
+        "target_river_m": "1143.8",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "b7e95f249216e6e4",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -18063,7 +18182,14 @@
         "source_historical_province": "山東",
         "source_historical_zhou": "德州",
         "target_historical_province": "直隸",
-        "target_historical_zhou": "景州"
+        "target_historical_zhou": "景州",
+        "source_river_m": "1143.8",
+        "target_river_m": "6753.3",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "e3834ade7d8862b8",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -18558,7 +18684,14 @@
         "source_historical_province": "直隸",
         "source_historical_zhou": "景州",
         "target_historical_province": "直隸",
-        "target_historical_county": "阜城縣"
+        "target_historical_county": "阜城縣",
+        "source_river_m": "6753.3",
+        "target_river_m": "3450.2",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "25bb826b26126c3f",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -19149,7 +19282,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "阜城縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "交河縣"
+        "target_historical_county": "交河縣",
+        "source_river_m": "3450.2",
+        "target_river_m": "2633.5",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "55fdf844d1d5c30f",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -19840,7 +19980,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "交河縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "獻縣"
+        "target_historical_county": "獻縣",
+        "source_river_m": "2633.5",
+        "target_river_m": "1919.5",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "9bf0cec2df53e377",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -20979,7 +21126,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "獻縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "河閒縣"
+        "target_historical_county": "河閒縣",
+        "source_river_m": "1919.5",
+        "target_river_m": "2706.3",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "c801d0b71086f717",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -23006,7 +23160,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "河閒縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "任邱縣"
+        "target_historical_county": "任邱縣",
+        "source_river_m": "2706.3",
+        "target_river_m": "2043.0",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "f7a8b29252670e7c",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -23561,7 +23722,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "任邱縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "雄縣"
+        "target_historical_county": "雄縣",
+        "source_river_m": "2043.0",
+        "target_river_m": "157.4",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "e3105da099414c40",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -24540,7 +24708,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "雄縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "新城縣"
+        "target_historical_county": "新城縣",
+        "source_river_m": "157.4",
+        "target_river_m": "3775.3",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "9ef75a4b0d325323",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -25731,7 +25906,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "新城縣",
         "target_historical_province": "直隸",
-        "target_historical_zhou": "涿州"
+        "target_historical_zhou": "涿州",
+        "source_river_m": "3775.3",
+        "target_river_m": "1916.1",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "2c59c3b59448ba66",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -26434,7 +26616,14 @@
         "source_historical_province": "直隸",
         "source_historical_zhou": "涿州",
         "target_historical_province": "直隸",
-        "target_historical_county": "良鄉縣"
+        "target_historical_county": "良鄉縣",
+        "source_river_m": "1916.1",
+        "target_river_m": "4539.2",
+        "same_river_component": "True",
+        "hydro_candidate_class": "moderate_connected_river_candidate",
+        "edge_key": "0a534b6f226d54fa",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     },
     {
@@ -27332,7 +27521,14 @@
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
         "source_historical_province": "直隸",
         "source_historical_county": "良鄉縣",
-        "target_historical_province": "直隸"
+        "target_historical_province": "直隸",
+        "source_river_m": "4539.2",
+        "target_river_m": "6264.0",
+        "same_river_component": "True",
+        "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
+        "edge_key": "2847fa7b6b6742cb",
+        "hydro_review_status": "pending_manual_review",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
       }
     }
   ]
