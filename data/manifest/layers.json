@@ -586,7 +586,6 @@
         "canal_lines",
         "figure4_corridor_band_lines",
         "figure4_corridor_axis_lines",
-        "figure4_full_corridor_context_lines",
         "figure4_reference_points",
         "figure4_transition_points"
       ],
@@ -669,7 +668,6 @@
         "canal_lines",
         "figure4_dem_corridor_band_lines",
         "figure4_dem_corridor_axis_lines",
-        "figure4_dem_full_corridor_context_lines",
         "figure4_dem_reference_points",
         "figure4_dem_transition_points"
       ],
@@ -718,3 +716,4 @@
     }
   ]
 }
+
