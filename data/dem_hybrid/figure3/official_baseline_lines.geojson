@@ -62894,8 +62894,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "e3834ade7d8862b8",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "安德驛",
+        "river_follow_end": "東光驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -63396,8 +63400,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "25bb826b26126c3f",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "東光驛",
+        "river_follow_end": "阜城驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -63994,8 +64002,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "55fdf844d1d5c30f",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "阜城驛",
+        "river_follow_end": "富莊驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -64692,8 +64704,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "9bf0cec2df53e377",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "富莊驛",
+        "river_follow_end": "樂城驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -65838,8 +65854,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "c801d0b71086f717",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "樂城驛",
+        "river_follow_end": "瀛海驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -67872,8 +67892,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "f7a8b29252670e7c",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "瀛海驛",
+        "river_follow_end": "鄚城驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -68434,8 +68458,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "e3105da099414c40",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "鄚城驛",
+        "river_follow_end": "歸義驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -69420,8 +69448,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "9ef75a4b0d325323",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "歸義驛",
+        "river_follow_end": "汾水驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -70618,8 +70650,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "2c59c3b59448ba66",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "汾水驛",
+        "river_follow_end": "涿鹿驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -71328,8 +71364,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "0a534b6f226d54fa",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "涿鹿驛",
+        "river_follow_end": "固節驛",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -72233,8 +72273,12 @@
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "2847fa7b6b6742cb",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "固節驛",
+        "river_follow_end": "北京",
+        "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     }
   ]
