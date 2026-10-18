@@ -949,11 +949,11 @@
       if (props.marker_role === "entry") return { className: "marker-triangle", glyph: "入", size: 22, color: "#0f766e" };
       return { className: "marker-square", glyph: "轉", size: 20, color: "#475569" };
     }
-    if (def.id === "figure4_transition_points") {
+    if (def.id === "figure4_transition_points" || def.id === "figure4_dem_transition_points") {
       return { className: "marker-diamond", glyph: "轉", size: 22, color: "#111827" };
     }
-    if (def.id === "figure4_reference_points") {
-      return { className: "marker-small-circle", glyph: "", size: 10, color: "#374151" };
+    if (def.id === "figure4_reference_points" || def.id === "figure4_dem_reference_points") {
+      return { className: "marker-small-circle", glyph: "", size: 8, color: "#374151" };
     }
     if (def.id === "figure4_journey_points") {
       return { className: "marker-small-circle", glyph: "", size: 12, color: props.map_color || "#92400e" };
@@ -2355,3 +2355,4 @@
       updateStatus(t("error") + ": " + error.message);
     });
 }());
+
