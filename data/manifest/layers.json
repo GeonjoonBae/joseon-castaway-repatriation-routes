@@ -164,7 +164,7 @@
         "radius": 7
       },
       "pane": "keyStopPane",
-      "feature_count": 11
+      "feature_count": 12
     },
     {
       "id": "figure2_admin_province_points",
@@ -196,7 +196,7 @@
         "dashArray": "4 8"
       },
       "pane": "figureRoutePane",
-      "feature_count": 76
+      "feature_count": 75
     },
     {
       "id": "figure3_actual_water_route_lines",
@@ -260,7 +260,7 @@
         "radius": 4
       },
       "pane": "keyStopPane",
-      "feature_count": 96
+      "feature_count": 95
     },
     {
       "id": "figure3_key_places",
@@ -593,9 +593,9 @@
         "chgis_1820_lakes",
         "chgis_1820_province_boundaries",
         "canal_lines",
-        "figure2_mun_sundeuk_lines",
-        "figure2_mun_hogyeom_lines",
-        "figure2_shared_lines",
+        "figure2_hydro_mun_sundeuk_lines",
+        "figure2_hydro_mun_hogyeom_lines",
+        "figure2_hydro_shared_lines",
         "figure2_station_context",
         "figure2_key_places",
         "figure2_admin_province_points"

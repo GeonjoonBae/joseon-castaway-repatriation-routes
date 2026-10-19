@@ -3728,10 +3728,10 @@
         "hydro_review_status": "decided",
         "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "R",
-        "selected_river_source_id": "3313,4929",
+        "selected_river_source_id": "4256,4257",
         "river_follow_start": "鍾吾驛",
         "river_follow_end": "邳州",
-        "hydro_review_note": "Implementation override: Grand Canal features nearest Zhongwu and Pizhou."
+        "hydro_review_note": "CHGIS 하천 후보 1개;  (river_id=1173) 선택; DEM 선 표본과의 평균거리 7331.4m."
       }
     },
     {

@@ -7,8 +7,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.3785422,
-          22.9387253
+          113.256066,
+          23.134624
         ]
       },
       "properties": {
@@ -21,7 +21,8 @@
         "coordinate_confidence": "provisional_supported",
         "coordinate_status": "검토용 후보 - 미채택",
         "id": "FIG3-A-001",
-        "Chinese Name": "廣州",
+        "Chinese Name": "廣東省城",
+        "display_name": "Guangdong Provincial Seat 廣東省城",
         "marker_role": "entry",
         "comparison_no": 1,
         "source_summary": "Article appendix and route reconstruction."

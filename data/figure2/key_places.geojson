@@ -26,6 +26,29 @@
     },
     {
       "type": "Feature",
+      "id": "EVP-JRAS2-010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54778,
+          22.20778
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "place",
+        "coordinate_basis": "researcher-specified Wangxia village proxy for the office of the Xiangshan assistant magistrate",
+        "coordinate_confidence": "review_required",
+        "coordinate_status": "사용자 승인 望廈村 저신뢰 대체점",
+        "id": "EVP-JRAS2-010",
+        "Chinese Name": "戎廳",
+        "display_name": "Rongting 戎廳",
+        "marker_role": "transfer",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+      }
+    },
+    {
+      "type": "Feature",
       "id": "EVP-JRAS2-011",
       "geometry": {
         "type": "Point",
