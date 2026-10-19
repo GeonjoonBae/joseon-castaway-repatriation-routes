@@ -22,7 +22,7 @@
     ilseongnok: "『일성록』"
   };
 
-  var APP_VERSION = "20261019-hydro-review-3";
+  var APP_VERSION = "20261019-hydro-west-bank-1";
 
   var I18N = {
     ko: {
@@ -1070,7 +1070,9 @@
       color: color,
       weight: Number(props.map_weight) || (def.style && def.style.weight) || 3,
       opacity: Number(props.map_opacity) || (def.style && def.style.opacity) || 0.85,
-      dashArray: props.map_dash || (def.style && def.style.dashArray) || dashArray,
+      dashArray: Object.prototype.hasOwnProperty.call(props, "map_dash")
+        ? props.map_dash
+        : (def.style && def.style.dashArray) || dashArray,
       fillColor: (def.style && def.style.fillColor) || color,
       fillOpacity: def.style && def.style.fillOpacity !== undefined ? def.style.fillOpacity : 0.18
     };
