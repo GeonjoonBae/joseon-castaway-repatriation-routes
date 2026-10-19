@@ -532,6 +532,54 @@
       },
       "pane": "keyStopPane",
       "feature_count": 3
+    },
+    {
+      "id": "figure2_hydro_mun_sundeuk_lines",
+      "title": "Mun Sundeuk group — hydrography decision",
+      "title_en": "Mun Sundeuk group — hydrography decision",
+      "title_ko": "문순득 일행 — 수계 판정 구현",
+      "category": "hydro_decision",
+      "default_visible": false,
+      "path": "data/hydro_decision/figure2/mun_sundeuk_lines.geojson",
+      "style": {
+        "color": "#c2410c",
+        "weight": 4.7,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 60
+    },
+    {
+      "id": "figure2_hydro_mun_hogyeom_lines",
+      "title": "Mun Ho-gyeom group — hydrography decision",
+      "title_en": "Mun Ho-gyeom group — hydrography decision",
+      "title_ko": "문호겸 일행 — 수계 판정 구현",
+      "category": "hydro_decision",
+      "default_visible": false,
+      "path": "data/hydro_decision/figure2/mun_hogyeom_lines.geojson",
+      "style": {
+        "color": "#2563eb",
+        "weight": 4.7,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 59
+    },
+    {
+      "id": "figure2_hydro_shared_lines",
+      "title": "Shared official-network section — hydrography decision",
+      "title_en": "Shared official-network section — hydrography decision",
+      "title_ko": "공통 역참망 — 수계 판정 구현",
+      "category": "hydro_decision",
+      "default_visible": false,
+      "path": "data/hydro_decision/figure2/shared_lines.geojson",
+      "style": {
+        "color": "#312e81",
+        "weight": 5.2,
+        "opacity": 0.95
+      },
+      "pane": "figureRoutePane",
+      "feature_count": 43
     }
   ],
   "scenes": [
@@ -672,6 +720,35 @@
         [
           37.85,
           119.85
+        ]
+      ]
+    },
+    {
+      "id": "figure2_hydro_decision_public",
+      "title": "Figure 2 — hydrography decisions",
+      "title_ko": "Figure 2 — 수계 판정 구현",
+      "description": "Researcher-approved DEM and CHGIS river-following geometries, retained separately from the earlier DEM candidates.",
+      "description_ko": "확정된 DEM 유지·하천 추종·특수 통과 판정을 기존 DEM 후보와 분리하여 구현한 검토 장면.",
+      "visible_layers": [
+        "chgis_1820_lakes",
+        "chgis_1820_province_boundaries",
+        "canal_lines",
+        "chgis_1820_rivers_review",
+        "figure2_hydro_mun_sundeuk_lines",
+        "figure2_hydro_mun_hogyeom_lines",
+        "figure2_hydro_shared_lines",
+        "figure2_station_context",
+        "figure2_key_places",
+        "figure2_admin_province_points"
+      ],
+      "bounds": [
+        [
+          21.2,
+          112.2
+        ],
+        [
+          42.6,
+          125.3
         ]
       ]
     },
