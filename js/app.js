@@ -960,7 +960,7 @@
       return { className: "marker-route-stop", glyph: props.SEQ || "", size: 25, color: "#dc2626" };
     }
     if (def.id === "figure2_key_places") {
-      if (props.id === "EVP-JRAS2-010") return { className: "marker-small-circle", glyph: "", size: 14, color: "#111827" };
+      if (props.id === "EVP-JRAS2-010") return { className: "marker-small-circle marker-qing-station", glyph: "", size: 11, color: "#374151" };
       if (props.marker_role === "capital") return { className: "marker-double-circle", glyph: props[FIELD.hanja] === "北京" ? "京" : "省", size: 24, color: "#111827" };
       if (props.marker_role === "junction") return { className: "marker-diamond", glyph: "合", size: 21, color: "#6d28d9" };
       if (props.marker_role === "endpoint") return { className: "marker-route-stop", glyph: "終", size: 23, color: "#111827" };

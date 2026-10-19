@@ -12,28 +12,84 @@
             22.1987
           ],
           [
-            113.54458125,
-            22.20052763
+            113.54369433,
+            22.19972898
           ],
           [
-            113.54548284,
-            22.20213856
+            113.54370897,
+            22.20054127
           ],
           [
-            113.54638446,
-            22.20374948
+            113.54372361,
+            22.20135355
           ],
           [
-            113.54728609,
-            22.20536039
+            113.5446252,
+            22.20296449
           ],
           [
-            113.54818775,
-            22.2069713
+            113.54552681,
+            22.20457541
+          ],
+          [
+            113.54642844,
+            22.20618633
+          ],
+          [
+            113.5464431,
+            22.20699861
+          ],
+          [
+            113.54645777,
+            22.2078109
+          ],
+          [
+            113.54647243,
+            22.20862318
+          ],
+          [
+            113.54648709,
+            22.20943546
+          ],
+          [
+            113.54650176,
+            22.21024775
+          ],
+          [
+            113.54651643,
+            22.21106003
+          ],
+          [
+            113.54653109,
+            22.21187231
+          ],
+          [
+            113.54654576,
+            22.2126846
+          ],
+          [
+            113.54656043,
+            22.21349688
+          ],
+          [
+            113.54746214,
+            22.21510778
+          ],
+          [
+            113.54747681,
+            22.21592007
+          ],
+          [
+            113.54749149,
+            22.21673235
+          ],
+          [
+            113.54750617,
+            22.21754463
           ],
           [
             113.54778,
-            22.20778
+            22.2185
           ]
         ]
       },
@@ -51,22 +107,22 @@
         "source_summary": "First-pass Copernicus GLO-30 terrain candidate; water geometry retained where applicable.",
         "geometry_grade": "G3_candidate_pending_corroboration",
         "analysis_cell_size_m": 90,
-        "path_km": 1.096,
-        "path_straight_ratio": 1.0126,
+        "path_km": 2.245,
+        "path_straight_ratio": 1.0068,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
         "map_dash": "8 7",
         "source_river_m": "27518.3",
         "target_river_m": "534.5",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
-        "edge_key": "256ab70e2e6bf8fc",
+        "edge_key": "750806097b82c548",
         "hydro_review_status": "decided",
         "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
-        "hydro_review_decision": "G",
+        "hydro_review_decision": "D",
         "selected_river_source_id": "researcher_annotated_blue_alignment_2026-10-19",
         "river_follow_start": "澳門",
         "river_follow_end": "戎廳",
-        "hydro_review_note": "研究者 지정 戎廳 통과점을 연결하는 축척 적합 일반화 선형."
+        "hydro_review_note": "연구자 지정 戎廳 통과점을 경유하는 DEM 선형."
       }
     },
     {
@@ -77,75 +133,55 @@
         "coordinates": [
           [
             113.54778,
-            22.20778
+            22.2185
           ],
           [
-            113.54735943,
-            22.20942181
+            113.5466778,
+            22.21999514
           ],
           [
-            113.54650176,
-            22.21024775
+            113.54582006,
+            22.22082108
           ],
           [
-            113.54564408,
-            22.21107368
+            113.5440899,
+            22.22166067
           ],
           [
-            113.54480104,
-            22.2127119
+            113.54323214,
+            22.22248661
           ],
           [
-            113.54395799,
-            22.21435012
+            113.54237437,
+            22.22331253
           ],
           [
-            113.54311492,
-            22.21598833
+            113.54151659,
+            22.22413846
           ],
           [
-            113.54225718,
-            22.21681425
+            113.53978636,
+            22.22497801
           ],
           [
-            113.54141408,
-            22.21845246
+            113.53805611,
+            22.22581754
           ],
           [
-            113.54055632,
-            22.21927838
+            113.53719829,
+            22.22664345
           ],
           [
-            113.53971318,
-            22.22091658
+            113.535468,
+            22.22748296
           ],
           [
-            113.53885539,
-            22.22174249
+            113.53461015,
+            22.22830885
           ],
           [
-            113.53801223,
-            22.22338068
-          ],
-          [
-            113.53716904,
-            22.22501887
-          ],
-          [
-            113.53631122,
-            22.22584477
-          ],
-          [
-            113.53545338,
-            22.22667067
-          ],
-          [
-            113.53459554,
-            22.22749656
-          ],
-          [
-            113.53373769,
-            22.22832245
+            113.53375229,
+            22.22913474
           ],
           [
             113.53289442,
@@ -236,16 +272,16 @@
             22.25461408
           ],
           [
-            113.51414937,
-            22.25543989
+            113.51416388,
+            22.25625219
           ],
           [
-            113.51330574,
-            22.25707799
+            113.51332025,
+            22.25789029
           ],
           [
-            113.51246209,
-            22.2587161
+            113.5124766,
+            22.2595284
           ],
           [
             113.51161843,
@@ -536,8 +572,8 @@
             22.34566427
           ],
           [
-            113.45814567,
-            22.34730218
+            113.45900466,
+            22.34647659
           ],
           [
             113.45815992,
@@ -856,8 +892,8 @@
             22.45134898
           ],
           [
-            113.40142268,
-            22.45216133
+            113.40231063,
+            22.45296066
           ],
           [
             113.40232463,
@@ -1091,22 +1127,22 @@
         "source_summary": "First-pass Copernicus GLO-30 terrain candidate; water geometry retained where applicable.",
         "geometry_grade": "G3_candidate_pending_corroboration",
         "analysis_cell_size_m": 90,
-        "path_km": 41.04,
-        "path_straight_ratio": 1.038,
+        "path_km": 40.107,
+        "path_straight_ratio": 1.0422,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
         "map_dash": "8 7",
         "source_river_m": "534.5",
         "target_river_m": "2310.2",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
-        "edge_key": "c720147a35902f1c",
+        "edge_key": "3ba6e076b042c283",
         "hydro_review_status": "decided",
         "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
-        "hydro_review_decision": "G",
+        "hydro_review_decision": "D",
         "selected_river_source_id": "researcher_annotated_blue_alignment_2026-10-19",
         "river_follow_start": "戎廳",
         "river_follow_end": "香山縣城",
-        "hydro_review_note": "서쪽 과도 우회 DEM을 기각하고 연구자 파란 지침선 회랑을 사용."
+        "hydro_review_note": "戎廳 통과점을 기준으로 다시 계산한 DEM 선형."
       }
     },
     {
