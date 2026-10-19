@@ -102,7 +102,7 @@
         "opacity": 0.95
       },
       "pane": "figureRoutePane",
-      "feature_count": 61
+      "feature_count": 60
     },
     {
       "id": "figure2_mun_hogyeom_lines",
@@ -370,7 +370,7 @@
         "opacity": 0.95
       },
       "pane": "figureRoutePane",
-      "feature_count": 61
+      "feature_count": 60
     },
     {
       "id": "figure2_dem_mun_hogyeom_lines",
