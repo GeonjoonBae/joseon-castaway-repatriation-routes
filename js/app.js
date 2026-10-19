@@ -22,7 +22,7 @@
     ilseongnok: "『일성록』"
   };
 
-  var APP_VERSION = "20261020-south-guangdong-hydro-3";
+  var APP_VERSION = "20261020-south-guangdong-hydro-4";
 
   var I18N = {
     ko: {
