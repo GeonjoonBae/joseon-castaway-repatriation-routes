@@ -3,31 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "GD:PL-GZBJ-001",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.3785422,
-          22.9387253
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 2",
-        "feature_type": "place",
-        "historical_province": "廣東",
-        "historical_prefecture": "廣州府",
-        "historical_county": "番禺縣",
-        "coordinate_basis": "modern locality geocode from Liu Wenpeng's 案 statement",
-        "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
-        "id": "GD:PL-GZBJ-001",
-        "Chinese Name": "五仙驛",
-        "marker_role": "official_network_station_context",
-        "source_summary": "Huidian zeli; Qing postal-station research; CHGIS where recorded."
-      }
-    },
-    {
-      "type": "Feature",
       "id": "GD:PL-GZBJ-002",
       "geometry": {
         "type": "Point",
@@ -1503,17 +1478,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.29733298,
-          30.43153798
+          120.1506043,
+          30.2721085
         ]
       },
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
         "historical_county": "錢塘縣",
-        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_basis": "modern 武林門 name anchor used at national overview scale; Qing map georeferencing deferred",
         "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
+        "coordinate_status": "사용자 승인 개관도용 대체점 - 정확한 역터 미확정",
         "id": "FJ:PL-QING-AUX-0035",
         "Chinese Name": "吳山驛",
         "marker_role": "official_network_station_context",
@@ -1937,29 +1912,6 @@
     },
     {
       "type": "Feature",
-      "id": "FJ:PL-QING-AUX-0016",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.297058,
-          33.958302
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 2",
-        "feature_type": "place",
-        "historical_county": "宿遷縣",
-        "coordinate_basis": "county-seat/administrative point candidate",
-        "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
-        "id": "FJ:PL-QING-AUX-0016",
-        "Chinese Name": "㟃峿驛",
-        "marker_role": "official_network_station_context",
-        "source_summary": "Huidian zeli; Qing postal-station research; CHGIS where recorded."
-      }
-    },
-    {
-      "type": "Feature",
       "id": "FJ:PL-QING-AUX-0015",
       "geometry": {
         "type": "Point",
@@ -2148,42 +2100,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.75588,
-          35.90966
+          117.5373368,
+          35.993599
         ]
       },
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
         "historical_county": "新泰縣",
-        "coordinate_basis": "county-seat/administrative point candidate",
+        "coordinate_basis": "modern 羊流鎭 boundary centroid with 楊柳店驛-羊流店驛 name relation",
         "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
+        "coordinate_status": "사용자 승인 저신뢰 대체점 - 정확한 역터 미확정",
         "id": "FJ:PL-QING-AUX-0007",
         "Chinese Name": "楊柳店驛",
-        "marker_role": "official_network_station_context",
-        "source_summary": "Huidian zeli; Qing postal-station research; CHGIS where recorded."
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "FJ:PL-QING-AUX-0006",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.12719,
-          36.189
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 2",
-        "feature_type": "place",
-        "historical_county": "泰安縣",
-        "coordinate_basis": "county-seat/administrative point candidate",
-        "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
-        "id": "FJ:PL-QING-AUX-0006",
-        "Chinese Name": "崔家莊驛",
         "marker_role": "official_network_station_context",
         "source_summary": "Huidian zeli; Qing postal-station research; CHGIS where recorded."
       }
@@ -2485,16 +2414,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.770241,
-          40.010193
+          119.3383946,
+          39.8910828
         ]
       },
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
-        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_basis": "modern 榆關 name anchor constrained by the station's relation to 撫寧 and 蘆峰口",
         "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
+        "coordinate_status": "사용자 승인 저신뢰 대체점 - 정확한 역터 미확정",
         "id": "JOS:JOS-BJ-UJ-009",
         "Chinese Name": "榆關驛",
         "marker_role": "official_network_station_context",
@@ -2969,16 +2898,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.083351,
-          40.354527
+          124.0717755,
+          40.4570248
         ]
       },
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
-        "coordinate_basis": "CHGIS 1820 town/settlement point",
+        "coordinate_basis": "modern 鳳凰城街道 boundary centroid used to separate the station-city context from 鳳凰城門",
         "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
+        "coordinate_status": "사용자 승인 저신뢰 대체점 - 정확한 역터 미확정",
         "id": "JOS:JOS-BJ-UJ-032",
         "Chinese Name": "鳳凰城驛",
         "marker_role": "official_network_station_context",
@@ -3300,16 +3229,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.15816498,
-          35.08609009
+          117.15701,
+          35.08502
         ]
       },
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
-        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_basis": "CHGIS 滕縣 administrative seat used at overview-map scale",
         "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
+        "coordinate_status": "사용자 승인 개관도용 대체점 - 정확한 역터 미확정",
         "id": "FIG2-A-078",
         "Chinese Name": "滕陽驛",
         "marker_role": "official_network_station_context",
@@ -3322,16 +3251,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.96727,
-          35.40276
+          117.0588441,
+          35.2092041
         ]
       },
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
-        "coordinate_basis": "county-seat/administrative point candidate",
+        "coordinate_basis": "modern 界河鎭 boundary centroid constrained by 鄒縣 and 滕陽驛 gazetteer distances",
         "coordinate_confidence": "provisional_supported",
-        "coordinate_status": "검토용 후보 - 미채택",
+        "coordinate_status": "사용자 승인 저신뢰 대체점 - 정확한 역터 미확정",
         "id": "FIG2-A-079",
         "Chinese Name": "界河驛",
         "marker_role": "official_network_station_context",

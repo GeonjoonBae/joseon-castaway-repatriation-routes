@@ -148,14 +148,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.15816498,
-          35.08609009
+          117.15701,
+          35.08502
         ]
       },
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
-        "coordinate_basis": "Ming courier station geometry",
+        "coordinate_basis": "CHGIS 滕縣 administrative seat used at overview-map scale",
         "coordinate_confidence": "review_required",
         "coordinate_status": "검토용 후보 - 미채택",
         "id": "FIG2-A-078",
@@ -228,9 +228,9 @@
       "properties": {
         "figure_id": "Figure 2",
         "feature_type": "place",
-        "coordinate_basis": "CHGIS 1820 鳳凰城門 point used as a provisional 柵門 candidate",
-        "coordinate_confidence": "review_required",
-        "coordinate_status": "검토용 후보 - 미채택",
+        "coordinate_basis": "CHGIS 1820 鳳凰城門 point adopted as a low-confidence 柵門 gate proxy",
+        "coordinate_confidence": "provisional_supported",
+        "coordinate_status": "사용자 승인 저신뢰 문터 대체점",
         "id": "FIG2-C-CHAENGMUN",
         "Chinese Name": "柵門",
         "display_name": "Chaengmun 柵門",

@@ -12,6 +12,50 @@
             22.1987
           ],
           [
+            113.531259,
+            22.22222182
+          ],
+          [
+            113.51706154,
+            22.24749069
+          ],
+          [
+            113.50168998,
+            22.27418634
+          ],
+          [
+            113.48552671,
+            22.30198852
+          ],
+          [
+            113.46895411,
+            22.33057697
+          ],
+          [
+            113.45235454,
+            22.35963143
+          ],
+          [
+            113.43611038,
+            22.38883165
+          ],
+          [
+            113.42060402,
+            22.41785736
+          ],
+          [
+            113.40621782,
+            22.44638831
+          ],
+          [
+            113.39333417,
+            22.47410424
+          ],
+          [
+            113.38233543,
+            22.50068489
+          ],
+          [
             113.373604,
             22.52581
           ]
@@ -27,8 +71,10 @@
         "source_name_zh": "澳門",
         "target_name_zh": "香山縣城",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "schematic_straight_line_between_place_proxies",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": "8 7"
       }
     },
     {
@@ -40,6 +86,50 @@
           [
             113.373604,
             22.52581
+          ],
+          [
+            113.36160182,
+            22.56798474
+          ],
+          [
+            113.34885183,
+            22.61831516
+          ],
+          [
+            113.33569878,
+            22.67482146
+          ],
+          [
+            113.32248741,
+            22.73552383
+          ],
+          [
+            113.30956246,
+            22.79844245
+          ],
+          [
+            113.29726867,
+            22.86159752
+          ],
+          [
+            113.28595079,
+            22.92300923
+          ],
+          [
+            113.27595356,
+            22.98069777
+          ],
+          [
+            113.26762172,
+            23.03268332
+          ],
+          [
+            113.26130002,
+            23.07698608
+          ],
+          [
+            113.2573332,
+            23.11162625
           ],
           [
             113.256066,
@@ -55,10 +145,91 @@
         "route_name": "Mun Sundeuk group",
         "sequence": 2,
         "source_name_zh": "香山縣城",
-        "target_name_zh": "廣州省城",
+        "target_name_zh": "廣東省城",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "schematic_straight_line_between_place_proxies",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": "8 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-MS-ENTRY-03",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.256066,
+            23.134624
+          ],
+          [
+            113.25976535,
+            23.14396676
+          ],
+          [
+            113.26951214,
+            23.14173726
+          ],
+          [
+            113.28384707,
+            23.13000712
+          ],
+          [
+            113.30131083,
+            23.11084797
+          ],
+          [
+            113.32044412,
+            23.08633143
+          ],
+          [
+            113.33978763,
+            23.05852912
+          ],
+          [
+            113.35788206,
+            23.02951268
+          ],
+          [
+            113.37326809,
+            23.00135373
+          ],
+          [
+            113.38448643,
+            22.97612389
+          ],
+          [
+            113.39007776,
+            22.95589478
+          ],
+          [
+            113.38858279,
+            22.94273805
+          ],
+          [
+            113.3785422,
+            22.9387253
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-MS-ENTRY-03",
+        "route_name": "Mun Sundeuk group",
+        "sequence": 3,
+        "source_name_zh": "廣東省城",
+        "target_name_zh": "五仙驛",
+        "transport_mode": "land_or_inland_waterway_unspecified",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "target_historical_province": "廣東",
+        "target_historical_prefecture": "廣州府",
+        "target_historical_county": "番禺縣",
+        "map_dash": ""
       }
     },
     {
@@ -68,8 +239,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            113.256066,
-            23.134624
+            113.3785422,
+            22.9387253
+          ],
+          [
+            113.35750542,
+            22.94185528
+          ],
+          [
+            113.32546758,
+            22.94859764
+          ],
+          [
+            113.28463795,
+            22.95873043
+          ],
+          [
+            113.23722581,
+            22.97203166
+          ],
+          [
+            113.18544042,
+            22.98827936
+          ],
+          [
+            113.13149104,
+            23.00725156
+          ],
+          [
+            113.07758695,
+            23.02872628
+          ],
+          [
+            113.02593742,
+            23.05248156
+          ],
+          [
+            112.97875172,
+            23.07829542
+          ],
+          [
+            112.93823911,
+            23.10594589
+          ],
+          [
+            112.90660886,
+            23.135211
           ],
           [
             112.88607025,
@@ -83,17 +298,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-001",
         "route_name": "Mun Sundeuk group",
-        "sequence": 3,
-        "source_name_zh": "廣州省城",
+        "sequence": 4,
+        "source_name_zh": "五仙驛",
         "target_name_zh": "西南驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "廣東",
         "source_historical_prefecture": "廣州府",
         "source_historical_county": "番禺縣",
         "target_historical_province": "廣東",
-        "target_historical_county": "三水縣"
+        "target_historical_county": "三水縣",
+        "map_dash": ""
       }
     },
     {
@@ -107,6 +324,50 @@
             23.16586876
           ],
           [
+            112.87544571,
+            23.20033155
+          ],
+          [
+            112.87153976,
+            23.24045566
+          ],
+          [
+            112.87353481,
+            23.28518498
+          ],
+          [
+            112.88061328,
+            23.33346342
+          ],
+          [
+            112.89195757,
+            23.38423489
+          ],
+          [
+            112.90675009,
+            23.43644329
+          ],
+          [
+            112.92417324,
+            23.48903253
+          ],
+          [
+            112.94340945,
+            23.54094651
+          ],
+          [
+            112.9636411,
+            23.59112913
+          ],
+          [
+            112.98405062,
+            23.6385243
+          ],
+          [
+            113.0038204,
+            23.68207593
+          ],
+          [
             113.02213287,
             23.72072792
           ]
@@ -118,16 +379,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-002",
         "route_name": "Mun Sundeuk group",
-        "sequence": 4,
+        "sequence": 5,
         "source_name_zh": "西南驛",
         "target_name_zh": "安遠驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "廣東",
         "source_historical_county": "三水縣",
         "target_historical_province": "廣東",
-        "target_historical_county": "清遠縣"
+        "target_historical_county": "清遠縣",
+        "map_dash": ""
       }
     },
     {
@@ -141,6 +404,50 @@
             23.72072792
           ],
           [
+            113.04314685,
+            23.75916795
+          ],
+          [
+            113.06923255,
+            23.79911186
+          ],
+          [
+            113.09940059,
+            23.84024617
+          ],
+          [
+            113.1326616,
+            23.88225745
+          ],
+          [
+            113.16802619,
+            23.92483222
+          ],
+          [
+            113.20450501,
+            23.96765704
+          ],
+          [
+            113.24110866,
+            24.01041845
+          ],
+          [
+            113.27684778,
+            24.05280298
+          ],
+          [
+            113.31073299,
+            24.09449719
+          ],
+          [
+            113.34177491,
+            24.13518762
+          ],
+          [
+            113.36898417,
+            24.17456081
+          ],
+          [
             113.3913714,
             24.2123033
           ]
@@ -152,16 +459,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-003",
         "route_name": "Mun Sundeuk group",
-        "sequence": 5,
+        "sequence": 6,
         "source_name_zh": "安遠驛",
         "target_name_zh": "湞陽驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "廣東",
         "source_historical_county": "清遠縣",
         "target_historical_province": "廣東",
-        "target_historical_county": "英德縣"
+        "target_historical_county": "英德縣",
+        "map_dash": ""
       }
     },
     {
@@ -175,6 +484,50 @@
             24.2123033
           ],
           [
+            113.4108864,
+            24.2544303
+          ],
+          [
+            113.4283671,
+            24.30233362
+          ],
+          [
+            113.44432316,
+            24.35470027
+          ],
+          [
+            113.45926429,
+            24.41021728
+          ],
+          [
+            113.47370013,
+            24.46757168
+          ],
+          [
+            113.48814039,
+            24.52545048
+          ],
+          [
+            113.50309473,
+            24.58254072
+          ],
+          [
+            113.51907284,
+            24.63752942
+          ],
+          [
+            113.53658438,
+            24.6891036
+          ],
+          [
+            113.55613905,
+            24.73595029
+          ],
+          [
+            113.57824651,
+            24.7767565
+          ],
+          [
             113.60341644,
             24.81020927
           ]
@@ -186,16 +539,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-004",
         "route_name": "Mun Sundeuk group",
-        "sequence": 6,
+        "sequence": 7,
         "source_name_zh": "湞陽驛",
         "target_name_zh": "芙蓉驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "廣東",
         "source_historical_county": "英德縣",
         "target_historical_province": "廣東",
-        "target_historical_county": "曲江縣"
+        "target_historical_county": "曲江縣",
+        "map_dash": ""
       }
     },
     {
@@ -209,6 +564,50 @@
             24.81020927
           ],
           [
+            113.62774971,
+            24.83095556
+          ],
+          [
+            113.65850507,
+            24.84826266
+          ],
+          [
+            113.69451832,
+            24.86264687
+          ],
+          [
+            113.73462524,
+            24.87462448
+          ],
+          [
+            113.77766163,
+            24.88471179
+          ],
+          [
+            113.82246328,
+            24.89342508
+          ],
+          [
+            113.86786599,
+            24.90128065
+          ],
+          [
+            113.91270553,
+            24.9087948
+          ],
+          [
+            113.95581772,
+            24.91648381
+          ],
+          [
+            113.99603833,
+            24.92486399
+          ],
+          [
+            114.03220316,
+            24.93445162
+          ],
+          [
             114.063148,
             24.945763
           ]
@@ -220,16 +619,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-005",
         "route_name": "Mun Sundeuk group",
-        "sequence": 7,
+        "sequence": 8,
         "source_name_zh": "芙蓉驛",
         "target_name_zh": "在城驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "廣東",
         "source_historical_county": "曲江縣",
         "target_historical_province": "廣東",
-        "target_historical_county": "始興縣"
+        "target_historical_county": "始興縣",
+        "map_dash": ""
       }
     },
     {
@@ -243,6 +644,50 @@
             24.945763
           ],
           [
+            114.08196984,
+            24.95450388
+          ],
+          [
+            114.10261479,
+            24.96491841
+          ],
+          [
+            114.12459535,
+            24.97681445
+          ],
+          [
+            114.14742402,
+            24.98999986
+          ],
+          [
+            114.1706133,
+            25.0042825
+          ],
+          [
+            114.19367571,
+            25.01947021
+          ],
+          [
+            114.21612373,
+            25.03537086
+          ],
+          [
+            114.23746989,
+            25.05179229
+          ],
+          [
+            114.25722668,
+            25.06854238
+          ],
+          [
+            114.2749066,
+            25.08542897
+          ],
+          [
+            114.29002217,
+            25.10225992
+          ],
+          [
             114.30208588,
             25.11884308
           ]
@@ -254,17 +699,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-006",
         "route_name": "Mun Sundeuk group",
-        "sequence": 8,
+        "sequence": 9,
         "source_name_zh": "在城驛",
         "target_name_zh": "凌江驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "廣東",
         "source_historical_county": "始興縣",
         "target_historical_province": "廣東",
         "target_historical_prefecture": "南雄府",
-        "target_historical_county": "保昌縣"
+        "target_historical_county": "保昌縣",
+        "map_dash": ""
       }
     },
     {
@@ -278,6 +725,50 @@
             25.11884308
           ],
           [
+            114.31123061,
+            25.1373954
+          ],
+          [
+            114.31771218,
+            25.15896752
+          ],
+          [
+            114.32205112,
+            25.18291933
+          ],
+          [
+            114.32476797,
+            25.20861073
+          ],
+          [
+            114.32638324,
+            25.23540161
+          ],
+          [
+            114.32741748,
+            25.26265185
+          ],
+          [
+            114.3283912,
+            25.28972135
+          ],
+          [
+            114.32982494,
+            25.31596999
+          ],
+          [
+            114.33223923,
+            25.34075767
+          ],
+          [
+            114.3361546,
+            25.36344428
+          ],
+          [
+            114.34209157,
+            25.38338971
+          ],
+          [
             114.35057068,
             25.39995384
           ]
@@ -289,18 +780,20 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-007",
         "route_name": "Mun Sundeuk group",
-        "sequence": 9,
+        "sequence": 10,
         "source_name_zh": "凌江驛",
         "target_name_zh": "橫浦驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "廣東",
         "source_historical_prefecture": "南雄府",
         "source_historical_county": "保昌縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "南安府",
-        "target_historical_county": "大庾縣"
+        "target_historical_county": "大庾縣",
+        "map_dash": ""
       }
     },
     {
@@ -314,6 +807,50 @@
             25.39995384
           ],
           [
+            114.36018249,
+            25.41076454
+          ],
+          [
+            114.37298276,
+            25.42021138
+          ],
+          [
+            114.38839798,
+            25.428502
+          ],
+          [
+            114.40585463,
+            25.43584402
+          ],
+          [
+            114.42477921,
+            25.44244507
+          ],
+          [
+            114.4445982,
+            25.44851278
+          ],
+          [
+            114.46473808,
+            25.45425477
+          ],
+          [
+            114.48462535,
+            25.45987868
+          ],
+          [
+            114.50368649,
+            25.46559213
+          ],
+          [
+            114.52134799,
+            25.47160274
+          ],
+          [
+            114.53703633,
+            25.47811816
+          ],
+          [
             114.550178,
             25.485346
           ]
@@ -325,17 +862,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-008",
         "route_name": "Mun Sundeuk group",
-        "sequence": 10,
+        "sequence": 11,
         "source_name_zh": "橫浦驛",
         "target_name_zh": "小溪驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "南安府",
         "source_historical_county": "大庾縣",
         "target_historical_province": "江西",
-        "target_historical_county": "大庾縣"
+        "target_historical_county": "大庾縣",
+        "map_dash": ""
       }
     },
     {
@@ -349,6 +888,50 @@
             25.485346
           ],
           [
+            114.56520009,
+            25.49580679
+          ],
+          [
+            114.58120785,
+            25.50803507
+          ],
+          [
+            114.59797248,
+            25.52171741
+          ],
+          [
+            114.61526519,
+            25.53654034
+          ],
+          [
+            114.6328572,
+            25.55219042
+          ],
+          [
+            114.6505197,
+            25.56835419
+          ],
+          [
+            114.66802392,
+            25.58471822
+          ],
+          [
+            114.68514105,
+            25.60096903
+          ],
+          [
+            114.70164231,
+            25.61679319
+          ],
+          [
+            114.71729891,
+            25.63187725
+          ],
+          [
+            114.73188206,
+            25.64590775
+          ],
+          [
             114.74516296,
             25.65857124
           ]
@@ -360,16 +943,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-009",
         "route_name": "Mun Sundeuk group",
-        "sequence": 11,
+        "sequence": 12,
         "source_name_zh": "小溪驛",
         "target_name_zh": "南野驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "大庾縣",
         "target_historical_province": "江西",
-        "target_historical_county": "南康縣"
+        "target_historical_county": "南康縣",
+        "map_dash": ""
       }
     },
     {
@@ -383,6 +968,50 @@
             25.65857124
           ],
           [
+            114.75922019,
+            25.67122191
+          ],
+          [
+            114.77531738,
+            25.68477148
+          ],
+          [
+            114.79292724,
+            25.69911673
+          ],
+          [
+            114.81152246,
+            25.71415444
+          ],
+          [
+            114.83057573,
+            25.72978142
+          ],
+          [
+            114.84955973,
+            25.74589445
+          ],
+          [
+            114.86794716,
+            25.76239033
+          ],
+          [
+            114.88521072,
+            25.77916584
+          ],
+          [
+            114.90082309,
+            25.79611777
+          ],
+          [
+            114.91425696,
+            25.81314291
+          ],
+          [
+            114.92498504,
+            25.83013806
+          ],
+          [
             114.93248,
             25.847
           ]
@@ -394,16 +1023,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-010",
         "route_name": "Mun Sundeuk group",
-        "sequence": 12,
+        "sequence": 13,
         "source_name_zh": "南野驛",
         "target_name_zh": "烏鎮驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "南康縣",
         "target_historical_province": "江西",
-        "target_historical_county": "贛縣"
+        "target_historical_county": "贛縣",
+        "map_dash": ""
       }
     },
     {
@@ -417,6 +1048,50 @@
             25.847
           ],
           [
+            114.93769293,
+            25.86689771
+          ],
+          [
+            114.94070132,
+            25.8887185
+          ],
+          [
+            114.94175952,
+            25.91208564
+          ],
+          [
+            114.9411219,
+            25.93662238
+          ],
+          [
+            114.93904282,
+            25.96195196
+          ],
+          [
+            114.93577665,
+            25.98769764
+          ],
+          [
+            114.93157775,
+            26.01348267
+          ],
+          [
+            114.92670048,
+            26.03893031
+          ],
+          [
+            114.9213992,
+            26.06366381
+          ],
+          [
+            114.91592829,
+            26.08730643
+          ],
+          [
+            114.9105421,
+            26.1094814
+          ],
+          [
             114.905495,
             26.129812
           ]
@@ -428,16 +1103,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-011",
         "route_name": "Mun Sundeuk group",
-        "sequence": 13,
+        "sequence": 14,
         "source_name_zh": "烏鎮驛",
         "target_name_zh": "攸鎮驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "贛縣",
         "target_historical_province": "江西",
-        "target_historical_prefecture": "贛州府"
+        "target_historical_prefecture": "贛州府",
+        "map_dash": ""
       }
     },
     {
@@ -451,6 +1128,50 @@
             26.129812
           ],
           [
+            114.89807523,
+            26.15448212
+          ],
+          [
+            114.88806262,
+            26.18066452
+          ],
+          [
+            114.87606785,
+            26.20806877
+          ],
+          [
+            114.86270157,
+            26.23640443
+          ],
+          [
+            114.84857448,
+            26.26538108
+          ],
+          [
+            114.83429724,
+            26.29470829
+          ],
+          [
+            114.82048052,
+            26.32409562
+          ],
+          [
+            114.80773499,
+            26.35325265
+          ],
+          [
+            114.79667134,
+            26.38188894
+          ],
+          [
+            114.78790023,
+            26.40971407
+          ],
+          [
+            114.78203234,
+            26.4364376
+          ],
+          [
             114.77967834,
             26.4617691
           ]
@@ -462,16 +1183,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-012",
         "route_name": "Mun Sundeuk group",
-        "sequence": 14,
+        "sequence": 15,
         "source_name_zh": "攸鎮驛",
         "target_name_zh": "五雲驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "贛州府",
         "target_historical_province": "江西",
-        "target_historical_county": "萬安縣"
+        "target_historical_county": "萬安縣",
+        "map_dash": ""
       }
     },
     {
@@ -485,6 +1208,50 @@
             26.4617691
           ],
           [
+            114.78108909,
+            26.48684558
+          ],
+          [
+            114.78574651,
+            26.51342748
+          ],
+          [
+            114.79312327,
+            26.54119688
+          ],
+          [
+            114.80269202,
+            26.56983587
+          ],
+          [
+            114.81392545,
+            26.59902652
+          ],
+          [
+            114.82629623,
+            26.62845093
+          ],
+          [
+            114.83927701,
+            26.65779117
+          ],
+          [
+            114.85234048,
+            26.68672933
+          ],
+          [
+            114.8649593,
+            26.71494749
+          ],
+          [
+            114.87660614,
+            26.74212773
+          ],
+          [
+            114.88675368,
+            26.76795215
+          ],
+          [
             114.89487457,
             26.79210281
           ]
@@ -496,16 +1263,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-013",
         "route_name": "Mun Sundeuk group",
-        "sequence": 15,
+        "sequence": 16,
         "source_name_zh": "五雲驛",
         "target_name_zh": "白下驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "萬安縣",
         "target_historical_province": "江西",
-        "target_historical_county": "泰和縣"
+        "target_historical_county": "泰和縣",
+        "map_dash": ""
       }
     },
     {
@@ -519,6 +1288,50 @@
             26.79210281
           ],
           [
+            114.90101405,
+            26.81488501
+          ],
+          [
+            114.90675843,
+            26.84012845
+          ],
+          [
+            114.91223863,
+            26.86726636
+          ],
+          [
+            114.91758557,
+            26.89573195
+          ],
+          [
+            114.92293018,
+            26.92495843
+          ],
+          [
+            114.92840339,
+            26.95437902
+          ],
+          [
+            114.93413613,
+            26.98342694
+          ],
+          [
+            114.9402593,
+            27.0115354
+          ],
+          [
+            114.94690386,
+            27.03813763
+          ],
+          [
+            114.95420071,
+            27.06266682
+          ],
+          [
+            114.96228078,
+            27.08455621
+          ],
+          [
             114.971275,
             27.103239
           ]
@@ -530,17 +1343,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-014",
         "route_name": "Mun Sundeuk group",
-        "sequence": 16,
+        "sequence": 17,
         "source_name_zh": "白下驛",
         "target_name_zh": "在城驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "泰和縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "吉安府",
-        "target_historical_county": "廬陵縣"
+        "target_historical_county": "廬陵縣",
+        "map_dash": ""
       }
     },
     {
@@ -554,6 +1369,50 @@
             27.103239
           ],
           [
+            114.97931459,
+            27.11381756
+          ],
+          [
+            114.99055258,
+            27.12355097
+          ],
+          [
+            115.00432263,
+            27.13262089
+          ],
+          [
+            115.01995839,
+            27.14120898
+          ],
+          [
+            115.0367935,
+            27.1494969
+          ],
+          [
+            115.05416163,
+            27.15766631
+          ],
+          [
+            115.07139642,
+            27.16589887
+          ],
+          [
+            115.08783151,
+            27.17437623
+          ],
+          [
+            115.10280057,
+            27.18328007
+          ],
+          [
+            115.11563723,
+            27.19279204
+          ],
+          [
+            115.12567516,
+            27.2030938
+          ],
+          [
             115.132248,
             27.214367
           ]
@@ -565,18 +1424,20 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-015",
         "route_name": "Mun Sundeuk group",
-        "sequence": 17,
+        "sequence": 18,
         "source_name_zh": "在城驛",
         "target_name_zh": "白水驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "吉安府",
         "source_historical_county": "廬陵縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "吉安府",
-        "target_historical_county": "吉水縣"
+        "target_historical_county": "吉水縣",
+        "map_dash": ""
       }
     },
     {
@@ -590,6 +1451,50 @@
             27.214367
           ],
           [
+            115.13769999,
+            27.23453423
+          ],
+          [
+            115.14037785,
+            27.25852918
+          ],
+          [
+            115.14088475,
+            27.2856459
+          ],
+          [
+            115.13982387,
+            27.3151784
+          ],
+          [
+            115.13779838,
+            27.34642071
+          ],
+          [
+            115.13541147,
+            27.37866686
+          ],
+          [
+            115.1332663,
+            27.41121088
+          ],
+          [
+            115.13196606,
+            27.44334679
+          ],
+          [
+            115.13211392,
+            27.47436863
+          ],
+          [
+            115.13431305,
+            27.50357042
+          ],
+          [
+            115.13916662,
+            27.53024619
+          ],
+          [
             115.14727783,
             27.55368996
           ]
@@ -601,17 +1506,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-016",
         "route_name": "Mun Sundeuk group",
-        "sequence": 18,
+        "sequence": 19,
         "source_name_zh": "白水驛",
         "target_name_zh": "玉峽驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "吉安府",
         "source_historical_county": "吉水縣",
         "target_historical_province": "江西",
-        "target_historical_county": "峽江縣"
+        "target_historical_county": "峽江縣",
+        "map_dash": ""
       }
     },
     {
@@ -625,6 +1532,50 @@
             27.55368996
           ],
           [
+            115.15839664,
+            27.57205965
+          ],
+          [
+            115.17397678,
+            27.58988554
+          ],
+          [
+            115.19314665,
+            27.60726602
+          ],
+          [
+            115.21503465,
+            27.62429946
+          ],
+          [
+            115.23876919,
+            27.64108425
+          ],
+          [
+            115.26347868,
+            27.65771878
+          ],
+          [
+            115.28829151,
+            27.67430144
+          ],
+          [
+            115.31233609,
+            27.6909306
+          ],
+          [
+            115.33474082,
+            27.70770466
+          ],
+          [
+            115.35463411,
+            27.724722
+          ],
+          [
+            115.37114435,
+            27.74208101
+          ],
+          [
             115.38339996,
             27.75988007
           ]
@@ -636,16 +1587,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-017",
         "route_name": "Mun Sundeuk group",
-        "sequence": 19,
+        "sequence": 20,
         "source_name_zh": "玉峽驛",
         "target_name_zh": "金川驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "峽江縣",
         "target_historical_province": "江西",
-        "target_historical_county": "新淦縣"
+        "target_historical_county": "新淦縣",
+        "map_dash": ""
       }
     },
     {
@@ -659,6 +1612,50 @@
             27.75988007
           ],
           [
+            115.38998733,
+            27.77712754
+          ],
+          [
+            115.39309827,
+            27.79701286
+          ],
+          [
+            115.39348724,
+            27.81896611
+          ],
+          [
+            115.39190873,
+            27.84241738
+          ],
+          [
+            115.38911718,
+            27.86679674
+          ],
+          [
+            115.38586708,
+            27.89153428
+          ],
+          [
+            115.3829129,
+            27.91606009
+          ],
+          [
+            115.38100909,
+            27.93980424
+          ],
+          [
+            115.38091012,
+            27.96219683
+          ],
+          [
+            115.38337048,
+            27.98266792
+          ],
+          [
+            115.38914461,
+            28.00064762
+          ],
+          [
             115.398987,
             28.015566
           ]
@@ -670,17 +1667,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-018",
         "route_name": "Mun Sundeuk group",
-        "sequence": 20,
+        "sequence": 21,
         "source_name_zh": "金川驛",
         "target_name_zh": "清江鎮驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "新淦縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "臨江府",
-        "target_historical_county": "清江縣"
+        "target_historical_county": "清江縣",
+        "map_dash": ""
       }
     },
     {
@@ -694,6 +1693,50 @@
             28.015566
           ],
           [
+            115.41887437,
+            28.0322187
+          ],
+          [
+            115.44545601,
+            28.04738974
+          ],
+          [
+            115.47739702,
+            28.06144342
+          ],
+          [
+            115.51336253,
+            28.07474404
+          ],
+          [
+            115.55201763,
+            28.08765589
+          ],
+          [
+            115.59202746,
+            28.10054326
+          ],
+          [
+            115.63205713,
+            28.11377045
+          ],
+          [
+            115.67077174,
+            28.12770175
+          ],
+          [
+            115.70683642,
+            28.14270146
+          ],
+          [
+            115.73891628,
+            28.15913388
+          ],
+          [
+            115.76567644,
+            28.17736329
+          ],
+          [
             115.785782,
             28.197754
           ]
@@ -705,17 +1748,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-019",
         "route_name": "Mun Sundeuk group",
-        "sequence": 21,
+        "sequence": 22,
         "source_name_zh": "清江鎮驛",
         "target_name_zh": "劍江驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "臨江府",
         "source_historical_county": "清江縣",
         "target_historical_province": "江西",
-        "target_historical_county": "豐城縣"
+        "target_historical_county": "豐城縣",
+        "map_dash": ""
       }
     },
     {
@@ -729,6 +1774,50 @@
             28.197754
           ],
           [
+            115.80481759,
+            28.22669887
+          ],
+          [
+            115.82203609,
+            28.26025763
+          ],
+          [
+            115.83745315,
+            28.29763612
+          ],
+          [
+            115.8510844,
+            28.33804021
+          ],
+          [
+            115.86294545,
+            28.38067574
+          ],
+          [
+            115.87305194,
+            28.42474856
+          ],
+          [
+            115.8814195,
+            28.46946452
+          ],
+          [
+            115.88806376,
+            28.51402947
+          ],
+          [
+            115.89300034,
+            28.55764927
+          ],
+          [
+            115.89624488,
+            28.59952976
+          ],
+          [
+            115.897813,
+            28.6388768
+          ],
+          [
             115.89772034,
             28.67489624
           ]
@@ -740,17 +1829,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-020",
         "route_name": "Mun Sundeuk group",
-        "sequence": 22,
+        "sequence": 23,
         "source_name_zh": "劍江驛",
         "target_name_zh": "南浦驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "豐城縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "南昌府",
-        "target_historical_county": "南昌縣"
+        "target_historical_county": "南昌縣",
+        "map_dash": ""
       }
     },
     {
@@ -764,6 +1855,50 @@
             28.67489624
           ],
           [
+            115.8948326,
+            28.70628563
+          ],
+          [
+            115.88822564,
+            28.73996404
+          ],
+          [
+            115.87855501,
+            28.7754096
+          ],
+          [
+            115.86647623,
+            28.81210043
+          ],
+          [
+            115.85264486,
+            28.84951466
+          ],
+          [
+            115.83771643,
+            28.88713041
+          ],
+          [
+            115.82234649,
+            28.92442581
+          ],
+          [
+            115.80719057,
+            28.96087899
+          ],
+          [
+            115.79290423,
+            28.99596807
+          ],
+          [
+            115.78014299,
+            29.02917119
+          ],
+          [
+            115.7695624,
+            29.05996645
+          ],
+          [
             115.761818,
             29.087832
           ]
@@ -775,17 +1910,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-021",
         "route_name": "Mun Sundeuk group",
-        "sequence": 23,
+        "sequence": 24,
         "source_name_zh": "南浦驛",
         "target_name_zh": "建昌縣驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "南昌府",
         "source_historical_county": "南昌縣",
         "target_historical_province": "江西",
-        "target_historical_county": "建昌縣"
+        "target_historical_county": "建昌縣",
+        "map_dash": ""
       }
     },
     {
@@ -799,6 +1936,50 @@
             29.087832
           ],
           [
+            115.75790162,
+            29.10528401
+          ],
+          [
+            115.75396902,
+            29.12427584
+          ],
+          [
+            115.75016237,
+            29.14449695
+          ],
+          [
+            115.74662382,
+            29.16563679
+          ],
+          [
+            115.74349552,
+            29.18738481
+          ],
+          [
+            115.74091963,
+            29.20943047
+          ],
+          [
+            115.73903831,
+            29.23146324
+          ],
+          [
+            115.73799371,
+            29.25317256
+          ],
+          [
+            115.73792798,
+            29.27424789
+          ],
+          [
+            115.73898329,
+            29.29437868
+          ],
+          [
+            115.74130179,
+            29.3132544
+          ],
+          [
             115.74502563,
             29.3305645
           ]
@@ -810,16 +1991,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-022",
         "route_name": "Mun Sundeuk group",
-        "sequence": 24,
+        "sequence": 25,
         "source_name_zh": "建昌縣驛",
         "target_name_zh": "德安驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "建昌縣",
         "target_historical_province": "江西",
-        "target_historical_county": "德安縣"
+        "target_historical_county": "德安縣",
+        "map_dash": ""
       }
     },
     {
@@ -833,6 +2016,50 @@
             29.3305645
           ],
           [
+            115.75031399,
+            29.34520666
+          ],
+          [
+            115.75805993,
+            29.36029405
+          ],
+          [
+            115.76783666,
+            29.37570962
+          ],
+          [
+            115.77921738,
+            29.39133631
+          ],
+          [
+            115.79177531,
+            29.40705707
+          ],
+          [
+            115.80508365,
+            29.42275486
+          ],
+          [
+            115.81871561,
+            29.43831261
+          ],
+          [
+            115.83224439,
+            29.45361327
+          ],
+          [
+            115.84524322,
+            29.46853979
+          ],
+          [
+            115.85728529,
+            29.48297513
+          ],
+          [
+            115.86794381,
+            29.49680221
+          ],
+          [
             115.876792,
             29.509904
           ]
@@ -844,16 +2071,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-023",
         "route_name": "Mun Sundeuk group",
-        "sequence": 25,
+        "sequence": 26,
         "source_name_zh": "德安驛",
         "target_name_zh": "通遠驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "德安縣",
         "target_historical_province": "江西",
-        "target_historical_county": "德化縣"
+        "target_historical_county": "德化縣",
+        "map_dash": ""
       }
     },
     {
@@ -867,6 +2096,50 @@
             29.509904
           ],
           [
+            115.8850567,
+            29.52505715
+          ],
+          [
+            115.8929179,
+            29.54242028
+          ],
+          [
+            115.9005408,
+            29.5614696
+          ],
+          [
+            115.90809058,
+            29.5816813
+          ],
+          [
+            115.91573244,
+            29.60253158
+          ],
+          [
+            115.92363157,
+            29.62349663
+          ],
+          [
+            115.93195315,
+            29.64405266
+          ],
+          [
+            115.94086239,
+            29.66367587
+          ],
+          [
+            115.95052446,
+            29.68184246
+          ],
+          [
+            115.96110457,
+            29.69802861
+          ],
+          [
+            115.97276789,
+            29.71171054
+          ],
+          [
             115.98567963,
             29.72236443
           ]
@@ -878,17 +2151,19 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-GD-024",
         "route_name": "Mun Sundeuk group",
-        "sequence": 26,
+        "sequence": 27,
         "source_name_zh": "通遠驛",
         "target_name_zh": "潯陽驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_candidate_station_points",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_county": "德化縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "九江府",
-        "target_historical_county": "德化縣"
+        "target_historical_county": "德化縣",
+        "map_dash": ""
       }
     },
     {
@@ -902,6 +2177,50 @@
             29.72236443
           ],
           [
+            115.99914338,
+            29.72884287
+          ],
+          [
+            116.01553834,
+            29.73296773
+          ],
+          [
+            116.03430683,
+            29.73514912
+          ],
+          [
+            116.05489119,
+            29.73579714
+          ],
+          [
+            116.07673377,
+            29.7353219
+          ],
+          [
+            116.09927689,
+            29.73413351
+          ],
+          [
+            116.1219629,
+            29.73264208
+          ],
+          [
+            116.14423413,
+            29.7312577
+          ],
+          [
+            116.16553292,
+            29.7303905
+          ],
+          [
+            116.1853016,
+            29.73045058
+          ],
+          [
+            116.20298252,
+            29.73184804
+          ],
+          [
             116.218018,
             29.734993
           ]
@@ -913,15 +2232,17 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-026",
         "route_name": "Mun Sundeuk group",
-        "sequence": 27,
+        "sequence": 28,
         "source_name_zh": "潯陽驛",
         "target_name_zh": "湖口縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "九江府",
-        "source_historical_county": "德化縣"
+        "source_historical_county": "德化縣",
+        "map_dash": ""
       }
     },
     {
@@ -935,6 +2256,50 @@
             29.734993
           ],
           [
+            116.2417253,
+            29.74287445
+          ],
+          [
+            116.26815912,
+            29.75272143
+          ],
+          [
+            116.29672291,
+            29.76424668
+          ],
+          [
+            116.32682012,
+            29.77716291
+          ],
+          [
+            116.35785422,
+            29.79118284
+          ],
+          [
+            116.38922865,
+            29.80601921
+          ],
+          [
+            116.42034689,
+            29.82138474
+          ],
+          [
+            116.45061238,
+            29.83699214
+          ],
+          [
+            116.47942857,
+            29.85255414
+          ],
+          [
+            116.50619894,
+            29.86778347
+          ],
+          [
+            116.53032693,
+            29.88239285
+          ],
+          [
             116.551216,
             29.896095
           ]
@@ -946,12 +2311,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-055",
         "route_name": "Mun Sundeuk group",
-        "sequence": 28,
+        "sequence": 29,
         "source_name_zh": "湖口縣",
         "target_name_zh": "彭澤縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -965,6 +2332,50 @@
             29.896095
           ],
           [
+            116.57836837,
+            29.91531473
+          ],
+          [
+            116.60815147,
+            29.93732936
+          ],
+          [
+            116.6399323,
+            29.96169354
+          ],
+          [
+            116.67307788,
+            29.98796191
+          ],
+          [
+            116.70695523,
+            30.01568912
+          ],
+          [
+            116.74093135,
+            30.0444298
+          ],
+          [
+            116.77437326,
+            30.07373861
+          ],
+          [
+            116.80664796,
+            30.10317018
+          ],
+          [
+            116.83712247,
+            30.13227917
+          ],
+          [
+            116.86516381,
+            30.1606202
+          ],
+          [
+            116.89013898,
+            30.18774793
+          ],
+          [
             116.911415,
             30.213217
           ]
@@ -976,12 +2387,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-056",
         "route_name": "Mun Sundeuk group",
-        "sequence": 29,
+        "sequence": 30,
         "source_name_zh": "彭澤縣",
         "target_name_zh": "東流縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -995,6 +2408,50 @@
             30.213217
           ],
           [
+            116.92402289,
+            30.23275208
+          ],
+          [
+            116.93471375,
+            30.25587317
+          ],
+          [
+            116.94393527,
+            30.28179838
+          ],
+          [
+            116.95213512,
+            30.30974578
+          ],
+          [
+            116.95976099,
+            30.33893347
+          ],
+          [
+            116.96726056,
+            30.36857954
+          ],
+          [
+            116.97508152,
+            30.39790208
+          ],
+          [
+            116.98367154,
+            30.42611918
+          ],
+          [
+            116.99347832,
+            30.45244893
+          ],
+          [
+            117.00494954,
+            30.47610943
+          ],
+          [
+            117.01853287,
+            30.49631875
+          ],
+          [
             117.034676,
             30.512295
           ]
@@ -1006,12 +2463,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-057",
         "route_name": "Mun Sundeuk group",
-        "sequence": 30,
+        "sequence": 31,
         "source_name_zh": "東流縣",
         "target_name_zh": "懷寧縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1025,6 +2484,50 @@
             30.512295
           ],
           [
+            117.06067324,
+            30.52876109
+          ],
+          [
+            117.09247201,
+            30.54322491
+          ],
+          [
+            117.12894637,
+            30.5560361
+          ],
+          [
+            117.16897034,
+            30.56754433
+          ],
+          [
+            117.21141799,
+            30.57809924
+          ],
+          [
+            117.25516335,
+            30.58805046
+          ],
+          [
+            117.29908046,
+            30.59774767
+          ],
+          [
+            117.34204338,
+            30.60754049
+          ],
+          [
+            117.38292615,
+            30.61777859
+          ],
+          [
+            117.42060282,
+            30.62881161
+          ],
+          [
+            117.45394742,
+            30.6409892
+          ],
+          [
             117.481834,
             30.654661
           ]
@@ -1036,12 +2539,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-058",
         "route_name": "Mun Sundeuk group",
-        "sequence": 31,
+        "sequence": 32,
         "source_name_zh": "懷寧縣",
         "target_name_zh": "貴池縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1055,6 +2560,50 @@
             30.654661
           ],
           [
+            117.50622804,
+            30.67128203
+          ],
+          [
+            117.53125456,
+            30.69236215
+          ],
+          [
+            117.55678262,
+            30.71701697
+          ],
+          [
+            117.58268128,
+            30.74436209
+          ],
+          [
+            117.6088196,
+            30.77351312
+          ],
+          [
+            117.63506662,
+            30.80358564
+          ],
+          [
+            117.66129142,
+            30.83369527
+          ],
+          [
+            117.68736305,
+            30.8629576
+          ],
+          [
+            117.71315056,
+            30.89048824
+          ],
+          [
+            117.73852302,
+            30.91540278
+          ],
+          [
+            117.76334948,
+            30.93681684
+          ],
+          [
             117.787499,
             30.953846
           ]
@@ -1066,12 +2615,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-059",
         "route_name": "Mun Sundeuk group",
-        "sequence": 32,
+        "sequence": 33,
         "source_name_zh": "貴池縣",
         "target_name_zh": "銅陵縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1085,6 +2636,50 @@
             30.953846
           ],
           [
+            117.81262076,
+            30.9669248
+          ],
+          [
+            117.84261437,
+            30.97895099
+          ],
+          [
+            117.87649696,
+            30.99014839
+          ],
+          [
+            117.9132857,
+            31.00074085
+          ],
+          [
+            117.95199773,
+            31.0109522
+          ],
+          [
+            117.99165021,
+            31.02100628
+          ],
+          [
+            118.03126029,
+            31.03112693
+          ],
+          [
+            118.06984512,
+            31.04153799
+          ],
+          [
+            118.10642185,
+            31.05246329
+          ],
+          [
+            118.14000764,
+            31.06412666
+          ],
+          [
+            118.16961964,
+            31.07675195
+          ],
+          [
             118.194275,
             31.090563
           ]
@@ -1096,12 +2691,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-060",
         "route_name": "Mun Sundeuk group",
-        "sequence": 33,
+        "sequence": 34,
         "source_name_zh": "銅陵縣",
         "target_name_zh": "繁昌縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1115,6 +2712,50 @@
             31.090563
           ],
           [
+            118.21069394,
+            31.10329921
+          ],
+          [
+            118.22682039,
+            31.11921443
+          ],
+          [
+            118.2426117,
+            31.1377711
+          ],
+          [
+            118.25802525,
+            31.15843166
+          ],
+          [
+            118.27301839,
+            31.18065855
+          ],
+          [
+            118.28754851,
+            31.20391421
+          ],
+          [
+            118.30157295,
+            31.22766108
+          ],
+          [
+            118.3150491,
+            31.2513616
+          ],
+          [
+            118.32793431,
+            31.27447821
+          ],
+          [
+            118.34018595,
+            31.29647336
+          ],
+          [
+            118.35176139,
+            31.31680947
+          ],
+          [
             118.362618,
             31.334949
           ]
@@ -1126,12 +2767,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-061",
         "route_name": "Mun Sundeuk group",
-        "sequence": 34,
+        "sequence": 35,
         "source_name_zh": "繁昌縣",
         "target_name_zh": "蕪湖縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1145,6 +2788,50 @@
             31.334949
           ],
           [
+            118.3719189,
+            31.350328
+          ],
+          [
+            118.38173844,
+            31.36729249
+          ],
+          [
+            118.3919629,
+            31.38553131
+          ],
+          [
+            118.40247853,
+            31.40473331
+          ],
+          [
+            118.41317159,
+            31.42458733
+          ],
+          [
+            118.42392834,
+            31.44478221
+          ],
+          [
+            118.43463505,
+            31.46500681
+          ],
+          [
+            118.44517797,
+            31.48494996
+          ],
+          [
+            118.45544337,
+            31.50430051
+          ],
+          [
+            118.4653175,
+            31.52274731
+          ],
+          [
+            118.47468662,
+            31.53997919
+          ],
+          [
             118.483437,
             31.555685
           ]
@@ -1156,12 +2843,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-062",
         "route_name": "Mun Sundeuk group",
-        "sequence": 35,
+        "sequence": 36,
         "source_name_zh": "蕪湖縣",
         "target_name_zh": "當塗縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1175,6 +2864,50 @@
             31.555685
           ],
           [
+            118.50163106,
+            31.5871591
+          ],
+          [
+            118.52322684,
+            31.62355007
+          ],
+          [
+            118.54750939,
+            31.66392462
+          ],
+          [
+            118.57376377,
+            31.70734945
+          ],
+          [
+            118.60127501,
+            31.75289128
+          ],
+          [
+            118.62932816,
+            31.7996168
+          ],
+          [
+            118.65720828,
+            31.84659272
+          ],
+          [
+            118.68420041,
+            31.89288575
+          ],
+          [
+            118.7095896,
+            31.93756258
+          ],
+          [
+            118.73266089,
+            31.97968993
+          ],
+          [
+            118.75269934,
+            32.0183345
+          ],
+          [
             118.76899,
             32.052563
           ]
@@ -1186,12 +2919,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-063",
         "route_name": "Mun Sundeuk group",
-        "sequence": 36,
+        "sequence": 37,
         "source_name_zh": "當塗縣",
         "target_name_zh": "上元縣",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1205,6 +2940,50 @@
             32.052563
           ],
           [
+            118.77614529,
+            32.07385173
+          ],
+          [
+            118.78082289,
+            32.09860748
+          ],
+          [
+            118.78368906,
+            32.12597375
+          ],
+          [
+            118.78541,
+            32.15509403
+          ],
+          [
+            118.78665197,
+            32.1851118
+          ],
+          [
+            118.7880812,
+            32.21517056
+          ],
+          [
+            118.79036391,
+            32.24441378
+          ],
+          [
+            118.79416635,
+            32.27198496
+          ],
+          [
+            118.80015474,
+            32.29702758
+          ],
+          [
+            118.80899532,
+            32.31868514
+          ],
+          [
+            118.82135433,
+            32.33610112
+          ],
+          [
             118.837898,
             32.348419
           ]
@@ -1216,12 +2995,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-064",
         "route_name": "Mun Sundeuk group",
-        "sequence": 37,
+        "sequence": 38,
         "source_name_zh": "上元縣",
         "target_name_zh": "棠邑驛",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1235,6 +3016,50 @@
             32.348419
           ],
           [
+            118.87025367,
+            32.36002224
+          ],
+          [
+            118.91234146,
+            32.36822179
+          ],
+          [
+            118.96221369,
+            32.37359486
+          ],
+          [
+            119.01792271,
+            32.37671865
+          ],
+          [
+            119.07752086,
+            32.37817039
+          ],
+          [
+            119.13906048,
+            32.37852726
+          ],
+          [
+            119.2005939,
+            32.37836648
+          ],
+          [
+            119.26017347,
+            32.37826525
+          ],
+          [
+            119.31585153,
+            32.37880078
+          ],
+          [
+            119.36568041,
+            32.38055028
+          ],
+          [
+            119.40771245,
+            32.38409095
+          ],
+          [
             119.44,
             32.39
           ]
@@ -1246,13 +3071,15 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-065",
         "route_name": "Mun Sundeuk group",
-        "sequence": 38,
+        "sequence": 39,
         "source_name_zh": "棠邑驛",
         "target_name_zh": "廣陵驛",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
-        "target_historical_county": "江都縣"
+        "geometry_grade": "G3",
+        "target_historical_county": "江都縣",
+        "map_dash": ""
       }
     },
     {
@@ -1266,6 +3093,50 @@
             32.39
           ],
           [
+            119.44991861,
+            32.39429616
+          ],
+          [
+            119.45918046,
+            32.40133461
+          ],
+          [
+            119.46774632,
+            32.41069724
+          ],
+          [
+            119.47557698,
+            32.42196593
+          ],
+          [
+            119.48263325,
+            32.43472257
+          ],
+          [
+            119.48887589,
+            32.44854905
+          ],
+          [
+            119.49426571,
+            32.46302724
+          ],
+          [
+            119.49876349,
+            32.47773904
+          ],
+          [
+            119.50233002,
+            32.49226633
+          ],
+          [
+            119.50492609,
+            32.506191
+          ],
+          [
+            119.50651249,
+            32.51909493
+          ],
+          [
             119.50705,
             32.53056
           ]
@@ -1277,14 +3148,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-067",
         "route_name": "Mun Sundeuk group",
-        "sequence": 39,
+        "sequence": 40,
         "source_name_zh": "廣陵驛",
         "target_name_zh": "邵伯驛",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_county": "江都縣",
-        "target_historical_county": "甘泉縣"
+        "target_historical_county": "甘泉縣",
+        "map_dash": ""
       }
     },
     {
@@ -1298,6 +3171,50 @@
             32.53056
           ],
           [
+            119.50598156,
+            32.54771176
+          ],
+          [
+            119.50299546,
+            32.56691852
+          ],
+          [
+            119.49842049,
+            32.5878075
+          ],
+          [
+            119.49258546,
+            32.61000593
+          ],
+          [
+            119.48581919,
+            32.63314103
+          ],
+          [
+            119.47845047,
+            32.65684001
+          ],
+          [
+            119.47080811,
+            32.6807301
+          ],
+          [
+            119.46322092,
+            32.70443853
+          ],
+          [
+            119.45601771,
+            32.72759251
+          ],
+          [
+            119.44952728,
+            32.74981927
+          ],
+          [
+            119.44407844,
+            32.77074602
+          ],
+          [
             119.44,
             32.79
           ]
@@ -1309,14 +3226,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-068",
         "route_name": "Mun Sundeuk group",
-        "sequence": 40,
+        "sequence": 41,
         "source_name_zh": "邵伯驛",
         "target_name_zh": "盂城驛",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_county": "甘泉縣",
-        "target_historical_zhou": "高郵州"
+        "target_historical_zhou": "高郵州",
+        "map_dash": ""
       }
     },
     {
@@ -1330,6 +3249,50 @@
             32.79
           ],
           [
+            119.43767275,
+            32.80589784
+          ],
+          [
+            119.43601691,
+            32.82314212
+          ],
+          [
+            119.43487235,
+            32.84145752
+          ],
+          [
+            119.43407896,
+            32.86056873
+          ],
+          [
+            119.43347659,
+            32.8802004
+          ],
+          [
+            119.43290512,
+            32.90007722
+          ],
+          [
+            119.43220443,
+            32.91992387
+          ],
+          [
+            119.43121437,
+            32.939465
+          ],
+          [
+            119.42977483,
+            32.95842531
+          ],
+          [
+            119.42772568,
+            32.97652946
+          ],
+          [
+            119.42490677,
+            32.99350213
+          ],
+          [
             119.421158,
             33.009068
           ]
@@ -1341,14 +3304,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-069",
         "route_name": "Mun Sundeuk group",
-        "sequence": 41,
+        "sequence": 42,
         "source_name_zh": "盂城驛",
         "target_name_zh": "界首驛",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_zhou": "高郵州",
-        "target_historical_zhou": "高郵州"
+        "target_historical_zhou": "高郵州",
+        "map_dash": ""
       }
     },
     {
@@ -1362,6 +3327,50 @@
             33.009068
           ],
           [
+            119.41556784,
+            33.02652654
+          ],
+          [
+            119.40861165,
+            33.04522915
+          ],
+          [
+            119.40049889,
+            33.06490001
+          ],
+          [
+            119.39143902,
+            33.08526332
+          ],
+          [
+            119.38164151,
+            33.10604326
+          ],
+          [
+            119.37131583,
+            33.12696402
+          ],
+          [
+            119.36067143,
+            33.14774977
+          ],
+          [
+            119.34991778,
+            33.16812471
+          ],
+          [
+            119.33926435,
+            33.18781301
+          ],
+          [
+            119.3289206,
+            33.20653887
+          ],
+          [
+            119.31909599,
+            33.22402647
+          ],
+          [
             119.31,
             33.24
           ]
@@ -1373,14 +3382,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-070",
         "route_name": "Mun Sundeuk group",
-        "sequence": 42,
+        "sequence": 43,
         "source_name_zh": "界首驛",
         "target_name_zh": "安平驛",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_zhou": "高郵州",
-        "target_historical_county": "寶應縣"
+        "target_historical_county": "寶應縣",
+        "map_dash": ""
       }
     },
     {
@@ -1394,6 +3405,50 @@
             33.24
           ],
           [
+            119.29889184,
+            33.25917171
+          ],
+          [
+            119.28635326,
+            33.28038102
+          ],
+          [
+            119.27264654,
+            33.30315274
+          ],
+          [
+            119.258034,
+            33.32701167
+          ],
+          [
+            119.24277793,
+            33.35148263
+          ],
+          [
+            119.22714064,
+            33.37609042
+          ],
+          [
+            119.21138442,
+            33.40035985
+          ],
+          [
+            119.19577158,
+            33.42381574
+          ],
+          [
+            119.18056441,
+            33.44598289
+          ],
+          [
+            119.16602523,
+            33.46638611
+          ],
+          [
+            119.15241632,
+            33.48455021
+          ],
+          [
             119.14,
             33.5
           ]
@@ -1405,14 +3460,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-WATER-071",
         "route_name": "Mun Sundeuk group",
-        "sequence": 43,
+        "sequence": 44,
         "source_name_zh": "安平驛",
         "target_name_zh": "淮陰驛",
         "transport_mode": "water",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_county": "寶應縣",
-        "target_historical_county": "山陽縣"
+        "target_historical_county": "山陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -1426,6 +3483,50 @@
             33.5
           ],
           [
+            119.1330756,
+            33.50749064
+          ],
+          [
+            119.12469366,
+            33.51536594
+          ],
+          [
+            119.11510861,
+            33.52350354
+          ],
+          [
+            119.10457488,
+            33.53178108
+          ],
+          [
+            119.09334691,
+            33.54007621
+          ],
+          [
+            119.08167914,
+            33.54826655
+          ],
+          [
+            119.069826,
+            33.55622975
+          ],
+          [
+            119.05804193,
+            33.56384345
+          ],
+          [
+            119.04658136,
+            33.57098529
+          ],
+          [
+            119.03569872,
+            33.5775329
+          ],
+          [
+            119.02564846,
+            33.58336392
+          ],
+          [
             119.016685,
             33.588356
           ]
@@ -1437,14 +3538,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-072",
         "route_name": "Mun Sundeuk group",
-        "sequence": 44,
+        "sequence": 45,
         "source_name_zh": "淮陰驛",
         "target_name_zh": "清口驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_county": "山陽縣",
-        "target_historical_county": "清河縣"
+        "target_historical_county": "清河縣",
+        "map_dash": ""
       }
     },
     {
@@ -1458,6 +3561,50 @@
             33.588356
           ],
           [
+            118.9770764,
+            33.6086239
+          ],
+          [
+            118.92703262,
+            33.63243818
+          ],
+          [
+            118.86857366,
+            33.65931099
+          ],
+          [
+            118.8037195,
+            33.68875446
+          ],
+          [
+            118.73449013,
+            33.72028072
+          ],
+          [
+            118.66290555,
+            33.7534019
+          ],
+          [
+            118.59098574,
+            33.78763015
+          ],
+          [
+            118.5207507,
+            33.82247759
+          ],
+          [
+            118.45422041,
+            33.85745636
+          ],
+          [
+            118.39341487,
+            33.8920786
+          ],
+          [
+            118.34035407,
+            33.92585643
+          ],
+          [
             118.297058,
             33.958302
           ]
@@ -1469,14 +3616,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-073",
         "route_name": "Mun Sundeuk group",
-        "sequence": 45,
+        "sequence": 46,
         "source_name_zh": "清口驛",
         "target_name_zh": "鍾吾驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_county": "清河縣",
-        "target_historical_county": "宿遷縣"
+        "target_historical_county": "宿遷縣",
+        "map_dash": ""
       }
     },
     {
@@ -1490,6 +3639,50 @@
             33.958302
           ],
           [
+            118.26627994,
+            33.9880455
+          ],
+          [
+            118.23637704,
+            34.02412292
+          ],
+          [
+            118.2072474,
+            34.06534226
+          ],
+          [
+            118.17878915,
+            34.11051149
+          ],
+          [
+            118.15090038,
+            34.15843861
+          ],
+          [
+            118.12347921,
+            34.2079316
+          ],
+          [
+            118.09642375,
+            34.25779845
+          ],
+          [
+            118.06963212,
+            34.30684713
+          ],
+          [
+            118.04300241,
+            34.35388564
+          ],
+          [
+            118.01643275,
+            34.39772197
+          ],
+          [
+            117.98982124,
+            34.43716409
+          ],
+          [
             117.963066,
             34.47102
           ]
@@ -1501,13 +3694,15 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-075",
         "route_name": "Mun Sundeuk group",
-        "sequence": 46,
+        "sequence": 47,
         "source_name_zh": "鍾吾驛",
         "target_name_zh": "邳州",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
-        "source_historical_county": "宿遷縣"
+        "geometry_grade": "G3",
+        "source_historical_county": "宿遷縣",
+        "map_dash": ""
       }
     },
     {
@@ -1521,6 +3716,50 @@
             34.47102
           ],
           [
+            117.94078206,
+            34.49457048
+          ],
+          [
+            117.91420297,
+            34.5196005
+          ],
+          [
+            117.88411912,
+            34.54574063
+          ],
+          [
+            117.85132085,
+            34.57262144
+          ],
+          [
+            117.81659855,
+            34.59987349
+          ],
+          [
+            117.78074257,
+            34.62712735
+          ],
+          [
+            117.74454328,
+            34.65401357
+          ],
+          [
+            117.70879104,
+            34.68016273
+          ],
+          [
+            117.67427623,
+            34.70520539
+          ],
+          [
+            117.64178921,
+            34.72877211
+          ],
+          [
+            117.61212035,
+            34.75049346
+          ],
+          [
             117.58606,
             34.77
           ]
@@ -1532,12 +3771,14 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-076",
         "route_name": "Mun Sundeuk group",
-        "sequence": 47,
+        "sequence": 48,
         "source_name_zh": "邳州",
         "target_name_zh": "嶧縣",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
-        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli."
+        "geometry_basis": "station_sequence_scale_generalized_curve",
+        "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
+        "map_dash": ""
       }
     },
     {
@@ -1551,8 +3792,52 @@
             34.77
           ],
           [
-            117.15816498,
-            35.08609009
+            117.55713413,
+            34.79168669
+          ],
+          [
+            117.52361605,
+            34.8162736
+          ],
+          [
+            117.48651098,
+            34.84313967
+          ],
+          [
+            117.44682413,
+            34.87166381
+          ],
+          [
+            117.4055607,
+            34.90122498
+          ],
+          [
+            117.3637259,
+            34.93120209
+          ],
+          [
+            117.32232494,
+            34.96097409
+          ],
+          [
+            117.28236302,
+            34.98991991
+          ],
+          [
+            117.24484537,
+            35.01741848
+          ],
+          [
+            117.21077717,
+            35.04284872
+          ],
+          [
+            117.18116365,
+            35.06558959
+          ],
+          [
+            117.15701,
+            35.08502
           ]
         ]
       },
@@ -1562,14 +3847,16 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-077",
         "route_name": "Mun Sundeuk group",
-        "sequence": 48,
+        "sequence": 49,
         "source_name_zh": "嶧縣",
         "target_name_zh": "滕陽驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "target_historical_province": "山東",
-        "target_historical_county": "滕縣"
+        "target_historical_county": "滕縣",
+        "map_dash": ""
       }
     },
     {
@@ -1579,12 +3866,56 @@
         "type": "LineString",
         "coordinates": [
           [
-            117.15816498,
-            35.08609009
+            117.15701,
+            35.08502
           ],
           [
-            116.96727,
-            35.40276
+            117.14879858,
+            35.09234981
+          ],
+          [
+            117.14015686,
+            35.10094564
+          ],
+          [
+            117.13121562,
+            35.11059236
+          ],
+          [
+            117.12210563,
+            35.12107483
+          ],
+          [
+            117.11295767,
+            35.13217789
+          ],
+          [
+            117.10390252,
+            35.14368641
+          ],
+          [
+            117.09507095,
+            35.15538524
+          ],
+          [
+            117.08659375,
+            35.16705924
+          ],
+          [
+            117.07860168,
+            35.17849327
+          ],
+          [
+            117.07122553,
+            35.18947219
+          ],
+          [
+            117.06459608,
+            35.19978084
+          ],
+          [
+            117.0588441,
+            35.2092041
           ]
         ]
       },
@@ -1594,16 +3925,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-078",
         "route_name": "Mun Sundeuk group",
-        "sequence": 49,
+        "sequence": 50,
         "source_name_zh": "滕陽驛",
         "target_name_zh": "界河驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "滕縣",
         "target_historical_province": "山東",
-        "target_historical_county": "鄒縣"
+        "target_historical_county": "鄒縣",
+        "map_dash": ""
       }
     },
     {
@@ -1613,8 +3946,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            116.96727,
-            35.40276
+            117.0588441,
+            35.2092041
+          ],
+          [
+            117.05145635,
+            35.22264847
+          ],
+          [
+            117.04411349,
+            35.23768464
+          ],
+          [
+            117.03679409,
+            35.25398636
+          ],
+          [
+            117.0294767,
+            35.27122738
+          ],
+          [
+            117.02213988,
+            35.28908145
+          ],
+          [
+            117.01476219,
+            35.30722232
+          ],
+          [
+            117.00732219,
+            35.32532373
+          ],
+          [
+            116.99979845,
+            35.34305942
+          ],
+          [
+            116.99216952,
+            35.36010315
+          ],
+          [
+            116.98441395,
+            35.37612867
+          ],
+          [
+            116.97651033,
+            35.39080972
           ],
           [
             116.96843719,
@@ -1628,16 +4005,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-079",
         "route_name": "Mun Sundeuk group",
-        "sequence": 50,
+        "sequence": 51,
         "source_name_zh": "界河驛",
         "target_name_zh": "邾城驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "鄒縣",
         "target_historical_province": "山東",
-        "target_historical_county": "鄒縣"
+        "target_historical_county": "鄒縣",
+        "map_dash": ""
       }
     },
     {
@@ -1651,6 +4030,50 @@
             35.40382004
           ],
           [
+            116.9600222,
+            35.41557473
+          ],
+          [
+            116.95009316,
+            35.42829858
+          ],
+          [
+            116.93890539,
+            35.44175458
+          ],
+          [
+            116.9267142,
+            35.45570572
+          ],
+          [
+            116.91377492,
+            35.46991498
+          ],
+          [
+            116.90034285,
+            35.48414535
+          ],
+          [
+            116.88667333,
+            35.4981598
+          ],
+          [
+            116.87302167,
+            35.51172133
+          ],
+          [
+            116.85964318,
+            35.52459291
+          ],
+          [
+            116.84679318,
+            35.53653754
+          ],
+          [
+            116.834727,
+            35.54731819
+          ],
+          [
             116.82369995,
             35.55669785
           ]
@@ -1662,16 +4085,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-080",
         "route_name": "Mun Sundeuk group",
-        "sequence": 51,
+        "sequence": 52,
         "source_name_zh": "邾城驛",
         "target_name_zh": "昌平驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "鄒縣",
         "target_historical_province": "山東",
-        "target_historical_county": "滋陽縣"
+        "target_historical_county": "滋陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -1685,6 +4110,50 @@
             35.55669785
           ],
           [
+            116.81431479,
+            35.56401718
+          ],
+          [
+            116.80326147,
+            35.57193319
+          ],
+          [
+            116.79085193,
+            35.58029355
+          ],
+          [
+            116.77739814,
+            35.58894597
+          ],
+          [
+            116.76321204,
+            35.59773813
+          ],
+          [
+            116.7486056,
+            35.60651772
+          ],
+          [
+            116.73389076,
+            35.61513244
+          ],
+          [
+            116.71937947,
+            35.62342996
+          ],
+          [
+            116.7053837,
+            35.63125799
+          ],
+          [
+            116.6922154,
+            35.63846421
+          ],
+          [
+            116.68018651,
+            35.64489632
+          ],
+          [
             116.669609,
             35.650402
           ]
@@ -1696,16 +4165,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-081",
         "route_name": "Mun Sundeuk group",
-        "sequence": 52,
+        "sequence": 53,
         "source_name_zh": "昌平驛",
         "target_name_zh": "新嘉驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "滋陽縣",
         "target_historical_province": "山東",
-        "target_historical_county": "滋陽縣"
+        "target_historical_county": "滋陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -1719,6 +4190,50 @@
             35.650402
           ],
           [
+            116.65786571,
+            35.65598387
+          ],
+          [
+            116.64402064,
+            35.66189832
+          ],
+          [
+            116.62850827,
+            35.66810225
+          ],
+          [
+            116.61176308,
+            35.67455257
+          ],
+          [
+            116.59421954,
+            35.68120619
+          ],
+          [
+            116.57631215,
+            35.68802003
+          ],
+          [
+            116.55847537,
+            35.694951
+          ],
+          [
+            116.54114369,
+            35.701956
+          ],
+          [
+            116.52475159,
+            35.70899194
+          ],
+          [
+            116.50973355,
+            35.71601575
+          ],
+          [
+            116.49652405,
+            35.72298433
+          ],
+          [
             116.48555756,
             35.72985458
           ]
@@ -1730,16 +4245,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-082",
         "route_name": "Mun Sundeuk group",
-        "sequence": 53,
+        "sequence": 54,
         "source_name_zh": "新嘉驛",
         "target_name_zh": "新橋驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "滋陽縣",
         "target_historical_province": "山東",
-        "target_historical_county": "汶上縣"
+        "target_historical_county": "汶上縣",
+        "map_dash": ""
       }
     },
     {
@@ -1753,6 +4270,50 @@
             35.72985458
           ],
           [
+            116.47123154,
+            35.74029738
+          ],
+          [
+            116.45547383,
+            35.75250855
+          ],
+          [
+            116.43864814,
+            35.76620838
+          ],
+          [
+            116.42111819,
+            35.78111715
+          ],
+          [
+            116.4032477,
+            35.79695514
+          ],
+          [
+            116.38540039,
+            35.81344264
+          ],
+          [
+            116.36793997,
+            35.83029994
+          ],
+          [
+            116.35123017,
+            35.8472473
+          ],
+          [
+            116.3356347,
+            35.86400503
+          ],
+          [
+            116.32151728,
+            35.88029339
+          ],
+          [
+            116.30924162,
+            35.89583268
+          ],
+          [
             116.29917145,
             35.91034317
           ]
@@ -1764,16 +4325,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-083",
         "route_name": "Mun Sundeuk group",
-        "sequence": 54,
+        "sequence": 55,
         "source_name_zh": "新橋驛",
         "target_name_zh": "東原驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "汶上縣",
         "target_historical_province": "山東",
-        "target_historical_zhou": "東平州"
+        "target_historical_zhou": "東平州",
+        "map_dash": ""
       }
     },
     {
@@ -1787,6 +4350,50 @@
             35.91034317
           ],
           [
+            116.29126377,
+            35.92409335
+          ],
+          [
+            116.2838278,
+            35.93954987
+          ],
+          [
+            116.27686924,
+            35.95640846
+          ],
+          [
+            116.27039376,
+            35.97436483
+          ],
+          [
+            116.26440707,
+            35.99311468
+          ],
+          [
+            116.25891485,
+            36.01235373
+          ],
+          [
+            116.25392278,
+            36.03177768
+          ],
+          [
+            116.24943657,
+            36.05108226
+          ],
+          [
+            116.24546189,
+            36.06996317
+          ],
+          [
+            116.24200445,
+            36.08811612
+          ],
+          [
+            116.23906992,
+            36.10523683
+          ],
+          [
             116.236664,
             36.121021
           ]
@@ -1798,16 +4405,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-084",
         "route_name": "Mun Sundeuk group",
-        "sequence": 55,
+        "sequence": 56,
         "source_name_zh": "東原驛",
         "target_name_zh": "舊縣驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_zhou": "東平州",
         "target_historical_province": "山東",
-        "target_historical_county": "東阿縣"
+        "target_historical_county": "東阿縣",
+        "map_dash": ""
       }
     },
     {
@@ -1821,6 +4430,50 @@
             36.121021
           ],
           [
+            116.23495496,
+            36.13615554
+          ],
+          [
+            116.23388945,
+            36.15249179
+          ],
+          [
+            116.23338016,
+            36.16979175
+          ],
+          [
+            116.23333983,
+            36.1878174
+          ],
+          [
+            116.23368116,
+            36.20633073
+          ],
+          [
+            116.23431687,
+            36.22509373
+          ],
+          [
+            116.23515967,
+            36.24386838
+          ],
+          [
+            116.23612227,
+            36.26241667
+          ],
+          [
+            116.23711739,
+            36.28050059
+          ],
+          [
+            116.23805774,
+            36.29788213
+          ],
+          [
+            116.23885604,
+            36.31432327
+          ],
+          [
             116.239425,
             36.329586
           ]
@@ -1832,16 +4485,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-085",
         "route_name": "Mun Sundeuk group",
-        "sequence": 56,
+        "sequence": 57,
         "source_name_zh": "舊縣驛",
         "target_name_zh": "銅城驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "東阿縣",
         "target_historical_province": "山東",
-        "target_historical_county": "東阿縣"
+        "target_historical_county": "東阿縣",
+        "map_dash": ""
       }
     },
     {
@@ -1855,6 +4510,50 @@
             36.329586
           ],
           [
+            116.24011928,
+            36.34838936
+          ],
+          [
+            116.24110316,
+            36.36861962
+          ],
+          [
+            116.24230099,
+            36.38999139
+          ],
+          [
+            116.24363713,
+            36.41221929
+          ],
+          [
+            116.24503596,
+            36.43501792
+          ],
+          [
+            116.24642182,
+            36.45810191
+          ],
+          [
+            116.24771907,
+            36.48118586
+          ],
+          [
+            116.24885208,
+            36.50398439
+          ],
+          [
+            116.24974521,
+            36.52621211
+          ],
+          [
+            116.25032281,
+            36.54758363
+          ],
+          [
+            116.25050925,
+            36.56781356
+          ],
+          [
             116.25022888,
             36.58661652
           ]
@@ -1866,16 +4565,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-086",
         "route_name": "Mun Sundeuk group",
-        "sequence": 57,
+        "sequence": 58,
         "source_name_zh": "銅城驛",
         "target_name_zh": "茌山驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "東阿縣",
         "target_historical_province": "山東",
-        "target_historical_county": "荏平縣"
+        "target_historical_county": "荏平縣",
+        "map_dash": ""
       }
     },
     {
@@ -1889,6 +4590,50 @@
             36.58661652
           ],
           [
+            116.24916143,
+            36.6064568
+          ],
+          [
+            116.24722851,
+            36.62778141
+          ],
+          [
+            116.24462703,
+            36.6502933
+          ],
+          [
+            116.24155389,
+            36.67369542
+          ],
+          [
+            116.238206,
+            36.69769072
+          ],
+          [
+            116.23478027,
+            36.72198216
+          ],
+          [
+            116.2314736,
+            36.74627268
+          ],
+          [
+            116.22848291,
+            36.77026525
+          ],
+          [
+            116.22600509,
+            36.79366281
+          ],
+          [
+            116.22423707,
+            36.81616832
+          ],
+          [
+            116.22337573,
+            36.83748474
+          ],
+          [
             116.223618,
             36.857315
           ]
@@ -1900,16 +4645,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-087",
         "route_name": "Mun Sundeuk group",
-        "sequence": 58,
+        "sequence": 59,
         "source_name_zh": "茌山驛",
         "target_name_zh": "魚邱驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "荏平縣",
         "target_historical_province": "山東",
-        "target_historical_zhou": "高唐州"
+        "target_historical_zhou": "高唐州",
+        "map_dash": ""
       }
     },
     {
@@ -1923,6 +4670,50 @@
             36.857315
           ],
           [
+            116.22526458,
+            36.87895488
+          ],
+          [
+            116.22817145,
+            36.90216233
+          ],
+          [
+            116.23210784,
+            36.92662222
+          ],
+          [
+            116.23684297,
+            36.9520194
+          ],
+          [
+            116.2421461,
+            36.97803874
+          ],
+          [
+            116.24778645,
+            37.00436511
+          ],
+          [
+            116.25353325,
+            37.03068336
+          ],
+          [
+            116.25915575,
+            37.05667836
+          ],
+          [
+            116.26442317,
+            37.08203496
+          ],
+          [
+            116.26910476,
+            37.10643804
+          ],
+          [
+            116.27296974,
+            37.12957245
+          ],
+          [
             116.27578735,
             37.15112305
           ]
@@ -1934,16 +4725,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-088",
         "route_name": "Mun Sundeuk group",
-        "sequence": 59,
+        "sequence": 60,
         "source_name_zh": "魚邱驛",
         "target_name_zh": "太平驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_zhou": "高唐州",
         "target_historical_province": "山東",
-        "target_historical_county": "恩縣"
+        "target_historical_county": "恩縣",
+        "map_dash": ""
       }
     },
     {
@@ -1957,6 +4750,50 @@
             37.15112305
           ],
           [
+            116.27784146,
+            37.17301346
+          ],
+          [
+            116.27954242,
+            37.19660632
+          ],
+          [
+            116.28093698,
+            37.22156288
+          ],
+          [
+            116.2820719,
+            37.24754439
+          ],
+          [
+            116.28299393,
+            37.27421209
+          ],
+          [
+            116.28374983,
+            37.30122726
+          ],
+          [
+            116.28438634,
+            37.32825112
+          ],
+          [
+            116.28495023,
+            37.35494495
+          ],
+          [
+            116.28548824,
+            37.38096999
+          ],
+          [
+            116.28604713,
+            37.40598749
+          ],
+          [
+            116.28667365,
+            37.42965871
+          ],
+          [
             116.28741455,
             37.4516449
           ]
@@ -1968,16 +4805,18 @@
         "coordinate_status": "검토용 후보 좌표",
         "id": "FIG2-MS-CENTRAL-089",
         "route_name": "Mun Sundeuk group",
-        "sequence": 60,
+        "sequence": 61,
         "source_name_zh": "太平驛",
         "target_name_zh": "安德驛",
         "transport_mode": "land_or_inland_waterway_unspecified",
-        "geometry_basis": "straight_line_between_linked_appendix_nodes",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "Castaway itinerary and the Relay Itineraries of the Huidian zeli.",
+        "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "恩縣",
         "target_historical_province": "山東",
-        "target_historical_zhou": "德州"
+        "target_historical_zhou": "德州",
+        "map_dash": ""
       }
     }
   ]

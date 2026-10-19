@@ -1267,13 +1267,19 @@
         "source_historical_county": "番禺縣",
         "target_historical_province": "廣東",
         "target_historical_county": "三水縣",
+        "map_dash": "3 7",
         "source_river_m": "720.0",
         "target_river_m": "989.6",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "0d1ee84f5a9f2e2a",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "lake:333",
+        "river_follow_start": "五仙驛",
+        "river_follow_end": "西南驛",
+        "hydro_review_note": "오선역에서 정남향으로 수계에 접속하고 같은 수면 폴리곤 북안을 따라 서남역으로 이동한다. 오선역은 현재의 검토용 후보 좌표를 유지한다."
       }
     },
     {
@@ -3465,13 +3471,19 @@
         "source_historical_county": "三水縣",
         "target_historical_province": "廣東",
         "target_historical_county": "清遠縣",
+        "map_dash": "3 7",
         "source_river_m": "989.6",
         "target_river_m": "1464.4",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "dc31515375c1aa0f",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "lake:332",
+        "river_follow_start": "西南驛",
+        "river_follow_end": "安遠驛",
+        "hydro_review_note": "서남역에서 북상 방향을 유지해 北江 수면 폴리곤 우안에 접속하고 우안을 따라 북상한다. 안원역 정남에서 도강해 역점에 들른 뒤, 후속 구간은 안원역 측 강변에서 CHGIS 선형 하천에 접속한다."
       }
     },
     {
@@ -5183,13 +5195,19 @@
         "source_historical_county": "清遠縣",
         "target_historical_province": "廣東",
         "target_historical_county": "英德縣",
+        "map_dash": "3 7",
         "source_river_m": "1464.4",
         "target_river_m": "3576.4",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "8a9578e6dff22d88",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "4288,4866,4867,4868,4869,4870,4871",
+        "river_follow_start": "安遠驛",
+        "river_follow_end": "湞陽驛",
+        "hydro_review_note": "CHGIS 하천 후보 0개; 北江 (river_id=2573) 선택; DEM 선 표본과의 평균거리 5992.8m."
       }
     },
     {
@@ -7397,13 +7415,19 @@
         "source_historical_county": "英德縣",
         "target_historical_province": "廣東",
         "target_historical_county": "曲江縣",
+        "map_dash": "3 7",
         "source_river_m": "3576.4",
         "target_river_m": "977.9",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "d329d92958ddf50a",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "4870,4871,4872,4873,4874",
+        "river_follow_start": "湞陽驛",
+        "river_follow_end": "芙蓉驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 北江 (river_id=2573) 선택; DEM 선 표본과의 평균거리 1494.5m."
       }
     },
     {
@@ -9075,13 +9099,19 @@
         "source_historical_county": "曲江縣",
         "target_historical_province": "廣東",
         "target_historical_county": "始興縣",
+        "map_dash": "3 7",
         "source_river_m": "977.9",
         "target_river_m": "428.7",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "db09db2e2ee3e865",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2485,2486",
+        "river_follow_start": "芙蓉驛",
+        "river_follow_end": "在城驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 東江 (river_id=1788) 선택; DEM 선 표본과의 평균거리 3457.0m."
       }
     },
     {
@@ -9902,13 +9932,18 @@
         "target_historical_province": "廣東",
         "target_historical_prefecture": "南雄府",
         "target_historical_county": "保昌縣",
+        "map_dash": "3 7",
         "source_river_m": "428.7",
         "target_river_m": "600.7",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "8364fa6ba2d60bf2",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "在城驛",
+        "river_follow_end": "凌江驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -10834,13 +10869,18 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "南安府",
         "target_historical_county": "大庾縣",
+        "map_dash": "3 7",
         "source_river_m": "600.7",
         "target_river_m": "570.1",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "89d979c75b30c35d",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "凌江驛",
+        "river_follow_end": "橫浦驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -11441,13 +11481,19 @@
         "source_historical_county": "大庾縣",
         "target_historical_province": "江西",
         "target_historical_county": "大庾縣",
+        "map_dash": "3 7",
         "source_river_m": "570.1",
         "target_river_m": "1838.2",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "c3707f55167f24c6",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1110",
+        "river_follow_start": "橫浦驛",
+        "river_follow_end": "小溪驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 章水 (river_id=2057) 선택; DEM 선 표본과의 평균거리 711.8m."
       }
     },
     {
@@ -12179,13 +12225,19 @@
         "source_historical_county": "大庾縣",
         "target_historical_province": "江西",
         "target_historical_county": "南康縣",
+        "map_dash": "3 7",
         "source_river_m": "1838.2",
         "target_river_m": "911.4",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "c5219f81ed90f682",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1110",
+        "river_follow_start": "小溪驛",
+        "river_follow_end": "南野驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 章水 (river_id=2057) 선택; DEM 선 표본과의 평균거리 940.8m."
       }
     },
     {
@@ -13065,13 +13117,19 @@
         "source_historical_county": "南康縣",
         "target_historical_province": "江西",
         "target_historical_county": "贛縣",
+        "map_dash": "3 7",
         "source_river_m": "911.4",
         "target_river_m": "757.7",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "0869297cf9685457",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1110,1913",
+        "river_follow_start": "南野驛",
+        "river_follow_end": "烏鎮驛",
+        "hydro_review_note": "Implementation override: Zhangshui and Youjiang endpoint-adjacent networks."
       }
     },
     {
@@ -14163,13 +14221,19 @@
         "source_historical_county": "贛縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "贛州府",
+        "map_dash": "3 7",
         "source_river_m": "757.7",
         "target_river_m": "36.3",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "ca2c5c4a4ba0891e",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2795,2938,2939",
+        "river_follow_start": "烏鎮驛",
+        "river_follow_end": "攸鎮驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; opposite-bank stations use out-and-back connectors."
       }
     },
     {
@@ -15409,13 +15473,19 @@
         "source_historical_prefecture": "贛州府",
         "target_historical_province": "江西",
         "target_historical_county": "萬安縣",
+        "map_dash": "3 7",
         "source_river_m": "36.3",
         "target_river_m": "307.2",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "ca6252e47b2dc434",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "2794,2795,2939",
+        "river_follow_start": "攸鎮驛",
+        "river_follow_end": "五雲驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; opposite-bank stations use out-and-back connectors."
       }
     },
     {
@@ -16531,13 +16601,19 @@
         "source_historical_county": "萬安縣",
         "target_historical_province": "江西",
         "target_historical_county": "泰和縣",
+        "map_dash": "3 7",
         "source_river_m": "307.2",
         "target_river_m": "1380.7",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "a8235c3b70d1311e",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1911,1914,2794,2795,2939",
+        "river_follow_start": "五雲驛",
+        "river_follow_end": "白下驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; opposite-bank stations use out-and-back connectors."
       }
     },
     {
@@ -17738,13 +17814,19 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "吉安府",
         "target_historical_county": "廬陵縣",
+        "map_dash": "3 7",
         "source_river_m": "1380.7",
         "target_river_m": "1157.6",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "b4a5ac8d6ff68d5d",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1910,1911,1914,1915,2794,2939",
+        "river_follow_start": "白下驛",
+        "river_follow_end": "在城驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; opposite-bank stations use out-and-back connectors."
       }
     },
     {
@@ -18314,13 +18396,19 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "吉安府",
         "target_historical_county": "吉水縣",
+        "map_dash": "3 7",
         "source_river_m": "1157.6",
         "target_river_m": "886.1",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "bfe2d05edbc34a45",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1910,1911,1915,1916",
+        "river_follow_start": "在城驛",
+        "river_follow_end": "白水驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; opposite-bank stations use out-and-back connectors."
       }
     },
     {
@@ -19749,13 +19837,19 @@
         "source_historical_county": "吉水縣",
         "target_historical_province": "江西",
         "target_historical_county": "峽江縣",
+        "map_dash": "3 7",
         "source_river_m": "886.1",
         "target_river_m": "650.0",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "7796e05eb645a661",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1908,1910,1915,1916",
+        "river_follow_start": "白水驛",
+        "river_follow_end": "玉峽驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; opposite-bank stations use out-and-back connectors."
       }
     },
     {
@@ -20755,13 +20849,19 @@
         "source_historical_county": "峽江縣",
         "target_historical_province": "江西",
         "target_historical_county": "新淦縣",
+        "map_dash": "3 7",
         "source_river_m": "650.0",
         "target_river_m": "271.0",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "25e637fb5176e185",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1908,1916,1917",
+        "river_follow_start": "玉峽驛",
+        "river_follow_end": "金川驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; opposite-bank stations use out-and-back connectors."
       }
     },
     {
@@ -21970,13 +22070,18 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "臨江府",
         "target_historical_county": "清江縣",
+        "map_dash": "3 7",
         "source_river_m": "271.0",
         "target_river_m": "601.3",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "03248bf1406b330e",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "金川驛",
+        "river_follow_end": "清江鎮驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -22905,13 +23010,19 @@
         "source_historical_county": "清江縣",
         "target_historical_province": "江西",
         "target_historical_county": "豐城縣",
+        "map_dash": "3 7",
         "source_river_m": "601.3",
         "target_river_m": "761.1",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "f9b15bacd26146e3",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "P",
+        "selected_river_source_id": "river:1907; lake:294",
+        "river_follow_start": "清江鎮驛",
+        "river_follow_end": "劍江驛",
+        "hydro_review_note": "Follow the nearest Yuanjiang line from Qingjiangzhen, continue on the Ganjiang north bank, and cross only opposite Jianjiang; return over the same connector in GD-020."
       }
     },
     {
@@ -24792,13 +24903,19 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "南昌府",
         "target_historical_county": "南昌縣",
+        "map_dash": "3 7",
         "source_river_m": "761.1",
         "target_river_m": "2681.2",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "dc29032ebcc995c2",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1900,1904,1917,2800,2929",
+        "river_follow_start": "劍江驛",
+        "river_follow_end": "南浦驛",
+        "hydro_review_note": "Implemented on one continuous Ganjiang preferred-bank backbone; intermediate opposite-bank station uses an out-and-back connector."
       }
     },
     {
@@ -26307,13 +26424,18 @@
         "source_historical_county": "南昌縣",
         "target_historical_province": "江西",
         "target_historical_county": "建昌縣",
+        "map_dash": "3 7",
         "source_river_m": "2681.2",
         "target_river_m": "785.0",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "4825055b2e1a0925",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "南浦驛",
+        "river_follow_end": "建昌縣驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -27453,13 +27575,18 @@
         "source_historical_county": "建昌縣",
         "target_historical_province": "江西",
         "target_historical_county": "德安縣",
+        "map_dash": "3 7",
         "source_river_m": "785.0",
         "target_river_m": "1438.7",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "9a455c08526aab2a",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "建昌縣驛",
+        "river_follow_end": "德安驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -28111,13 +28238,18 @@
         "source_historical_county": "德安縣",
         "target_historical_province": "江西",
         "target_historical_county": "德化縣",
+        "map_dash": "3 7",
         "source_river_m": "1438.7",
         "target_river_m": "13848.9",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "796d27dda5e08dc7",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "德安驛",
+        "river_follow_end": "通遠驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -28858,13 +28990,18 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "九江府",
         "target_historical_county": "德化縣",
+        "map_dash": "3 7",
         "source_river_m": "13848.9",
         "target_river_m": "1226.3",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "6c20b0a597f9ded1",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "通遠驛",
+        "river_follow_end": "潯陽驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -30461,13 +30598,14 @@
         "source_historical_county": "德化縣",
         "target_historical_province": "湖北",
         "target_historical_county": "黃梅縣",
+        "map_dash": "3 7",
         "source_river_m": "1226.3",
         "target_river_m": "1104.8",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "f3cc06e09b0bc668",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -30504,12 +30642,13 @@
         "source_historical_county": "黃梅縣",
         "target_historical_province": "湖北",
         "target_historical_county": "黃梅縣",
+        "map_dash": "3 7",
         "source_river_m": "1104.8",
         "target_river_m": "1104.8",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -30546,12 +30685,13 @@
         "source_historical_county": "黃梅縣",
         "target_historical_province": "湖北",
         "target_historical_county": "黃梅縣",
+        "map_dash": "3 7",
         "source_river_m": "1104.8",
         "target_river_m": "1104.8",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -31779,13 +31919,14 @@
         "source_historical_county": "黃梅縣",
         "target_historical_province": "安徽",
         "target_historical_county": "宿松縣",
+        "map_dash": "3 7",
         "source_river_m": "1104.8",
         "target_river_m": "4513.8",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "65dfcc3ea39475a6",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -32525,13 +32666,14 @@
         "source_historical_county": "宿松縣",
         "target_historical_province": "安徽",
         "target_historical_county": "太湖縣",
+        "map_dash": "3 7",
         "source_river_m": "4513.8",
         "target_river_m": "9162.9",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "e8aa22853085d664",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -33083,13 +33225,14 @@
         "source_historical_county": "太湖縣",
         "target_historical_province": "安徽",
         "target_historical_county": "潛山縣",
+        "map_dash": "3 7",
         "source_river_m": "9162.9",
         "target_river_m": "984.4",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "01db5d26da2f4f20",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -34693,13 +34836,14 @@
         "source_historical_county": "潛山縣",
         "target_historical_province": "安徽",
         "target_historical_county": "桐城縣",
+        "map_dash": "3 7",
         "source_river_m": "984.4",
         "target_river_m": "27882.3",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "13df1aa9c0b78afd",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -34708,6 +34852,54 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            116.938606,
+            31.05228
+          ],
+          [
+            116.93860602,
+            31.05228003
+          ],
+          [
+            116.93860605,
+            31.05228006
+          ],
+          [
+            116.93860607,
+            31.05228009
+          ],
+          [
+            116.9386061,
+            31.05228013
+          ],
+          [
+            116.93860612,
+            31.05228017
+          ],
+          [
+            116.93860615,
+            31.0522802
+          ],
+          [
+            116.93860617,
+            31.05228024
+          ],
+          [
+            116.9386062,
+            31.05228028
+          ],
+          [
+            116.93860622,
+            31.05228032
+          ],
+          [
+            116.93860623,
+            31.05228036
+          ],
+          [
+            116.93860625,
+            31.0522804
+          ],
           [
             116.93860626,
             31.05228043
@@ -34724,24 +34916,22 @@
         "source_name_zh": "陶衝驛",
         "target_name_zh": "呂亭驛",
         "transport_mode": "route_mode_pending",
-        "geometry_basis": "dem_lcp_candidate_unreviewed",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "First-pass Copernicus GLO-30 terrain candidate; published waterway geometry retained.",
-        "geometry_grade": "G3_candidate_pending_corroboration",
-        "analysis_cell_size_m": 90,
-        "path_km": 0.0,
-        "path_straight_ratio": 0.0,
-        "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "geometry_grade": "G3",
+        "dem_adoption_status": "not_adopted_candidate_only",
         "source_historical_province": "安徽",
         "source_historical_county": "桐城縣",
         "target_historical_province": "安徽",
         "target_historical_county": "桐城縣",
+        "map_dash": "3 7",
         "source_river_m": "27882.3",
         "target_river_m": "27882.4",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "6bdbab63a90d5817",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -35901,13 +36091,14 @@
         "source_historical_county": "桐城縣",
         "target_historical_province": "安徽",
         "target_historical_county": "舒城縣",
+        "map_dash": "3 7",
         "source_river_m": "27882.4",
         "target_river_m": "10355.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "675e247907bbd486",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -36539,13 +36730,14 @@
         "source_historical_county": "舒城縣",
         "target_historical_province": "安徽",
         "target_historical_county": "舒城縣",
+        "map_dash": "3 7",
         "source_river_m": "10355.0",
         "target_river_m": "3747.5",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "adb149fa1ae96c2f",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -37349,13 +37541,14 @@
         "source_historical_county": "舒城縣",
         "target_historical_province": "安徽",
         "target_historical_county": "合肥縣",
+        "map_dash": "3 7",
         "source_river_m": "3747.5",
         "target_river_m": "942.9",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "bfe712b55047eb79",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -37891,13 +38084,14 @@
         "source_historical_county": "合肥縣",
         "target_historical_province": "安徽",
         "target_historical_county": "合肥縣",
+        "map_dash": "3 7",
         "source_river_m": "942.9",
         "target_river_m": "1132.8",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "68c0cbc397a80003",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -38629,13 +38823,14 @@
         "source_historical_county": "合肥縣",
         "target_historical_province": "安徽",
         "target_historical_county": "合肥縣",
+        "map_dash": "3 7",
         "source_river_m": "1132.8",
         "target_river_m": "1281.8",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "11e4d2dd050407a2",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -39127,13 +39322,14 @@
         "source_historical_county": "合肥縣",
         "target_historical_province": "安徽",
         "target_historical_county": "合肥縣",
+        "map_dash": "3 7",
         "source_river_m": "1281.8",
         "target_river_m": "996.6",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "fe02bda252b9110b",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -40281,13 +40477,14 @@
         "source_historical_county": "合肥縣",
         "target_historical_province": "安徽",
         "target_historical_county": "定遠縣",
+        "map_dash": "3 7",
         "source_river_m": "996.6",
         "target_river_m": "7827.1",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "2aa94821708b58b4",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -41083,13 +41280,14 @@
         "source_historical_county": "定遠縣",
         "target_historical_province": "安徽",
         "target_historical_county": "定遠縣",
+        "map_dash": "3 7",
         "source_river_m": "7827.1",
         "target_river_m": "17255.8",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "66431c685abc0c61",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -42793,13 +42991,14 @@
         "source_historical_county": "定遠縣",
         "target_historical_province": "安徽",
         "target_historical_county": "鳳陽縣",
+        "map_dash": "3 7",
         "source_river_m": "17255.8",
         "target_river_m": "211.6",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "9af39ec714103e62",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -43079,13 +43278,14 @@
         "source_historical_county": "鳳陽縣",
         "target_historical_province": "安徽",
         "target_historical_county": "鳳陽縣",
+        "map_dash": "3 7",
         "source_river_m": "211.6",
         "target_river_m": "5568.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "2a816d0ddf46d9f7",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -43989,13 +44189,14 @@
         "source_historical_county": "鳳陽縣",
         "target_historical_province": "安徽",
         "target_historical_county": "鳳陽縣",
+        "map_dash": "3 7",
         "source_river_m": "5568.0",
         "target_river_m": "8155.8",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "dfbb391855c3b976",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -44663,13 +44864,14 @@
         "source_historical_county": "鳳陽縣",
         "target_historical_province": "安徽",
         "target_historical_county": "靈璧縣",
+        "map_dash": "3 7",
         "source_river_m": "8155.8",
         "target_river_m": "1160.4",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "4c7ba671697f70ff",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -46105,13 +46307,14 @@
         "source_historical_county": "靈璧縣",
         "target_historical_province": "安徽",
         "target_historical_zhou": "宿州",
+        "map_dash": "3 7",
         "source_river_m": "1160.4",
         "target_river_m": "4826.8",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "0d5e042bfac800a0",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -46120,6 +46323,54 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            116.971397,
+            33.642368
+          ],
+          [
+            116.97139699,
+            33.64236802
+          ],
+          [
+            116.97139699,
+            33.64236805
+          ],
+          [
+            116.97139702,
+            33.64236807
+          ],
+          [
+            116.97139705,
+            33.6423681
+          ],
+          [
+            116.9713971,
+            33.64236812
+          ],
+          [
+            116.97139715,
+            33.64236815
+          ],
+          [
+            116.9713972,
+            33.64236817
+          ],
+          [
+            116.97139726,
+            33.6423682
+          ],
+          [
+            116.97139731,
+            33.64236823
+          ],
+          [
+            116.97139735,
+            33.64236826
+          ],
+          [
+            116.97139738,
+            33.64236829
+          ],
           [
             116.9713974,
             33.64236832
@@ -46136,24 +46387,22 @@
         "source_name_zh": "大店驛",
         "target_name_zh": "睢陽驛",
         "transport_mode": "route_mode_pending",
-        "geometry_basis": "dem_lcp_candidate_unreviewed",
+        "geometry_basis": "station_sequence_scale_generalized_curve",
         "source_summary": "First-pass Copernicus GLO-30 terrain candidate; published waterway geometry retained.",
-        "geometry_grade": "G3_candidate_pending_corroboration",
-        "analysis_cell_size_m": 90,
-        "path_km": 0.0,
-        "path_straight_ratio": 0.0,
-        "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "geometry_grade": "G3",
+        "dem_adoption_status": "not_adopted_candidate_only",
         "source_historical_province": "安徽",
         "source_historical_zhou": "宿州",
         "target_historical_province": "安徽",
         "target_historical_zhou": "宿州",
+        "map_dash": "3 7",
         "source_river_m": "4826.8",
         "target_river_m": "4826.8",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "89bdb2af1055509e",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -47077,13 +47326,14 @@
         "source_historical_zhou": "宿州",
         "target_historical_province": "安徽",
         "target_historical_zhou": "宿州",
+        "map_dash": "3 7",
         "source_river_m": "4826.8",
         "target_river_m": "14409.9",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "d7e5b32781351ddb",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -47583,13 +47833,14 @@
         "source_historical_zhou": "宿州",
         "target_historical_province": "江蘇",
         "target_historical_county": "銅山縣",
+        "map_dash": "3 7",
         "source_river_m": "14409.9",
         "target_river_m": "15191.8",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "419f52a64c804f41",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -48521,13 +48772,14 @@
         "source_historical_county": "銅山縣",
         "target_historical_province": "江蘇",
         "target_historical_county": "銅山縣",
+        "map_dash": "3 7",
         "source_river_m": "15191.8",
         "target_river_m": "1430.4",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "eb65d41242db266d",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -49439,13 +49691,14 @@
         "source_historical_county": "銅山縣",
         "target_historical_province": "江蘇",
         "target_historical_county": "銅山縣",
+        "map_dash": "3 7",
         "source_river_m": "1430.4",
         "target_river_m": "1105.0",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "8288c81fb14a26a4",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -50385,13 +50638,14 @@
         "source_historical_county": "銅山縣",
         "target_historical_province": "山東",
         "target_historical_county": "滕縣",
+        "map_dash": "3 7",
         "source_river_m": "1105.0",
         "target_river_m": "1698.7",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "27a6c275d1cbe82e",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -51399,13 +51653,14 @@
         "source_historical_county": "滕縣",
         "target_historical_province": "山東",
         "target_historical_county": "滕縣",
+        "map_dash": "3 7",
         "source_river_m": "1698.7",
         "target_river_m": "616.4",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "03b4b41df30d1d85",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -51837,13 +52092,18 @@
         "source_historical_county": "滕縣",
         "target_historical_province": "山東",
         "target_historical_county": "鄒縣",
+        "map_dash": "3 7",
         "source_river_m": "616.4",
         "target_river_m": "858.2",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "26342fa417cb425c",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "滕陽驛",
+        "river_follow_end": "界河驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -52479,13 +52739,18 @@
         "source_historical_county": "鄒縣",
         "target_historical_province": "山東",
         "target_historical_county": "鄒縣",
+        "map_dash": "3 7",
         "source_river_m": "858.2",
         "target_river_m": "8944.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "5857edee0fe3163a",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "界河驛",
+        "river_follow_end": "邾城驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -53097,13 +53362,18 @@
         "source_historical_county": "鄒縣",
         "target_historical_province": "山東",
         "target_historical_county": "滋陽縣",
+        "map_dash": "3 7",
         "source_river_m": "8944.0",
         "target_river_m": "1448.2",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "8cb9a787c1cc68f9",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "邾城驛",
+        "river_follow_end": "昌平驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -53603,13 +53873,18 @@
         "source_historical_county": "滋陽縣",
         "target_historical_province": "山東",
         "target_historical_county": "滋陽縣",
+        "map_dash": "3 7",
         "source_river_m": "1448.2",
         "target_river_m": "4988.7",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "903733b87fefe9aa",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "昌平驛",
+        "river_follow_end": "新嘉驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -54041,13 +54316,18 @@
         "source_historical_county": "滋陽縣",
         "target_historical_province": "山東",
         "target_historical_county": "汶上縣",
+        "map_dash": "3 7",
         "source_river_m": "4988.7",
         "target_river_m": "3762.1",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "99bd193ba6f7f879",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "新嘉驛",
+        "river_follow_end": "新橋驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -54827,13 +55107,18 @@
         "source_historical_county": "汶上縣",
         "target_historical_province": "山東",
         "target_historical_zhou": "東平州",
+        "map_dash": "3 7",
         "source_river_m": "3762.1",
         "target_river_m": "1491.2",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "696be5213b6e3ac0",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "新橋驛",
+        "river_follow_end": "東原驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -55553,13 +55838,19 @@
         "source_historical_zhou": "東平州",
         "target_historical_province": "山東",
         "target_historical_county": "東阿縣",
+        "map_dash": "3 7",
         "source_river_m": "1491.2",
         "target_river_m": "3655.3",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "a4a9688d686ef6c0",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "R",
+        "selected_river_source_id": "1240,1241,5479",
+        "river_follow_start": "東原驛",
+        "river_follow_end": "舊縣驛",
+        "hydro_review_note": "CHGIS 하천 후보 1개; 大清河 (river_id=1489) 선택; DEM 선 표본과의 평균거리 1451.4m."
       }
     },
     {
@@ -56523,13 +56814,18 @@
         "source_historical_county": "東阿縣",
         "target_historical_province": "山東",
         "target_historical_county": "東阿縣",
+        "map_dash": "3 7",
         "source_river_m": "3655.3",
         "target_river_m": "7021.9",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "8c0a6cca69b2c48d",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "舊縣驛",
+        "river_follow_end": "銅城驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -57777,13 +58073,18 @@
         "source_historical_county": "東阿縣",
         "target_historical_province": "山東",
         "target_historical_county": "荏平縣",
+        "map_dash": "3 7",
         "source_river_m": "7021.9",
         "target_river_m": "9990.8",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "e16c533962f7d134",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "銅城驛",
+        "river_follow_end": "茌山驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -59059,13 +59360,18 @@
         "source_historical_county": "荏平縣",
         "target_historical_province": "山東",
         "target_historical_zhou": "高唐州",
+        "map_dash": "3 7",
         "source_river_m": "9990.8",
         "target_river_m": "5976.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "87e9444da48a0677",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "茌山驛",
+        "river_follow_end": "魚邱驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -60333,13 +60639,18 @@
         "source_historical_zhou": "高唐州",
         "target_historical_province": "山東",
         "target_historical_county": "恩縣",
+        "map_dash": "3 7",
         "source_river_m": "5976.0",
         "target_river_m": "6436.1",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "42f96dfd734f97c8",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "魚邱驛",
+        "river_follow_end": "太平驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -61795,13 +62106,18 @@
         "source_historical_county": "恩縣",
         "target_historical_province": "山東",
         "target_historical_zhou": "德州",
+        "map_dash": "3 7",
         "source_river_m": "6436.1",
         "target_river_m": "1143.8",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "b7e95f249216e6e4",
-        "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_status": "decided",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
+        "hydro_review_decision": "D",
+        "river_follow_start": "太平驛",
+        "river_follow_end": "安德驛",
+        "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다."
       }
     },
     {
@@ -62889,13 +63205,14 @@
         "source_historical_zhou": "德州",
         "target_historical_province": "直隸",
         "target_historical_zhou": "景州",
+        "map_dash": "3 7",
         "source_river_m": "1143.8",
         "target_river_m": "6753.3",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "e3834ade7d8862b8",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "安德驛",
         "river_follow_end": "東光驛",
@@ -63395,13 +63712,14 @@
         "source_historical_zhou": "景州",
         "target_historical_province": "直隸",
         "target_historical_county": "阜城縣",
+        "map_dash": "3 7",
         "source_river_m": "6753.3",
         "target_river_m": "3450.2",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "25bb826b26126c3f",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "東光驛",
         "river_follow_end": "阜城驛",
@@ -63997,13 +64315,14 @@
         "source_historical_county": "阜城縣",
         "target_historical_province": "直隸",
         "target_historical_county": "交河縣",
+        "map_dash": "3 7",
         "source_river_m": "3450.2",
         "target_river_m": "2633.5",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "55fdf844d1d5c30f",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "阜城驛",
         "river_follow_end": "富莊驛",
@@ -64699,13 +65018,14 @@
         "source_historical_county": "交河縣",
         "target_historical_province": "直隸",
         "target_historical_county": "獻縣",
+        "map_dash": "3 7",
         "source_river_m": "2633.5",
         "target_river_m": "1919.5",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "9bf0cec2df53e377",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "富莊驛",
         "river_follow_end": "樂城驛",
@@ -65849,13 +66169,14 @@
         "source_historical_county": "獻縣",
         "target_historical_province": "直隸",
         "target_historical_county": "河閒縣",
+        "map_dash": "3 7",
         "source_river_m": "1919.5",
         "target_river_m": "2706.3",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "c801d0b71086f717",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "樂城驛",
         "river_follow_end": "瀛海驛",
@@ -67887,13 +68208,14 @@
         "source_historical_county": "河閒縣",
         "target_historical_province": "直隸",
         "target_historical_county": "任邱縣",
+        "map_dash": "3 7",
         "source_river_m": "2706.3",
         "target_river_m": "2043.0",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "f7a8b29252670e7c",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "瀛海驛",
         "river_follow_end": "鄚城驛",
@@ -68453,13 +68775,14 @@
         "source_historical_county": "任邱縣",
         "target_historical_province": "直隸",
         "target_historical_county": "雄縣",
+        "map_dash": "3 7",
         "source_river_m": "2043.0",
         "target_river_m": "157.4",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "e3105da099414c40",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "鄚城驛",
         "river_follow_end": "歸義驛",
@@ -69443,13 +69766,14 @@
         "source_historical_county": "雄縣",
         "target_historical_province": "直隸",
         "target_historical_county": "新城縣",
+        "map_dash": "3 7",
         "source_river_m": "157.4",
         "target_river_m": "3775.3",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "9ef75a4b0d325323",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "歸義驛",
         "river_follow_end": "汾水驛",
@@ -70645,13 +70969,14 @@
         "source_historical_county": "新城縣",
         "target_historical_province": "直隸",
         "target_historical_zhou": "涿州",
+        "map_dash": "3 7",
         "source_river_m": "3775.3",
         "target_river_m": "1916.1",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "2c59c3b59448ba66",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "汾水驛",
         "river_follow_end": "涿鹿驛",
@@ -71359,13 +71684,14 @@
         "source_historical_zhou": "涿州",
         "target_historical_province": "直隸",
         "target_historical_county": "良鄉縣",
+        "map_dash": "3 7",
         "source_river_m": "1916.1",
         "target_river_m": "4539.2",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "0a534b6f226d54fa",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "涿鹿驛",
         "river_follow_end": "固節驛",
@@ -72268,13 +72594,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "良鄉縣",
         "target_historical_province": "直隸",
+        "map_dash": "3 7",
         "source_river_m": "4539.2",
         "target_river_m": "6264.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "2847fa7b6b6742cb",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "固節驛",
         "river_follow_end": "北京",

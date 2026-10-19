@@ -1086,13 +1086,14 @@
         "source_historical_zhou": "德州",
         "target_historical_province": "直隸",
         "target_historical_zhou": "景州",
+        "map_dash": "",
         "source_river_m": "1143.8",
         "target_river_m": "6753.3",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "e3834ade7d8862b8",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "安德驛",
         "river_follow_end": "東光驛",
@@ -1592,13 +1593,14 @@
         "source_historical_zhou": "景州",
         "target_historical_province": "直隸",
         "target_historical_county": "阜城縣",
+        "map_dash": "",
         "source_river_m": "6753.3",
         "target_river_m": "3450.2",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "25bb826b26126c3f",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "東光驛",
         "river_follow_end": "阜城驛",
@@ -2194,13 +2196,14 @@
         "source_historical_county": "阜城縣",
         "target_historical_province": "直隸",
         "target_historical_county": "交河縣",
+        "map_dash": "",
         "source_river_m": "3450.2",
         "target_river_m": "2633.5",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "55fdf844d1d5c30f",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "阜城驛",
         "river_follow_end": "富莊驛",
@@ -2896,13 +2899,14 @@
         "source_historical_county": "交河縣",
         "target_historical_province": "直隸",
         "target_historical_county": "獻縣",
+        "map_dash": "",
         "source_river_m": "2633.5",
         "target_river_m": "1919.5",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "9bf0cec2df53e377",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "富莊驛",
         "river_follow_end": "樂城驛",
@@ -4046,13 +4050,14 @@
         "source_historical_county": "獻縣",
         "target_historical_province": "直隸",
         "target_historical_county": "河閒縣",
+        "map_dash": "",
         "source_river_m": "1919.5",
         "target_river_m": "2706.3",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "c801d0b71086f717",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "樂城驛",
         "river_follow_end": "瀛海驛",
@@ -6084,13 +6089,14 @@
         "source_historical_county": "河閒縣",
         "target_historical_province": "直隸",
         "target_historical_county": "任邱縣",
+        "map_dash": "",
         "source_river_m": "2706.3",
         "target_river_m": "2043.0",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "f7a8b29252670e7c",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "瀛海驛",
         "river_follow_end": "鄚城驛",
@@ -6650,13 +6656,14 @@
         "source_historical_county": "任邱縣",
         "target_historical_province": "直隸",
         "target_historical_county": "雄縣",
+        "map_dash": "",
         "source_river_m": "2043.0",
         "target_river_m": "157.4",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "e3105da099414c40",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "鄚城驛",
         "river_follow_end": "歸義驛",
@@ -7640,13 +7647,14 @@
         "source_historical_county": "雄縣",
         "target_historical_province": "直隸",
         "target_historical_county": "新城縣",
+        "map_dash": "",
         "source_river_m": "157.4",
         "target_river_m": "3775.3",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "9ef75a4b0d325323",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "歸義驛",
         "river_follow_end": "汾水驛",
@@ -8842,13 +8850,14 @@
         "source_historical_county": "新城縣",
         "target_historical_province": "直隸",
         "target_historical_zhou": "涿州",
+        "map_dash": "",
         "source_river_m": "3775.3",
         "target_river_m": "1916.1",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "2c59c3b59448ba66",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "汾水驛",
         "river_follow_end": "涿鹿驛",
@@ -9556,13 +9565,14 @@
         "source_historical_zhou": "涿州",
         "target_historical_province": "直隸",
         "target_historical_county": "良鄉縣",
+        "map_dash": "",
         "source_river_m": "1916.1",
         "target_river_m": "4539.2",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "0a534b6f226d54fa",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "涿鹿驛",
         "river_follow_end": "固節驛",
@@ -10465,13 +10475,14 @@
         "source_historical_province": "直隸",
         "source_historical_county": "良鄉縣",
         "target_historical_province": "直隸",
+        "map_dash": "",
         "source_river_m": "4539.2",
         "target_river_m": "6264.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "2847fa7b6b6742cb",
         "hydro_review_status": "decided",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context",
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context",
         "hydro_review_decision": "D",
         "river_follow_start": "固節驛",
         "river_follow_end": "北京",
@@ -11479,13 +11490,14 @@
         "path_km": 25.541,
         "path_straight_ratio": 1.0211,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "6264.0",
         "target_river_m": "1084.1",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "d94f72a77ab9fef5",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -12721,13 +12733,14 @@
         "path_km": 37.658,
         "path_straight_ratio": 1.0273,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1084.1",
         "target_river_m": "1349.4",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "d0b4d53e249ebc32",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -13695,13 +13708,14 @@
         "path_km": 29.441,
         "path_straight_ratio": 1.029,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1349.4",
         "target_river_m": "2440.9",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "53e9b6761b793b09",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -14657,13 +14671,14 @@
         "path_km": 36.01,
         "path_straight_ratio": 1.0289,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "2440.9",
         "target_river_m": "11626.1",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "c411167f03d161d6",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -15883,13 +15898,14 @@
         "path_km": 33.961,
         "path_straight_ratio": 1.0258,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "11626.1",
         "target_river_m": "1089.8",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "9d73847e70b975d5",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -16969,13 +16985,14 @@
         "path_km": 29.699,
         "path_straight_ratio": 1.0267,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1089.8",
         "target_river_m": "1253.8",
         "same_river_component": "False",
         "hydro_candidate_class": "review_disconnected_nearest_rivers",
         "edge_key": "f85d7cde0f0835a1",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -18419,13 +18436,14 @@
         "path_km": 33.995,
         "path_straight_ratio": 1.0111,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1253.8",
         "target_river_m": "1689.0",
         "same_river_component": "False",
         "hydro_candidate_class": "review_disconnected_nearest_rivers",
         "edge_key": "3fe18c84ce87d743",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -19425,13 +19443,14 @@
         "path_km": 26.786,
         "path_straight_ratio": 1.0567,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1689.0",
         "target_river_m": "5242.5",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "919eb700e2188521",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -20083,13 +20102,14 @@
         "path_km": 15.73,
         "path_straight_ratio": 1.0188,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "5242.5",
         "target_river_m": "1645.2",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "547eda4c1f1ada8e",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -21121,13 +21141,14 @@
         "path_km": 39.855,
         "path_straight_ratio": 1.0165,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1645.2",
         "target_river_m": "3989.0",
         "same_river_component": "False",
         "hydro_candidate_class": "review_disconnected_nearest_rivers",
         "edge_key": "c008e33c3e6e6b63",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -22299,13 +22320,14 @@
         "path_km": 40.379,
         "path_straight_ratio": 1.0155,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "3989.0",
         "target_river_m": "1895.6",
         "same_river_component": "False",
         "hydro_candidate_class": "review_disconnected_nearest_rivers",
         "edge_key": "28114425bbf0e0b1",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -23097,13 +23119,14 @@
         "path_km": 33.167,
         "path_straight_ratio": 1.0123,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1895.6",
         "target_river_m": "9548.9",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "e3f681aea2a4711f",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -24131,13 +24154,14 @@
         "path_km": 32.617,
         "path_straight_ratio": 1.0057,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "9548.9",
         "target_river_m": "712.2",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "21cf547444413f64",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -25253,13 +25277,14 @@
         "path_km": 39.67,
         "path_straight_ratio": 1.0122,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "712.2",
         "target_river_m": "15119.6",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "de0514e4cced0640",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -26227,13 +26252,14 @@
         "path_km": 31.854,
         "path_straight_ratio": 1.0089,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "15119.6",
         "target_river_m": "1951.8",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "002af1ee161f6003",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -27053,13 +27079,14 @@
         "path_km": 28.181,
         "path_straight_ratio": 1.0125,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1951.8",
         "target_river_m": "12985.5",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "582228fd24b59e59",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -28183,13 +28210,14 @@
         "path_km": 38.002,
         "path_straight_ratio": 1.0106,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "12985.5",
         "target_river_m": "29839.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "94d6f1694c1c1ec8",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -29017,13 +29045,14 @@
         "path_km": 32.503,
         "path_straight_ratio": 1.0127,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "29839.0",
         "target_river_m": "41053.0",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "e743f3406492d3f9",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -29683,13 +29712,14 @@
         "path_km": 22.942,
         "path_straight_ratio": 1.0124,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "41053.0",
         "target_river_m": "18434.3",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "562a0fc4ee7a9265",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -30421,13 +30451,14 @@
         "path_km": 23.315,
         "path_straight_ratio": 1.026,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "18434.3",
         "target_river_m": "1110.7",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "ef288ea04c1167e2",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -31331,13 +31362,14 @@
         "path_km": 36.845,
         "path_straight_ratio": 1.0132,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1110.7",
         "target_river_m": "128.7",
         "same_river_component": "False",
         "hydro_candidate_class": "review_disconnected_nearest_rivers",
         "edge_key": "5642b1a01bbcb8de",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -31793,13 +31825,14 @@
         "path_km": 19.483,
         "path_straight_ratio": 1.0072,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "128.7",
         "target_river_m": "13217.3",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "b13ec1d96b5bd844",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -32691,13 +32724,14 @@
         "path_km": 29.288,
         "path_straight_ratio": 1.0089,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "13217.3",
         "target_river_m": "3998.4",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "371a6641ce236662",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -33849,13 +33883,14 @@
         "path_km": 32.097,
         "path_straight_ratio": 1.025,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "3998.4",
         "target_river_m": "5286.0",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "97a316f136d6a325",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -34483,13 +34518,14 @@
         "path_km": 27.093,
         "path_straight_ratio": 1.0083,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "5286.0",
         "target_river_m": "1281.3",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "626f4cbc5ed69c20",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -35465,13 +35501,14 @@
         "path_km": 33.934,
         "path_straight_ratio": 1.04,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "1281.3",
         "target_river_m": "569.7",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "32c87398bb3f126a",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -36035,13 +36072,14 @@
         "path_km": 16.719,
         "path_straight_ratio": 1.1219,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "569.7",
         "target_river_m": "690.3",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "81f6f89696122831",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -36605,13 +36643,14 @@
         "path_km": 17.126,
         "path_straight_ratio": 1.0645,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "690.3",
         "target_river_m": "552.0",
         "same_river_component": "True",
         "hydro_candidate_class": "strong_connected_river_candidate",
         "edge_key": "de1ad751c4f7b311",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -37275,13 +37314,14 @@
         "path_km": 25.283,
         "path_straight_ratio": 1.0509,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "552.0",
         "target_river_m": "11481.6",
         "same_river_component": "False",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "8d5199a0c5a19e1f",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -38161,13 +38201,14 @@
         "path_km": 24.904,
         "path_straight_ratio": 1.05,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "11481.6",
         "target_river_m": "5631.4",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "fdef2d7ae0c2e92c",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -38611,13 +38652,14 @@
         "path_km": 16.732,
         "path_straight_ratio": 1.0204,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "",
         "source_river_m": "5631.4",
         "target_river_m": "2757.1",
         "same_river_component": "True",
         "hydro_candidate_class": "dem_baseline_or_local_hydro_only",
         "edge_key": "95209588eddc5103",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     },
     {
@@ -40061,13 +40103,14 @@
         "path_km": 51.413,
         "path_straight_ratio": 1.0622,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
+        "map_dash": "9 8",
         "source_river_m": "2757.1",
         "target_river_m": "1590.5",
         "same_river_component": "True",
         "hydro_candidate_class": "moderate_connected_river_candidate",
         "edge_key": "d25448e00071e725",
         "hydro_review_status": "pending_manual_review",
-        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|keep_generalized|needs_more_context"
+        "hydro_review_options": "keep_dem|follow_river_full|follow_river_partial|wide_waterbody_crossing|keep_generalized|needs_more_context"
       }
     }
   ]

@@ -1087,7 +1087,8 @@
         "source_historical_province": "山東",
         "source_historical_zhou": "德州",
         "target_historical_province": "直隸",
-        "target_historical_zhou": "景州"
+        "target_historical_zhou": "景州",
+        "map_dash": ""
       }
     },
     {
@@ -1584,7 +1585,8 @@
         "source_historical_province": "直隸",
         "source_historical_zhou": "景州",
         "target_historical_province": "直隸",
-        "target_historical_county": "阜城縣"
+        "target_historical_county": "阜城縣",
+        "map_dash": ""
       }
     },
     {
@@ -2177,7 +2179,8 @@
         "source_historical_province": "直隸",
         "source_historical_county": "阜城縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "交河縣"
+        "target_historical_county": "交河縣",
+        "map_dash": ""
       }
     },
     {
@@ -2870,7 +2873,8 @@
         "source_historical_province": "直隸",
         "source_historical_county": "交河縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "獻縣"
+        "target_historical_county": "獻縣",
+        "map_dash": ""
       }
     },
     {
@@ -4011,7 +4015,8 @@
         "source_historical_province": "直隸",
         "source_historical_county": "獻縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "河閒縣"
+        "target_historical_county": "河閒縣",
+        "map_dash": ""
       }
     },
     {
@@ -6040,7 +6045,8 @@
         "source_historical_province": "直隸",
         "source_historical_county": "河閒縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "任邱縣"
+        "target_historical_county": "任邱縣",
+        "map_dash": ""
       }
     },
     {
@@ -6597,7 +6603,8 @@
         "source_historical_province": "直隸",
         "source_historical_county": "任邱縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "雄縣"
+        "target_historical_county": "雄縣",
+        "map_dash": ""
       }
     },
     {
@@ -7578,7 +7585,8 @@
         "source_historical_province": "直隸",
         "source_historical_county": "雄縣",
         "target_historical_province": "直隸",
-        "target_historical_county": "新城縣"
+        "target_historical_county": "新城縣",
+        "map_dash": ""
       }
     },
     {
@@ -8771,7 +8779,8 @@
         "source_historical_province": "直隸",
         "source_historical_county": "新城縣",
         "target_historical_province": "直隸",
-        "target_historical_zhou": "涿州"
+        "target_historical_zhou": "涿州",
+        "map_dash": ""
       }
     },
     {
@@ -9476,7 +9485,8 @@
         "source_historical_province": "直隸",
         "source_historical_zhou": "涿州",
         "target_historical_province": "直隸",
-        "target_historical_county": "良鄉縣"
+        "target_historical_county": "良鄉縣",
+        "map_dash": ""
       }
     },
     {
@@ -10376,7 +10386,8 @@
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_province": "直隸",
         "source_historical_county": "良鄉縣",
-        "target_historical_province": "直隸"
+        "target_historical_province": "直隸",
+        "map_dash": ""
       }
     },
     {
@@ -11380,7 +11391,8 @@
         "path_km": 25.541,
         "path_straight_ratio": 1.0211,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -12616,7 +12628,8 @@
         "path_km": 37.658,
         "path_straight_ratio": 1.0273,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -13584,7 +13597,8 @@
         "path_km": 29.441,
         "path_straight_ratio": 1.029,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -14540,7 +14554,8 @@
         "path_km": 36.01,
         "path_straight_ratio": 1.0289,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -15760,7 +15775,8 @@
         "path_km": 33.961,
         "path_straight_ratio": 1.0258,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -16840,7 +16856,8 @@
         "path_km": 29.699,
         "path_straight_ratio": 1.0267,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -18284,7 +18301,8 @@
         "path_km": 33.995,
         "path_straight_ratio": 1.0111,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -19284,7 +19302,8 @@
         "path_km": 26.786,
         "path_straight_ratio": 1.0567,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -19936,7 +19955,8 @@
         "path_km": 15.73,
         "path_straight_ratio": 1.0188,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -20968,7 +20988,8 @@
         "path_km": 39.855,
         "path_straight_ratio": 1.0165,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -22140,7 +22161,8 @@
         "path_km": 40.379,
         "path_straight_ratio": 1.0155,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -22932,7 +22954,8 @@
         "path_km": 33.167,
         "path_straight_ratio": 1.0123,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -23960,7 +23983,8 @@
         "path_km": 32.617,
         "path_straight_ratio": 1.0057,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -25076,7 +25100,8 @@
         "path_km": 39.67,
         "path_straight_ratio": 1.0122,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -26044,7 +26069,8 @@
         "path_km": 31.854,
         "path_straight_ratio": 1.0089,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -26864,7 +26890,8 @@
         "path_km": 28.181,
         "path_straight_ratio": 1.0125,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -27988,7 +28015,8 @@
         "path_km": 38.002,
         "path_straight_ratio": 1.0106,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -28816,7 +28844,8 @@
         "path_km": 32.503,
         "path_straight_ratio": 1.0127,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -29476,7 +29505,8 @@
         "path_km": 22.942,
         "path_straight_ratio": 1.0124,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -30208,7 +30238,8 @@
         "path_km": 23.315,
         "path_straight_ratio": 1.026,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -31112,7 +31143,8 @@
         "path_km": 36.845,
         "path_straight_ratio": 1.0132,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -31568,7 +31600,8 @@
         "path_km": 19.483,
         "path_straight_ratio": 1.0072,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -32460,7 +32493,8 @@
         "path_km": 29.288,
         "path_straight_ratio": 1.0089,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -33612,7 +33646,8 @@
         "path_km": 32.097,
         "path_straight_ratio": 1.025,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -34240,7 +34275,8 @@
         "path_km": 27.093,
         "path_straight_ratio": 1.0083,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -35216,7 +35252,8 @@
         "path_km": 33.934,
         "path_straight_ratio": 1.04,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -35780,7 +35817,8 @@
         "path_km": 16.719,
         "path_straight_ratio": 1.1219,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -36344,7 +36382,8 @@
         "path_km": 17.126,
         "path_straight_ratio": 1.0645,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -37008,7 +37047,8 @@
         "path_km": 25.283,
         "path_straight_ratio": 1.0509,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -37888,7 +37928,8 @@
         "path_km": 24.904,
         "path_straight_ratio": 1.05,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -38332,7 +38373,8 @@
         "path_km": 16.732,
         "path_straight_ratio": 1.0204,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": ""
       }
     },
     {
@@ -39776,7 +39818,8 @@
         "path_km": 51.413,
         "path_straight_ratio": 1.0622,
         "dem_adoption_status": "diagnostic_candidate_not_adopted",
-        "hydro_decision": "pending"
+        "hydro_decision": "pending",
+        "map_dash": "9 8"
       }
     }
   ]

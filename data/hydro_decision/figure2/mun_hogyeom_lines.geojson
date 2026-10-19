@@ -87,7 +87,8 @@
         "target_connector_km": 0.949,
         "source_historical_prefecture": "福州府",
         "source_historical_county": "閩縣",
-        "target_historical_county": "侯官縣"
+        "target_historical_county": "侯官縣",
+        "map_dash": ""
       }
     },
     {
@@ -251,7 +252,8 @@
         "source_connector_km": 0.949,
         "target_connector_km": 1.078,
         "source_historical_county": "侯官縣",
-        "target_historical_county": "侯官縣"
+        "target_historical_county": "侯官縣",
+        "map_dash": ""
       }
     },
     {
@@ -471,7 +473,8 @@
         "source_connector_km": 1.078,
         "target_connector_km": 1.738,
         "source_historical_county": "侯官縣",
-        "target_historical_county": "古田縣"
+        "target_historical_county": "古田縣",
+        "map_dash": ""
       }
     },
     {
@@ -587,7 +590,8 @@
         "source_connector_km": 1.738,
         "target_connector_km": 1.014,
         "source_historical_county": "古田縣",
-        "target_historical_county": "古田縣"
+        "target_historical_county": "古田縣",
+        "map_dash": ""
       }
     },
     {
@@ -687,7 +691,8 @@
         "source_connector_km": 1.014,
         "target_connector_km": 0.523,
         "source_historical_county": "古田縣",
-        "target_historical_county": "南平縣"
+        "target_historical_county": "南平縣",
+        "map_dash": ""
       }
     },
     {
@@ -779,7 +784,8 @@
         "source_connector_km": 9.622,
         "target_connector_km": 1.329,
         "source_historical_county": "南平縣",
-        "target_historical_county": "南平縣"
+        "target_historical_county": "南平縣",
+        "map_dash": ""
       }
     },
     {
@@ -924,7 +930,8 @@
         "target_connector_km": 1.302,
         "source_historical_county": "南平縣",
         "target_historical_prefecture": "延平府",
-        "target_historical_county": "南平縣"
+        "target_historical_county": "南平縣",
+        "map_dash": ""
       }
     },
     {
@@ -1053,7 +1060,8 @@
         "target_connector_km": 0.884,
         "source_historical_prefecture": "延平府",
         "source_historical_county": "南平縣",
-        "target_historical_county": "南平縣"
+        "target_historical_county": "南平縣",
+        "map_dash": ""
       }
     },
     {
@@ -1178,7 +1186,8 @@
         "target_connector_km": 0.648,
         "source_historical_county": "南平縣",
         "target_historical_province": "山東",
-        "target_historical_county": "恩縣"
+        "target_historical_county": "恩縣",
+        "map_dash": ""
       }
     },
     {
@@ -1311,7 +1320,8 @@
         "target_connector_km": 1.267,
         "source_historical_province": "山東",
         "source_historical_county": "恩縣",
-        "target_historical_county": "甌寧縣"
+        "target_historical_county": "甌寧縣",
+        "map_dash": ""
       }
     },
     {
@@ -1419,7 +1429,8 @@
         "source_connector_km": 1.267,
         "target_connector_km": 0.702,
         "source_historical_county": "甌寧縣",
-        "target_historical_county": "甌寧縣"
+        "target_historical_county": "甌寧縣",
+        "map_dash": ""
       }
     },
     {
@@ -1595,7 +1606,8 @@
         "source_connector_km": 0.702,
         "target_connector_km": 1.091,
         "source_historical_county": "甌寧縣",
-        "target_historical_county": "建陽縣"
+        "target_historical_county": "建陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -1643,7 +1655,8 @@
         "source_connector_km": 1.091,
         "target_connector_km": 0.799,
         "source_historical_county": "建陽縣",
-        "target_historical_county": "建陽縣"
+        "target_historical_county": "建陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -3074,7 +3087,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "建陽縣",
-        "target_historical_county": "浦城縣"
+        "target_historical_county": "浦城縣",
+        "map_dash": ""
       }
     },
     {
@@ -3929,7 +3943,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "浦城縣",
-        "target_historical_county": "浦城縣"
+        "target_historical_county": "浦城縣",
+        "map_dash": ""
       }
     },
     {
@@ -3965,7 +3980,8 @@
         "hydro_decision": "pending",
         "hydro_review_note": "No manual hydrography decision yet.",
         "source_historical_county": "浦城縣",
-        "target_historical_county": "浦城縣"
+        "target_historical_county": "浦城縣",
+        "map_dash": ""
       }
     },
     {
@@ -7004,7 +7020,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "浦城縣",
-        "target_historical_county": "江山縣"
+        "target_historical_county": "江山縣",
+        "map_dash": ""
       }
     },
     {
@@ -7188,7 +7205,8 @@
         "source_connector_km": 0.466,
         "target_connector_km": 1.27,
         "source_historical_county": "江山縣",
-        "target_historical_county": "西安縣"
+        "target_historical_county": "西安縣",
+        "map_dash": ""
       }
     },
     {
@@ -7396,7 +7414,8 @@
         "source_connector_km": 1.27,
         "target_connector_km": 1.506,
         "source_historical_county": "西安縣",
-        "target_historical_county": "龍游縣"
+        "target_historical_county": "龍游縣",
+        "map_dash": ""
       }
     },
     {
@@ -7568,7 +7587,8 @@
         "source_connector_km": 1.506,
         "target_connector_km": 1.439,
         "source_historical_county": "龍游縣",
-        "target_historical_county": "蘭溪縣"
+        "target_historical_county": "蘭溪縣",
+        "map_dash": ""
       }
     },
     {
@@ -8048,7 +8068,8 @@
         "source_connector_km": 0.671,
         "target_connector_km": 1.696,
         "source_historical_county": "蘭溪縣",
-        "target_historical_county": "建德縣"
+        "target_historical_county": "建德縣",
+        "map_dash": ""
       }
     },
     {
@@ -8412,7 +8433,8 @@
         "source_connector_km": 0.825,
         "target_connector_km": 0.679,
         "source_historical_county": "建德縣",
-        "target_historical_county": "桐廬縣"
+        "target_historical_county": "桐廬縣",
+        "map_dash": ""
       }
     },
     {
@@ -8696,7 +8718,8 @@
         "source_connector_km": 12.527,
         "target_connector_km": 0.829,
         "source_historical_county": "桐廬縣",
-        "target_historical_county": "富陽縣"
+        "target_historical_county": "富陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -8940,7 +8963,8 @@
         "source_connector_km": 0.829,
         "target_connector_km": 2.324,
         "source_historical_county": "富陽縣",
-        "target_historical_county": "錢塘縣"
+        "target_historical_county": "錢塘縣",
+        "map_dash": ""
       }
     },
     {
@@ -8992,7 +9016,8 @@
         "source_connector_km": 5.14,
         "target_connector_km": 2.161,
         "source_historical_county": "錢塘縣",
-        "target_historical_county": "錢塘縣"
+        "target_historical_county": "錢塘縣",
+        "map_dash": ""
       }
     },
     {
@@ -9107,7 +9132,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "錢塘縣",
-        "target_historical_county": "錢塘縣"
+        "target_historical_county": "錢塘縣",
+        "map_dash": ""
       }
     },
     {
@@ -10302,7 +10328,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "錢塘縣",
-        "target_historical_county": "石門縣"
+        "target_historical_county": "石門縣",
+        "map_dash": ""
       }
     },
     {
@@ -10434,7 +10461,8 @@
         "source_connector_km": 0.804,
         "target_connector_km": 1.565,
         "source_historical_county": "石門縣",
-        "target_historical_county": "嘉興縣"
+        "target_historical_county": "嘉興縣",
+        "map_dash": ""
       }
     },
     {
@@ -10538,7 +10566,8 @@
         "source_connector_km": 1.565,
         "target_connector_km": 1.143,
         "source_historical_county": "嘉興縣",
-        "target_historical_county": "吳江縣"
+        "target_historical_county": "吳江縣",
+        "map_dash": ""
       }
     },
     {
@@ -10667,7 +10696,8 @@
         "target_connector_km": 1.361,
         "source_historical_county": "吳江縣",
         "target_historical_prefecture": "蘇州府",
-        "target_historical_county": "元和縣"
+        "target_historical_county": "元和縣",
+        "map_dash": ""
       }
     },
     {
@@ -10780,7 +10810,8 @@
         "target_connector_km": 1.066,
         "source_historical_prefecture": "蘇州府",
         "source_historical_county": "元和縣",
-        "target_historical_county": "無錫縣"
+        "target_historical_county": "無錫縣",
+        "map_dash": ""
       }
     },
     {
@@ -10928,7 +10959,8 @@
         "source_connector_km": 1.066,
         "target_connector_km": 1.686,
         "source_historical_county": "無錫縣",
-        "target_historical_county": "武進縣"
+        "target_historical_county": "武進縣",
+        "map_dash": ""
       }
     },
     {
@@ -11096,7 +11128,8 @@
         "source_connector_km": 1.686,
         "target_connector_km": 0.775,
         "source_historical_county": "武進縣",
-        "target_historical_county": "丹陽縣"
+        "target_historical_county": "丹陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -11204,7 +11237,8 @@
         "source_connector_km": 0.775,
         "target_connector_km": 2.254,
         "source_historical_county": "丹陽縣",
-        "target_historical_county": "丹徒縣"
+        "target_historical_county": "丹徒縣",
+        "map_dash": ""
       }
     },
     {
@@ -11305,7 +11339,8 @@
         "selected_river_source_ids": "2325,4490,2336",
         "crossed_waterbody": "大江 river_id=2778",
         "source_historical_county": "丹徒縣",
-        "target_historical_county": "江都縣"
+        "target_historical_county": "江都縣",
+        "map_dash": ""
       }
     },
     {
@@ -11397,7 +11432,8 @@
         "source_connector_km": 1.169,
         "target_connector_km": 0.943,
         "source_historical_county": "江都縣",
-        "target_historical_county": "甘泉縣"
+        "target_historical_county": "甘泉縣",
+        "map_dash": ""
       }
     },
     {
@@ -11521,7 +11557,8 @@
         "source_connector_km": 0.943,
         "target_connector_km": 1.84,
         "source_historical_county": "甘泉縣",
-        "target_historical_zhou": "高郵州"
+        "target_historical_zhou": "高郵州",
+        "map_dash": ""
       }
     },
     {
@@ -11629,7 +11666,8 @@
         "source_connector_km": 1.84,
         "target_connector_km": 1.139,
         "source_historical_zhou": "高郵州",
-        "target_historical_zhou": "高郵州"
+        "target_historical_zhou": "高郵州",
+        "map_dash": ""
       }
     },
     {
@@ -11753,7 +11791,8 @@
         "source_connector_km": 1.139,
         "target_connector_km": 1.248,
         "source_historical_zhou": "高郵州",
-        "target_historical_county": "寶應縣"
+        "target_historical_county": "寶應縣",
+        "map_dash": ""
       }
     },
     {
@@ -11857,7 +11896,8 @@
         "source_connector_km": 1.248,
         "target_connector_km": 2.057,
         "source_historical_county": "寶應縣",
-        "target_historical_county": "山陽縣"
+        "target_historical_county": "山陽縣",
+        "map_dash": ""
       }
     },
     {
@@ -11937,7 +11977,8 @@
         "source_connector_km": 2.057,
         "target_connector_km": 0.916,
         "source_historical_county": "山陽縣",
-        "target_historical_county": "清河縣"
+        "target_historical_county": "清河縣",
+        "map_dash": ""
       }
     },
     {
@@ -12017,7 +12058,8 @@
         "hydro_decision": "G",
         "hydro_review_note": "黃河 lakes polygon의 하안 회랑에서 지나치게 벗어나지 않는 완만한 일반화 선형을 사용한다. polygon 경계를 정확한 역사 도로선으로 간주하지 않으며 수면 중심선도 추종하지 않는다.",
         "source_historical_county": "清河縣",
-        "target_historical_county": "桃源縣"
+        "target_historical_county": "桃源縣",
+        "map_dash": ""
       }
     },
     {
@@ -12097,7 +12139,8 @@
         "hydro_decision": "G",
         "hydro_review_note": "黃河 lakes polygon의 하안 회랑에서 지나치게 벗어나지 않는 완만한 일반화 선형을 사용한다. polygon 경계를 정확한 역사 도로선으로 간주하지 않으며 수면 중심선도 추종하지 않는다.",
         "source_historical_county": "桃源縣",
-        "target_historical_county": "桃源縣"
+        "target_historical_county": "桃源縣",
+        "map_dash": ""
       }
     },
     {
@@ -12177,7 +12220,8 @@
         "hydro_decision": "G",
         "hydro_review_note": "黃河 lakes polygon의 하안 회랑에서 지나치게 벗어나지 않는 완만한 일반화 선형을 사용한다. polygon 경계를 정확한 역사 도로선으로 간주하지 않으며 수면 중심선도 추종하지 않는다.",
         "source_historical_county": "桃源縣",
-        "target_historical_county": "宿遷縣"
+        "target_historical_county": "宿遷縣",
+        "map_dash": ""
       }
     },
     {
@@ -12257,7 +12301,8 @@
         "hydro_decision": "pending",
         "hydro_review_note": "No manual hydrography decision yet.",
         "source_historical_county": "宿遷縣",
-        "target_historical_county": "郯城縣"
+        "target_historical_county": "郯城縣",
+        "map_dash": ""
       }
     },
     {
@@ -13140,7 +13185,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "郯城縣",
-        "target_historical_county": "郯城縣"
+        "target_historical_county": "郯城縣",
+        "map_dash": ""
       }
     },
     {
@@ -14231,7 +14277,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "郯城縣",
-        "target_historical_county": "蘭山縣"
+        "target_historical_county": "蘭山縣",
+        "map_dash": ""
       }
     },
     {
@@ -14866,7 +14913,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "蘭山縣",
-        "target_historical_county": "蘭山縣"
+        "target_historical_county": "蘭山縣",
+        "map_dash": ""
       }
     },
     {
@@ -16113,7 +16161,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "蘭山縣",
-        "target_historical_county": "蘭山縣"
+        "target_historical_county": "蘭山縣",
+        "map_dash": ""
       }
     },
     {
@@ -16776,7 +16825,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "蘭山縣",
-        "target_historical_county": "沂水縣"
+        "target_historical_county": "沂水縣",
+        "map_dash": ""
       }
     },
     {
@@ -17607,7 +17657,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "沂水縣",
-        "target_historical_county": "䝉陰縣"
+        "target_historical_county": "䝉陰縣",
+        "map_dash": ""
       }
     },
     {
@@ -18342,7 +18393,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "䝉陰縣",
-        "target_historical_county": "新泰縣"
+        "target_historical_county": "新泰縣",
+        "map_dash": ""
       }
     },
     {
@@ -18853,7 +18905,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "新泰縣",
-        "target_historical_county": "新泰縣"
+        "target_historical_county": "新泰縣",
+        "map_dash": ""
       }
     },
     {
@@ -18933,7 +18986,8 @@
         "hydro_decision": "pending",
         "hydro_review_note": "No manual hydrography decision yet.",
         "source_historical_county": "新泰縣",
-        "target_historical_county": "長清縣"
+        "target_historical_county": "長清縣",
+        "map_dash": ""
       }
     },
     {
@@ -19724,7 +19778,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "長清縣",
-        "target_historical_county": "長清縣"
+        "target_historical_county": "長清縣",
+        "map_dash": ""
       }
     },
     {
@@ -20443,7 +20498,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "長清縣",
-        "target_historical_county": "齊河縣"
+        "target_historical_county": "齊河縣",
+        "map_dash": ""
       }
     },
     {
@@ -21186,7 +21242,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "齊河縣",
-        "target_historical_county": "禹城縣"
+        "target_historical_county": "禹城縣",
+        "map_dash": ""
       }
     },
     {
@@ -22101,7 +22158,8 @@
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "禹城縣",
-        "target_historical_county": "平原縣"
+        "target_historical_county": "平原縣",
+        "map_dash": ""
       }
     },
     {
@@ -23049,7 +23107,8 @@
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "source_historical_county": "平原縣",
         "target_historical_province": "山東",
-        "target_historical_zhou": "德州"
+        "target_historical_zhou": "德州",
+        "map_dash": ""
       }
     }
   ]
