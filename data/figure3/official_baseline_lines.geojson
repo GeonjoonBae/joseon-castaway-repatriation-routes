@@ -244,14 +244,14 @@
         "id": "FIG3-OFFICIAL_BASELINE-001",
         "route_name": "Guangzhou-Beijing postal baseline",
         "sequence": 1,
-        "source_name_zh": "五仙驛",
+        "source_name_zh": "廣東省城",
         "target_name_zh": "西南驛",
         "transport_mode": "route_mode_pending",
         "geometry_basis": "reused_figure2_hydro_decision",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-001",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "五仙驛은 廣東省城과 동일한 CHGIS 番禺縣 치소 대체점이다. 별도 五仙驛 연결선을 그리지 않는다. 廣東省城 정남의 주강 본류점으로 되돌아온 뒤 연구자 파란 지침선과 같은 하천변 회랑을 따라 西南驛으로 이동한다.",
         "geometry_grade": "G1_researcher_approved_manual_alignment",
@@ -265,10 +265,10 @@
         "station_detour_policy": "no_visible_guangzhou_wuxian_edge; remain_on_one_bank_to_xinan",
         "source_historical_province": "廣東",
         "source_historical_prefecture": "廣州府",
-        "source_historical_county": "番禺縣",
+        "source_historical_county": "南海縣",
         "target_historical_province": "廣東",
         "target_historical_county": "三水縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -369,7 +369,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-002",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "西南驛에서 安遠驛 대안의 최근접 지점까지 하천 동쪽 변을 북상한다. 폴리곤 외곽을 우회하지 않고 그 지점에서 安遠驛로 직접 횡단한다.",
         "geometry_grade": "G1_researcher_approved_manual_alignment",
@@ -385,7 +385,7 @@
         "source_historical_county": "三水縣",
         "target_historical_province": "廣東",
         "target_historical_county": "清遠縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -654,7 +654,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-003",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 0개; 北江 (river_id=2573) 선택; DEM 선 표본과의 평균거리 5992.8m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -667,7 +667,7 @@
         "source_historical_county": "清遠縣",
         "target_historical_province": "廣東",
         "target_historical_county": "英德縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -848,7 +848,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-004",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 北江 (river_id=2573) 선택; DEM 선 표본과의 평균거리 1494.5m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -861,7 +861,7 @@
         "source_historical_county": "英德縣",
         "target_historical_province": "廣東",
         "target_historical_county": "曲江縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -1030,7 +1030,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-005",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 東江 (river_id=1788) 선택; DEM 선 표본과의 평균거리 3457.0m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -1043,7 +1043,7 @@
         "source_historical_county": "曲江縣",
         "target_historical_province": "廣東",
         "target_historical_county": "始興縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -1856,7 +1856,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-006",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -1865,7 +1865,7 @@
         "target_historical_province": "廣東",
         "target_historical_prefecture": "南雄府",
         "target_historical_county": "保昌縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -2782,7 +2782,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-007",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -2792,7 +2792,7 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "南安府",
         "target_historical_county": "大庾縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -2969,7 +2969,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-008",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 章水 (river_id=2057) 선택; DEM 선 표본과의 평균거리 711.8m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -2983,7 +2983,7 @@
         "source_historical_county": "大庾縣",
         "target_historical_province": "江西",
         "target_historical_county": "大庾縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -3164,7 +3164,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-009",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 章水 (river_id=2057) 선택; DEM 선 표본과의 평균거리 940.8m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -3177,7 +3177,7 @@
         "source_historical_county": "大庾縣",
         "target_historical_province": "江西",
         "target_historical_county": "南康縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -3498,7 +3498,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-010",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 章水 (river_id=2057) 선택; DEM 선 표본과의 평균거리 3102.3m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -3512,7 +3512,7 @@
         "source_historical_county": "南康縣",
         "target_historical_province": "江西",
         "target_historical_county": "贛縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -3633,7 +3633,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-011",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 866.3m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -3648,7 +3648,7 @@
         "source_historical_county": "贛縣",
         "target_historical_province": "江西",
         "target_historical_prefecture": "贛州府",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -3785,7 +3785,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-012",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 243.5m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -3800,7 +3800,7 @@
         "source_historical_prefecture": "贛州府",
         "target_historical_province": "江西",
         "target_historical_county": "萬安縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -3941,7 +3941,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-013",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 3761.6m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -3956,7 +3956,7 @@
         "source_historical_county": "萬安縣",
         "target_historical_province": "江西",
         "target_historical_county": "泰和縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -4093,7 +4093,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-014",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 4214.0m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -4109,7 +4109,7 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "吉安府",
         "target_historical_county": "廬陵縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -4194,7 +4194,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-015",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 338.2m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -4211,7 +4211,7 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "吉安府",
         "target_historical_county": "吉水縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -4352,7 +4352,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-016",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 792.4m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -4368,7 +4368,7 @@
         "source_historical_county": "吉水縣",
         "target_historical_province": "江西",
         "target_historical_county": "峽江縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -4477,7 +4477,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-017",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 496.6m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -4492,7 +4492,7 @@
         "source_historical_county": "峽江縣",
         "target_historical_province": "江西",
         "target_historical_county": "新淦縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -5693,7 +5693,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-018",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -5702,7 +5702,7 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "臨江府",
         "target_historical_county": "清江縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -5875,7 +5875,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-019",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "P",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 1560.5m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -5891,7 +5891,7 @@
         "source_historical_county": "清江縣",
         "target_historical_province": "江西",
         "target_historical_county": "豐城縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -6132,7 +6132,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-020",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 贛江 (river_id=1845) 선택; DEM 선 표본과의 평균거리 2325.7m.",
         "geometry_grade": "G1_dem_candidate_through_approved_waypoint",
@@ -6148,7 +6148,7 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "南昌府",
         "target_historical_county": "南昌縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -7649,7 +7649,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-021",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -7658,7 +7658,7 @@
         "source_historical_county": "南昌縣",
         "target_historical_province": "江西",
         "target_historical_county": "建昌縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -8791,7 +8791,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-022",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -8799,7 +8799,7 @@
         "source_historical_county": "建昌縣",
         "target_historical_province": "江西",
         "target_historical_county": "德安縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -9444,7 +9444,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-023",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -9452,7 +9452,7 @@
         "source_historical_county": "德安縣",
         "target_historical_province": "江西",
         "target_historical_county": "德化縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -10185,7 +10185,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-GD-024",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "solid_guangzhou_xunyang",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -10194,7 +10194,7 @@
         "target_historical_province": "江西",
         "target_historical_prefecture": "九江府",
         "target_historical_county": "德化縣",
-        "map_dash": ""
+        "map_dash": "4 8"
       }
     },
     {
@@ -10269,7 +10269,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "江西",
         "source_historical_prefecture": "九江府",
@@ -10307,7 +10307,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "湖北",
         "source_historical_county": "黃梅縣",
@@ -10344,7 +10344,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "湖北",
         "source_historical_county": "黃梅縣",
@@ -10425,7 +10425,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "湖北",
         "source_historical_county": "黃梅縣",
@@ -10506,7 +10506,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "宿松縣",
@@ -10587,7 +10587,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "太湖縣",
@@ -10668,7 +10668,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "潛山縣",
@@ -10749,7 +10749,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "桐城縣",
@@ -10830,7 +10830,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "桐城縣",
@@ -10911,7 +10911,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "舒城縣",
@@ -10992,7 +10992,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "舒城縣",
@@ -11073,7 +11073,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "合肥縣",
@@ -11154,7 +11154,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "合肥縣",
@@ -11235,7 +11235,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "合肥縣",
@@ -11316,7 +11316,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "合肥縣",
@@ -11397,7 +11397,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "定遠縣",
@@ -11478,7 +11478,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "定遠縣",
@@ -11559,7 +11559,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "鳳陽縣",
@@ -11640,7 +11640,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "鳳陽縣",
@@ -11721,7 +11721,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "鳳陽縣",
@@ -11802,7 +11802,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_county": "靈璧縣",
@@ -11883,7 +11883,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_zhou": "宿州",
@@ -11964,7 +11964,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_zhou": "宿州",
@@ -12045,7 +12045,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "安徽",
         "source_historical_zhou": "宿州",
@@ -12126,7 +12126,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "江蘇",
         "source_historical_county": "銅山縣",
@@ -12207,7 +12207,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "江蘇",
         "source_historical_county": "銅山縣",
@@ -12288,7 +12288,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "江蘇",
         "source_historical_county": "銅山縣",
@@ -12369,7 +12369,7 @@
         "transport_mode": "route_mode_pending",
         "geometry_basis": "retained_figure3_generalized_geometry",
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "geometry_grade": "G3",
         "source_historical_province": "山東",
         "source_historical_county": "滕縣",
@@ -12800,7 +12800,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-078",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -13437,7 +13437,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-079",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -14050,7 +14050,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-080",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -14551,7 +14551,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-081",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -14984,7 +14984,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-082",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -15765,7 +15765,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-083",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -15862,7 +15862,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-084",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "R",
         "hydro_review_note": "CHGIS 하천 후보 1개; 大清河 (river_id=1489) 선택; DEM 선 표본과의 평균거리 1451.4m.",
         "geometry_grade": "G2_researcher_approved_corridor",
@@ -16832,7 +16832,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-085",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -18081,7 +18081,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-086",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -19358,7 +19358,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-087",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -20627,7 +20627,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-088",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -22084,7 +22084,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-MS-CENTRAL-089",
         "figure2_route_reference": "mun_sundeuk",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "문순득 노정에 대한 사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -23173,7 +23173,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-001",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -23670,7 +23670,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-002",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -24263,7 +24263,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-003",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -24956,7 +24956,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-004",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -26097,7 +26097,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-005",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -28126,7 +28126,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-006",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -28683,7 +28683,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-007",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -29664,7 +29664,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-008",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -30857,7 +30857,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-009",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -31562,7 +31562,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-010",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",
@@ -32463,7 +32463,7 @@
         "source_summary": "Relay Itineraries of the Huidian zeli; geometry reuses approved Figure 2 hydro decisions where station pairs coincide.",
         "figure2_geometry_reference": "FIG2-SHARED-NORTH-011",
         "figure2_route_reference": "shared",
-        "line_style_scope": "dashed_post_xunyang_baseline",
+        "line_style_scope": "dashed_full_baseline",
         "hydro_decision": "D",
         "hydro_review_note": "사용자 결정에 따라 현재 DEM 후보 선형을 유지한다.",
         "geometry_grade": "G3_candidate_pending_corroboration",

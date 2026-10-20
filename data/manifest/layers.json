@@ -89,54 +89,6 @@
       "feature_count": 3
     },
     {
-      "id": "figure2_mun_sundeuk_lines",
-      "title": "Mun Sundeuk group",
-      "title_en": "Mun Sundeuk group",
-      "title_ko": "문순득 일행",
-      "category": "figure2",
-      "default_visible": false,
-      "path": "data/figure2/mun_sundeuk_lines.geojson",
-      "style": {
-        "color": "#c2410c",
-        "weight": 4.7,
-        "opacity": 0.95
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 61
-    },
-    {
-      "id": "figure2_mun_hogyeom_lines",
-      "title": "Mun Ho-gyeom group",
-      "title_en": "Mun Ho-gyeom group",
-      "title_ko": "문호겸 일행",
-      "category": "figure2",
-      "default_visible": false,
-      "path": "data/figure2/mun_hogyeom_lines.geojson",
-      "style": {
-        "color": "#2563eb",
-        "weight": 4.7,
-        "opacity": 0.95
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 59
-    },
-    {
-      "id": "figure2_shared_lines",
-      "title": "Shared official-network section",
-      "title_en": "Shared official-network section",
-      "title_ko": "공통 공식 역참망 구간",
-      "category": "figure2",
-      "default_visible": false,
-      "path": "data/figure2/shared_lines.geojson",
-      "style": {
-        "color": "#312e81",
-        "weight": 5.2,
-        "opacity": 0.95
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 43
-    },
-    {
       "id": "figure2_station_context",
       "title": "Postal stations",
       "title_en": "Postal stations",
@@ -199,38 +151,6 @@
       "feature_count": 75
     },
     {
-      "id": "figure3_actual_water_route_lines",
-      "title": "Xunyang-Huaiyin waterway detour",
-      "title_en": "Xunyang-Huaiyin waterway detour",
-      "title_ko": "심양-회음 수로 우회",
-      "category": "figure3",
-      "default_visible": false,
-      "path": "data/figure3/actual_water_route.geojson",
-      "style": {
-        "color": "#c2410c",
-        "weight": 5,
-        "opacity": 0.97
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 1
-    },
-    {
-      "id": "figure3_central_continuation_lines",
-      "title": "Shandong central route",
-      "title_en": "Shandong central route",
-      "title_ko": "산동중로",
-      "category": "figure3",
-      "default_visible": false,
-      "path": "data/figure3/central_route_lines.geojson",
-      "style": {
-        "color": "#c2410c",
-        "weight": 5,
-        "opacity": 0.97
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 28
-    },
-    {
       "id": "figure3_eastern_continuation_lines",
       "title": "Possible Shandong eastern route",
       "title_en": "Possible Shandong eastern route",
@@ -260,7 +180,7 @@
         "radius": 4
       },
       "pane": "keyStopPane",
-      "feature_count": 95
+      "feature_count": 146
     },
     {
       "id": "figure3_key_places",
@@ -357,104 +277,6 @@
       "feature_count": 3
     },
     {
-      "id": "figure2_dem_mun_sundeuk_lines",
-      "title": "Mun Sundeuk group — DEM candidate",
-      "title_en": "Mun Sundeuk group — DEM candidate",
-      "title_ko": "문순득 일행 — DEM 후보",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure2/mun_sundeuk_lines.geojson",
-      "style": {
-        "color": "#c2410c",
-        "weight": 4.7,
-        "opacity": 0.95
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 61
-    },
-    {
-      "id": "figure2_dem_mun_hogyeom_lines",
-      "title": "Mun Ho-gyeom group — DEM candidate",
-      "title_en": "Mun Ho-gyeom group — DEM candidate",
-      "title_ko": "문호겸 일행 — DEM 후보",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure2/mun_hogyeom_lines.geojson",
-      "style": {
-        "color": "#2563eb",
-        "weight": 4.7,
-        "opacity": 0.95
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 59
-    },
-    {
-      "id": "figure2_dem_shared_lines",
-      "title": "Shared official-network section — DEM candidate",
-      "title_en": "Shared official-network section — DEM candidate",
-      "title_ko": "공통 역참망 — DEM 후보",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure2/shared_lines.geojson",
-      "style": {
-        "color": "#312e81",
-        "weight": 5.2,
-        "opacity": 0.95
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 43
-    },
-    {
-      "id": "figure3_dem_official_baseline_lines",
-      "title": "Guangzhou-Beijing baseline — DEM candidate",
-      "title_en": "Guangzhou-Beijing baseline — DEM candidate",
-      "title_ko": "광저우-베이징 역참로 — DEM 후보",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure3/official_baseline_lines.geojson",
-      "style": {
-        "color": "#d81b60",
-        "weight": 4,
-        "opacity": 0.9,
-        "dashArray": "4 8"
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 75
-    },
-    {
-      "id": "figure3_dem_central_continuation_lines",
-      "title": "Shandong central route — DEM candidate",
-      "title_en": "Shandong central route — DEM candidate",
-      "title_ko": "산동중로 — DEM 후보",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure3/central_route_lines.geojson",
-      "style": {
-        "color": "#c2410c",
-        "weight": 5,
-        "opacity": 0.97
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 28
-    },
-    {
-      "id": "figure3_dem_eastern_continuation_lines",
-      "title": "Possible Shandong eastern route — DEM candidate",
-      "title_en": "Possible Shandong eastern route — DEM candidate",
-      "title_ko": "산동동로 — DEM 후보",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure3/eastern_route_lines.geojson",
-      "style": {
-        "color": "#0057d9",
-        "weight": 4.5,
-        "opacity": 0.95,
-        "dashArray": "4 8"
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 30
-    },
-    {
       "id": "figure4_dem_corridor_band_lines",
       "title": "Fujian corridor band — hydrographic hybrid",
       "title_en": "Fujian corridor band — hydrographic hybrid",
@@ -535,10 +357,10 @@
     },
     {
       "id": "figure2_hydro_mun_sundeuk_lines",
-      "title": "Mun Sundeuk group — hydrography decision",
-      "title_en": "Mun Sundeuk group — hydrography decision",
-      "title_ko": "문순득 일행 — 수계 판정 구현",
-      "category": "hydro_decision",
+      "title": "Mun Sundeuk group",
+      "title_en": "Mun Sundeuk group",
+      "title_ko": "문순득 일행",
+      "category": "figure2",
       "default_visible": false,
       "path": "data/hydro_decision/figure2/mun_sundeuk_lines.geojson",
       "style": {
@@ -547,14 +369,14 @@
         "opacity": 0.95
       },
       "pane": "figureRoutePane",
-      "feature_count": 61
+      "feature_count": 104
     },
     {
       "id": "figure2_hydro_mun_hogyeom_lines",
-      "title": "Mun Ho-gyeom group — hydrography decision",
-      "title_en": "Mun Ho-gyeom group — hydrography decision",
-      "title_ko": "문호겸 일행 — 수계 판정 구현",
-      "category": "hydro_decision",
+      "title": "Mun Ho-gyeom group",
+      "title_en": "Mun Ho-gyeom group",
+      "title_ko": "문호겸 일행",
+      "category": "figure2",
       "default_visible": false,
       "path": "data/hydro_decision/figure2/mun_hogyeom_lines.geojson",
       "style": {
@@ -563,14 +385,14 @@
         "opacity": 0.95
       },
       "pane": "figureRoutePane",
-      "feature_count": 59
+      "feature_count": 102
     },
     {
       "id": "figure2_hydro_shared_lines",
-      "title": "Shared official-network section — hydrography decision",
-      "title_en": "Shared official-network section — hydrography decision",
-      "title_ko": "공통 역참망 — 수계 판정 구현",
-      "category": "hydro_decision",
+      "title": "Shared official-network section",
+      "title_en": "Shared official-network section",
+      "title_ko": "공통 공식 역참망 구간",
+      "category": "figure2",
       "default_visible": false,
       "path": "data/hydro_decision/figure2/shared_lines.geojson",
       "style": {
@@ -615,16 +437,15 @@
       "id": "figure3_public",
       "title": "Figure 3",
       "title_ko": "Figure 3",
-      "description": "The official baseline, waterway detour, and two Shandong alternatives.",
-      "description_ko": "공식 기준선, 수로 우회, 산동중로와 산동동로의 비교.",
+      "description": "The postal baseline, Mun Sundeuk group's reconstructed route, and the possible Shandong eastern route.",
+      "description_ko": "공식 기준선, 문순득 일행 복원 노정, 산동동로 가능 노선의 비교.",
       "visible_layers": [
         "chgis_1820_lakes",
         "chgis_1820_province_boundaries",
         "canal_lines",
         "figure3_official_baseline_lines",
-        "figure3_actual_water_route_lines",
-        "figure3_central_continuation_lines",
         "figure3_eastern_continuation_lines",
+        "figure2_hydro_mun_sundeuk_lines",
         "figure3_route_points",
         "figure3_key_places"
       ],
@@ -662,93 +483,6 @@
         [
           34.08,
           120.95
-        ]
-      ]
-    },
-    {
-      "id": "figure2_dem_public",
-      "title": "Figure 2 — DEM candidate",
-      "title_ko": "Figure 2 — DEM 후보",
-      "description": "Manual comparison of first-pass terrain candidates, postal stations, and CHGIS 1820 rivers.",
-      "description_ko": "DEM 후보선·역참점·CHGIS 1820 하천을 육안 대조하는 검토 장면.",
-      "visible_layers": [
-        "chgis_1820_lakes",
-        "chgis_1820_province_boundaries",
-        "canal_lines",
-        "chgis_1820_rivers_review",
-        "figure2_dem_mun_sundeuk_lines",
-        "figure2_dem_mun_hogyeom_lines",
-        "figure2_dem_shared_lines",
-        "figure2_station_context",
-        "figure2_key_places",
-        "figure2_admin_province_points"
-      ],
-      "bounds": [
-        [
-          21.2,
-          112.2
-        ],
-        [
-          42.6,
-          125.3
-        ]
-      ]
-    },
-    {
-      "id": "figure3_dem_public",
-      "title": "Figure 3 — DEM candidate",
-      "title_ko": "Figure 3 — DEM 후보",
-      "description": "Manual comparison of first-pass terrain candidates, station points, and CHGIS 1820 rivers.",
-      "description_ko": "DEM 후보선·역참 및 노정점·CHGIS 1820 하천을 육안 대조하는 검토 장면.",
-      "visible_layers": [
-        "chgis_1820_lakes",
-        "chgis_1820_province_boundaries",
-        "canal_lines",
-        "chgis_1820_rivers_review",
-        "figure3_dem_official_baseline_lines",
-        "figure3_actual_water_route_lines",
-        "figure3_dem_central_continuation_lines",
-        "figure3_dem_eastern_continuation_lines",
-        "figure3_route_points",
-        "figure3_key_places"
-      ],
-      "bounds": [
-        [
-          29.15,
-          115.35
-        ],
-        [
-          37.85,
-          119.85
-        ]
-      ]
-    },
-    {
-      "id": "figure2_hydro_decision_public",
-      "title": "Figure 2 — hydrography decisions",
-      "title_ko": "Figure 2 — 수계 판정 구현",
-      "description": "Researcher-approved DEM and CHGIS river-following geometries, retained separately from the earlier DEM candidates.",
-      "description_ko": "확정된 DEM 유지·하천 추종·특수 통과 판정을 기존 DEM 후보와 분리하여 구현한 검토 장면.",
-      "visible_layers": [
-        "chgis_1820_lakes",
-        "chgis_1820_province_boundaries",
-        "canal_lines",
-        "chgis_1820_rivers_review",
-        "figure2_hydro_mun_sundeuk_lines",
-        "figure2_hydro_mun_hogyeom_lines",
-        "figure2_hydro_shared_lines",
-        "figure2_station_context",
-        "figure2_key_places",
-        "figure2_admin_province_points"
-      ],
-      "bounds": [
-        [
-          21.2,
-          112.2
-        ],
-        [
-          42.6,
-          125.3
         ]
       ]
     },
@@ -794,16 +528,6 @@
       "id": "figure4",
       "title": "Figure 4 publication draft",
       "path": "assets/figures/figure4.png"
-    },
-    {
-      "id": "figure2_dem_hybrid",
-      "title": "Figure 2 DEM-hybrid draft",
-      "path": "assets/figures/figure2_dem_hybrid.png"
-    },
-    {
-      "id": "figure3_dem_hybrid",
-      "title": "Figure 3 DEM-hybrid draft",
-      "path": "assets/figures/figure3_dem_hybrid.png"
     },
     {
       "id": "figure4_dem_hybrid",

@@ -13,11 +13,11 @@
       "properties": {
         "figure_id": "Figure 3",
         "feature_type": "route_point",
-        "Chinese Name": "五仙驛",
+        "Chinese Name": "廣東省城",
         "historical_province": "廣東",
         "historical_prefecture": "廣州府",
         "historical_zhou": null,
-        "historical_county": "番禺縣",
+        "historical_county": "南海縣",
         "source_summary": "Huidian zeli and article route reconstruction."
       }
     },
@@ -1526,66 +1526,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          118.297058,
-          33.958302
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 3",
-        "feature_type": "route_point",
-        "Chinese Name": "鍾吾驛",
-        "historical_province": null,
-        "historical_prefecture": null,
-        "historical_zhou": null,
-        "historical_county": "宿遷縣",
-        "source_summary": "Huidian zeli and article route reconstruction."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.963066,
-          34.47102
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 3",
-        "feature_type": "route_point",
-        "Chinese Name": "邳州",
-        "historical_province": null,
-        "historical_prefecture": null,
-        "historical_zhou": null,
-        "historical_county": null,
-        "source_summary": "Huidian zeli and article route reconstruction."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.58606,
-          34.77
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 3",
-        "feature_type": "route_point",
-        "Chinese Name": "嶧縣",
-        "historical_province": null,
-        "historical_prefecture": null,
-        "historical_zhou": null,
-        "historical_county": null,
-        "source_summary": "Huidian zeli and article route reconstruction."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           118.654595,
           33.68589
         ]
@@ -1618,6 +1558,26 @@
         "historical_prefecture": null,
         "historical_zhou": null,
         "historical_county": "桃源縣",
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.297058,
+          33.958302
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "鍾吾驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": "宿遷縣",
         "source_summary": "Huidian zeli and article route reconstruction."
       }
     },
@@ -1898,6 +1858,1066 @@
         "historical_prefecture": null,
         "historical_zhou": null,
         "historical_county": "平原縣",
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5439,
+          22.1987
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "澳門",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54778,
+          22.2185
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "戎廳",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.373604,
+          22.52581
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "香山縣城",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.218018,
+          29.734993
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "湖口縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.551216,
+          29.896095
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "彭澤縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.911415,
+          30.213217
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "東流縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.034676,
+          30.512295
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "懷寧縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.481834,
+          30.654661
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "貴池縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.787499,
+          30.953846
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "銅陵縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.194275,
+          31.090563
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "繁昌縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.362618,
+          31.334949
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "蕪湖縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.483437,
+          31.555685
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "當塗縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76899,
+          32.052563
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "上元縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.837898,
+          32.348419
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "棠邑驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44,
+          32.39
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "廣陵驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": "江都縣",
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.50705,
+          32.53056
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "邵伯驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": "甘泉縣",
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44,
+          32.79
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "盂城驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": "高郵州",
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.421158,
+          33.009068
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "界首驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": "高郵州",
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.31,
+          33.24
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "安平驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": "寶應縣",
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.963066,
+          34.47102
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "邳州",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.58606,
+          34.77
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "嶧縣",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6588058,
+          39.9059219
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "潞河驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0761185,
+          39.9827881
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "三河驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4018173,
+          40.0438652
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "漁陽驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.754776,
+          39.8836708
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "陽樊驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1348953,
+          39.8276024
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "義豐驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.469192,
+          39.866402
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "七家嶺驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8619995,
+          39.8769989
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "灤河驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.158263,
+          39.882235
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "蘆峰口驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.3383946,
+          39.8910828
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "榆關驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.77024,
+          40.01019
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "遷安驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.118647,
+          40.248138
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "凉水河沙河站驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4471589,
+          40.402406
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "東關驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.70344,
+          40.61923
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "寧遠驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.991585,
+          40.895901
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "高橋驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.25663,
+          41.097183
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "小凌河驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5059201,
+          41.2625863
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "十三山驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.796566,
+          41.521034
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "廣寧驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.112984,
+          41.685833
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "小黑山驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.324066,
+          41.814949
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "二道井驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.587158,
+          41.871429
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "白旗堡驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.956265,
+          42.04858
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "巨流河驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.159843,
+          41.96315
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "舊邊驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.41988,
+          41.78825
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "盛京驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.35186,
+          41.510853
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "十里河驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2185,
+          41.29062
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "東京驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.387273,
+          41.025824
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "狼子山驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.556931,
+          40.987083
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "甜水站驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.746079,
+          40.965794
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "連山關驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.915863,
+          40.791561
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "通遠堡驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.967757,
+          40.581594
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "薛里站驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0717755,
+          40.4570248
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "鳳凰城驛",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
+        "source_summary": "Huidian zeli and article route reconstruction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.531,
+          40.199
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 3",
+        "feature_type": "route_point",
+        "Chinese Name": "義州",
+        "historical_province": null,
+        "historical_prefecture": null,
+        "historical_zhou": null,
+        "historical_county": null,
         "source_summary": "Huidian zeli and article route reconstruction."
       }
     }
