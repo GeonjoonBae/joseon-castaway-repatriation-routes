@@ -199,9 +199,9 @@
     },
     {
       "id": "figure4_corridor_band_lines",
-      "title": "Fujian corridor band",
-      "title_en": "Fujian corridor band",
-      "title_ko": "복건회랑 범위",
+      "title": "Canal section of the Fujian corridor",
+      "title_en": "Canal section of the Fujian corridor",
+      "title_ko": "복건회랑의 대운하 비교 구간",
       "category": "figure4",
       "default_visible": false,
       "path": "data/figure4/corridor_axis.geojson",
@@ -212,13 +212,13 @@
       },
       "pane": "figureRoutePane",
       "searchable": false,
-      "feature_count": 5
+      "feature_count": 1
     },
     {
       "id": "figure4_corridor_axis_lines",
-      "title": "Waterway-derived corridor axis",
-      "title_en": "Waterway-derived corridor axis",
-      "title_ko": "수로 기반 회랑 축",
+      "title": "Grand Canal reference axis",
+      "title_en": "Grand Canal reference axis",
+      "title_ko": "대운하 기준축",
       "category": "figure4",
       "default_visible": false,
       "path": "data/figure4/corridor_axis.geojson",
@@ -228,23 +228,7 @@
         "opacity": 0.96
       },
       "pane": "figureRoutePane",
-      "feature_count": 5
-    },
-    {
-      "id": "figure4_full_corridor_context_lines",
-      "title": "Fujian-Beijing corridor context",
-      "title_en": "Fujian-Beijing corridor context",
-      "title_ko": "복건-북경 회랑 간략도",
-      "category": "figure4",
-      "default_visible": false,
-      "path": "data/figure4/full_corridor_context.geojson",
-      "style": {
-        "color": "#115e59",
-        "weight": 3.2,
-        "opacity": 0.88
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 70
+      "feature_count": 1
     },
     {
       "id": "figure4_reference_points",
@@ -269,85 +253,6 @@
       "category": "figure4",
       "default_visible": false,
       "path": "data/figure4/transition_points.geojson",
-      "style": {
-        "color": "#c2410c",
-        "radius": 8
-      },
-      "pane": "keyStopPane",
-      "feature_count": 3
-    },
-    {
-      "id": "figure4_dem_corridor_band_lines",
-      "title": "Fujian corridor band — hydrographic hybrid",
-      "title_en": "Fujian corridor band — hydrographic hybrid",
-      "title_ko": "복건회랑 범위 — 수계 혼합형",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure4/corridor_axis.geojson",
-      "style": {
-        "color": "#0f766e",
-        "weight": 16,
-        "opacity": 0.23
-      },
-      "pane": "figureRoutePane",
-      "searchable": false,
-      "feature_count": 5
-    },
-    {
-      "id": "figure4_dem_corridor_axis_lines",
-      "title": "Waterway-derived corridor axis — hydrographic hybrid",
-      "title_en": "Waterway-derived corridor axis — hydrographic hybrid",
-      "title_ko": "수로 기반 회랑 축 — 수계 혼합형",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure4/corridor_axis.geojson",
-      "style": {
-        "color": "#115e59",
-        "weight": 4.5,
-        "opacity": 0.96
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 5
-    },
-    {
-      "id": "figure4_dem_full_corridor_context_lines",
-      "title": "Fujian-Beijing corridor context — hydrographic hybrid",
-      "title_en": "Fujian-Beijing corridor context — hydrographic hybrid",
-      "title_ko": "복건-북경 회랑 간략도 — 수계 혼합형",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure4/full_corridor_context.geojson",
-      "style": {
-        "color": "#115e59",
-        "weight": 3.2,
-        "opacity": 0.88
-      },
-      "pane": "figureRoutePane",
-      "feature_count": 70
-    },
-    {
-      "id": "figure4_dem_reference_points",
-      "title": "Postal stations — hydrographic hybrid",
-      "title_en": "Postal stations — hydrographic hybrid",
-      "title_ko": "역참 — 수계 혼합형",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure4/station_points.geojson",
-      "style": {
-        "color": "#374151",
-        "radius": 5
-      },
-      "pane": "keyStopPane",
-      "feature_count": 13
-    },
-    {
-      "id": "figure4_dem_transition_points",
-      "title": "Water-land transition points — hydrographic hybrid",
-      "title_en": "Water-land transition points — hydrographic hybrid",
-      "title_ko": "수륙 전환점 — 수계 혼합형",
-      "category": "dem_hybrid",
-      "default_visible": false,
-      "path": "data/dem_hybrid/figure4/transition_points.geojson",
       "style": {
         "color": "#c2410c",
         "radius": 8
@@ -485,32 +390,6 @@
           120.95
         ]
       ]
-    },
-    {
-      "id": "figure4_dem_hybrid_public",
-      "title": "Figure 4 — hydrographic hybrid",
-      "title_ko": "Figure 4 — 수계 혼합형",
-      "description": "Figure 4 retains the waterway-derived corridor because land DEM routing is not applicable to its principal geometry.",
-      "description_ko": "주요 선형이 운하 회랑이므로 기존 수계 기반 선형을 유지한 도판.",
-      "visible_layers": [
-        "chgis_1820_lakes",
-        "chgis_1820_province_boundaries",
-        "canal_lines",
-        "figure4_dem_corridor_band_lines",
-        "figure4_dem_corridor_axis_lines",
-        "figure4_dem_reference_points",
-        "figure4_dem_transition_points"
-      ],
-      "bounds": [
-        [
-          30.52,
-          118.1
-        ],
-        [
-          34.08,
-          120.95
-        ]
-      ]
     }
   ],
   "images": [
@@ -528,11 +407,6 @@
       "id": "figure4",
       "title": "Figure 4 publication draft",
       "path": "assets/figures/figure4.png"
-    },
-    {
-      "id": "figure4_dem_hybrid",
-      "title": "Figure 4 hydrographic-hybrid draft",
-      "path": "assets/figures/figure4_dem_hybrid.png"
     }
   ]
 }
