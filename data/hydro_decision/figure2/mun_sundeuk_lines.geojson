@@ -11535,12 +11535,12 @@
             29.72236443
           ],
           [
-            115.98567963,
-            29.734662694754103
+            115.98567963000002,
+            29.734662694754107
           ],
           [
             116.00931600058996,
-            29.744838999972767
+            29.744838999972774
           ],
           [
             116.02387200060237,
@@ -11583,8 +11583,8 @@
             29.753190999962907
           ],
           [
-            116.218018,
-            29.75503294552189
+            116.21445656257418,
+            29.754539212615555
           ],
           [
             116.218018,
@@ -11602,7 +11602,7 @@
         "source_name_zh": "潯陽驛",
         "target_name_zh": "湖口縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -11612,7 +11612,7 @@
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
         "source_connector_km": 1.367,
-        "target_connector_km": 2.228,
+        "target_connector_km": 2.201,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
@@ -11633,8 +11633,8 @@
             29.734993
           ],
           [
-            116.218018,
-            29.75503294552189
+            116.21445656257418,
+            29.754539212615555
           ],
           [
             116.22428900079706,
@@ -11646,7 +11646,7 @@
           ],
           [
             116.27538300085511,
-            29.78591499995876
+            29.785914999958763
           ],
           [
             116.2957920008792,
@@ -11670,7 +11670,7 @@
           ],
           [
             116.4304960010541,
-            29.867280999948303
+            29.86728099994831
           ],
           [
             116.44237500107079,
@@ -11678,7 +11678,7 @@
           ],
           [
             116.45085900108286,
-            29.87087399994672
+            29.870873999946728
           ],
           [
             116.464142001102,
@@ -11690,7 +11690,7 @@
           ],
           [
             116.50754600116657,
-            29.88489699994214
+            29.884896999942132
           ],
           [
             116.51472500117762,
@@ -11709,18 +11709,6 @@
             29.90312799993918
           ],
           [
-            116.5465090012276,
-            29.90787499993888
-          ],
-          [
-            116.54922500123203,
-            29.911725999938664
-          ],
-          [
-            116.551216,
-            29.917125479460015
-          ],
-          [
             116.551216,
             29.896095
           ]
@@ -11736,7 +11724,7 @@
         "source_name_zh": "湖口縣",
         "target_name_zh": "彭澤縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -11745,8 +11733,8 @@
         "hydro_implementation_status": "implemented",
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
-        "source_connector_km": 2.228,
-        "target_connector_km": 2.34,
+        "source_connector_km": 2.201,
+        "target_connector_km": 1.136,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
@@ -11764,8 +11752,16 @@
             29.896095
           ],
           [
-            116.551216,
-            29.917125479460015
+            116.54271700122152,
+            29.90312799993918
+          ],
+          [
+            116.5465090012276,
+            29.90787499993888
+          ],
+          [
+            116.54922500123203,
+            29.911725999938664
           ],
           [
             116.55258200123757,
@@ -11773,7 +11769,7 @@
           ],
           [
             116.55854000124755,
-            29.941112999938024
+            29.941112999938017
           ],
           [
             116.56292700125482,
@@ -11885,7 +11881,7 @@
           ],
           [
             116.89714800191604,
-            30.211009999902785
+            30.211009999902792
           ],
           [
             116.89761300191738,
@@ -11893,27 +11889,23 @@
           ],
           [
             116.89906300192084,
-            30.22448199990267
+            30.22448199990268
           ],
           [
             116.9016650019269,
-            30.2228339999023
+            30.222833999902306
           ],
           [
             116.90222900192799,
             30.210448999902095
           ],
           [
-            116.90637200193798,
-            30.220456999901653
+            116.90429513690577,
+            30.21544037376628
           ],
           [
-            116.90934800194533,
-            30.234139999901394
-          ],
-          [
-            116.911415,
-            30.237759626255553
+            116.90429513690577,
+            30.215440373766288
           ],
           [
             116.911415,
@@ -11931,7 +11923,7 @@
         "source_name_zh": "彭澤縣",
         "target_name_zh": "東流縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -11940,8 +11932,8 @@
         "hydro_implementation_status": "implemented",
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
-        "source_connector_km": 2.34,
-        "target_connector_km": 2.732,
+        "source_connector_km": 1.136,
+        "target_connector_km": 0.731,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
@@ -11959,8 +11951,20 @@
             30.213217
           ],
           [
-            116.911415,
-            30.237759626255553
+            116.90429513690577,
+            30.215440373766288
+          ],
+          [
+            116.90429513690577,
+            30.21544037376628
+          ],
+          [
+            116.90637200193798,
+            30.220456999901653
+          ],
+          [
+            116.90934800194533,
+            30.234139999901394
           ],
           [
             116.91542800196008,
@@ -11972,7 +11976,7 @@
           ],
           [
             116.93713400201324,
-            30.277354999898048
+            30.277354999898044
           ],
           [
             116.93650800201216,
@@ -11980,7 +11984,7 @@
           ],
           [
             116.9265670019884,
-            30.310513999899914
+            30.31051399989992
           ],
           [
             116.91701500196564,
@@ -11996,7 +12000,7 @@
           ],
           [
             116.9093780019482,
-            30.35455499990275
+            30.354554999902756
           ],
           [
             116.91449700196044,
@@ -12008,7 +12012,7 @@
           ],
           [
             116.93212900200304,
-            30.364211999899776
+            30.36421199989977
           ],
           [
             116.93649300201378,
@@ -12032,7 +12036,7 @@
           ],
           [
             116.92318700198261,
-            30.42091899990163
+            30.420918999901623
           ],
           [
             116.92762000199347,
@@ -12044,11 +12048,11 @@
           ],
           [
             116.96461500208538,
-            30.455865999896318
+            30.45586599989631
           ],
           [
             116.97649400211566,
-            30.464341999894742
+            30.46434199989475
           ],
           [
             117.0035860021862,
@@ -12056,11 +12060,15 @@
           ],
           [
             117.01005600220336,
-            30.491177999890176
+            30.49117799989017
           ],
           [
-            117.034676,
-            30.49293160780955
+            117.03650061085813,
+            30.49306225214638
+          ],
+          [
+            117.03650061085813,
+            30.493062252146387
           ],
           [
             117.034676,
@@ -12078,7 +12086,7 @@
         "source_name_zh": "東流縣",
         "target_name_zh": "懷寧縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -12087,8 +12095,8 @@
         "hydro_implementation_status": "implemented",
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
-        "source_connector_km": 2.732,
-        "target_connector_km": 2.156,
+        "source_connector_km": 0.731,
+        "target_connector_km": 2.148,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
@@ -12106,8 +12114,12 @@
             30.512295
           ],
           [
-            117.034676,
-            30.49293160780955
+            117.03650061085813,
+            30.493062252146387
+          ],
+          [
+            117.03650061085813,
+            30.49306225214638
           ],
           [
             117.04300700229192,
@@ -12127,7 +12139,7 @@
           ],
           [
             117.13761900256327,
-            30.48045199986954
+            30.480451999869533
           ],
           [
             117.14488200258516,
@@ -12163,7 +12175,7 @@
           ],
           [
             117.24918000292051,
-            30.5348779998499
+            30.534877999849908
           ],
           [
             117.25231900293176,
@@ -12179,7 +12191,7 @@
           ],
           [
             117.25220500293199,
-            30.5854819998502
+            30.58548199985019
           ],
           [
             117.25016800292518,
@@ -12199,7 +12211,7 @@
           ],
           [
             117.23201000286517,
-            30.623212999854747
+            30.623212999854736
           ],
           [
             117.2348860028749,
@@ -12247,11 +12259,11 @@
           ],
           [
             117.38582600341847,
-            30.6874809998242
+            30.687480999824192
           ],
           [
             117.40937800351058,
-            30.68399099981878
+            30.683990999818782
           ],
           [
             117.43225800360202,
@@ -12267,15 +12279,7 @@
           ],
           [
             117.47116100376263,
-            30.67941299980394
-          ],
-          [
-            117.47605100378331,
-            30.682736999802795
-          ],
-          [
-            117.481834,
-            30.69100352170248
+            30.679412999803933
           ],
           [
             117.481834,
@@ -12293,7 +12297,7 @@
         "source_name_zh": "懷寧縣",
         "target_name_zh": "貴池縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -12302,8 +12306,8 @@
         "hydro_implementation_status": "implemented",
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
-        "source_connector_km": 2.156,
-        "target_connector_km": 4.048,
+        "source_connector_km": 2.148,
+        "target_connector_km": 2.942,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
@@ -12321,8 +12325,12 @@
             30.654661
           ],
           [
-            117.481834,
-            30.69100352170248
+            117.47116100376263,
+            30.679412999803933
+          ],
+          [
+            117.47605100378331,
+            30.68273699980279
           ],
           [
             117.48771700383331,
@@ -12354,7 +12362,7 @@
           ],
           [
             117.62812000447775,
-            30.767827999764155
+            30.76782799976416
           ],
           [
             117.64096100454098,
@@ -12366,7 +12374,7 @@
           ],
           [
             117.72232100496046,
-            30.79304299973615
+            30.793042999736144
           ],
           [
             117.73627500503589,
@@ -12389,8 +12397,8 @@
             30.833810999731647
           ],
           [
-            117.73146100501108,
-            30.852570999735164
+            117.73146100501106,
+            30.852570999735157
           ],
           [
             117.73519900503129,
@@ -12406,7 +12414,7 @@
           ],
           [
             117.73594700503546,
-            30.85955999973394
+            30.859559999733932
           ],
           [
             117.73236100501622,
@@ -12418,7 +12426,7 @@
           ],
           [
             117.74523200508709,
-            30.906718999732472
+            30.906718999732465
           ],
           [
             117.75006100511374,
@@ -12426,11 +12434,11 @@
           ],
           [
             117.75339500513213,
-            30.920026999730265
+            30.92002699973026
           ],
           [
             117.76224500518114,
-            30.921641999727424
+            30.921641999727427
           ],
           [
             117.76924900522022,
@@ -12453,20 +12461,8 @@
             30.948649999725227
           ],
           [
-            117.77396400524805,
-            31.00147399972626
-          ],
-          [
-            117.77679400526407,
-            31.006440999725495
-          ],
-          [
-            117.7842690053065,
-            31.01873599972344
-          ],
-          [
-            117.787499,
-            31.024569547746815
+            117.77191532756962,
+            30.95434932943353
           ],
           [
             117.787499,
@@ -12484,7 +12480,7 @@
         "source_name_zh": "貴池縣",
         "target_name_zh": "銅陵縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -12493,8 +12489,8 @@
         "hydro_implementation_status": "implemented",
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
-        "source_connector_km": 4.048,
-        "target_connector_km": 7.882,
+        "source_connector_km": 2.942,
+        "target_connector_km": 1.498,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
@@ -12512,8 +12508,20 @@
             30.953846
           ],
           [
-            117.787499,
-            31.024569547746815
+            117.77191532756962,
+            30.95434932943353
+          ],
+          [
+            117.77396400524805,
+            31.00147399972626
+          ],
+          [
+            117.77679400526407,
+            31.006440999725495
+          ],
+          [
+            117.7842690053065,
+            31.01873599972344
           ],
           [
             117.79183300534977,
@@ -12521,7 +12529,7 @@
           ],
           [
             117.80317800541503,
-            31.044740999718
+            31.04474099971801
           ],
           [
             117.81754900549868,
@@ -12597,15 +12605,15 @@
           ],
           [
             118.00146500667131,
-            31.107385999646226
+            31.10738599964624
           ],
           [
             118.00331900668424,
-            31.114432999645757
+            31.114432999645764
           ],
           [
             118.0045930066932,
-            31.12767799964584
+            31.127677999645833
           ],
           [
             118.00312800668326,
@@ -12613,7 +12621,7 @@
           ],
           [
             118.00344100668545,
-            31.15517799964753
+            31.155177999647517
           ],
           [
             118.00367000668707,
@@ -12621,11 +12629,11 @@
           ],
           [
             118.00764500671475,
-            31.168115999646382
+            31.168115999646375
           ],
           [
             118.02127100681021,
-            31.175538999641063
+            31.175538999641056
           ],
           [
             118.03095300687875,
@@ -12653,7 +12661,7 @@
           ],
           [
             118.1053930074261,
-            31.218381999606528
+            31.21838199960652
           ],
           [
             118.11428100749391,
@@ -12673,19 +12681,11 @@
           ],
           [
             118.15681500782586,
-            31.219638999582696
+            31.21963899958269
           ],
           [
             118.1770630079883,
-            31.21756399957283
-          ],
-          [
-            118.19055200809817,
-            31.221614999566437
-          ],
-          [
-            118.194275,
-            31.2222354126828
+            31.217563999572835
           ],
           [
             118.194275,
@@ -12703,7 +12703,7 @@
         "source_name_zh": "銅陵縣",
         "target_name_zh": "繁昌縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -12712,8 +12712,8 @@
         "hydro_implementation_status": "implemented",
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
-        "source_connector_km": 7.882,
-        "target_connector_km": 14.684,
+        "source_connector_km": 1.498,
+        "target_connector_km": 14.259,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
@@ -12731,8 +12731,12 @@
             31.090563
           ],
           [
-            118.194275,
-            31.2222354126828
+            118.1770630079883,
+            31.217563999572835
+          ],
+          [
+            118.19055200809817,
+            31.221614999566437
           ],
           [
             118.19780700815785,
@@ -12756,7 +12760,7 @@
           ],
           [
             118.22451000838063,
-            31.238736999550405
+            31.23873699955042
           ],
           [
             118.23090400843473,
@@ -12784,7 +12788,7 @@
           ],
           [
             118.25852200867206,
-            31.245738999533202
+            31.245738999533195
           ],
           [
             118.26622000873925,
@@ -12816,7 +12820,7 @@
           ],
           [
             118.3225400092446,
-            31.26955599949995
+            31.269555999499943
           ],
           [
             118.32639300928008,
@@ -12847,12 +12851,63 @@
             31.326415999487452
           ],
           [
+            118.35090131090102,
+            31.334573173608824
+          ],
+          [
+            118.362618,
+            31.334949
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2 hydrography decision",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-MS-WATER-061",
+        "route_name": "Mun Sundeuk group hydrography decision",
+        "sequence": 35,
+        "source_name_zh": "繁昌縣",
+        "target_name_zh": "蕪湖縣",
+        "transport_mode": "water",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
+        "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
+        "geometry_grade": "G2_researcher_approved_corridor",
+        "dem_adoption_status": "not_adopted_candidate_only",
+        "hydro_decision": "R",
+        "hydro_review_note": "No manual hydrography decision yet.",
+        "hydro_implementation_status": "implemented",
+        "selected_river_ids": "lake:349",
+        "selected_river_source_ids": "lake:341",
+        "source_connector_km": 14.259,
+        "target_connector_km": 1.123,
+        "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
+        "waterway_continuity_group": "yangtze_xunyang_shangyuan",
+        "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
+        "map_dash": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-MS-WATER-062",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.362618,
+            31.334949
+          ],
+          [
+            118.35090131090102,
+            31.334573173608824
+          ],
+          [
             118.35012800950064,
             31.352313999489812
           ],
           [
             118.34755700947635,
-            31.361773999491913
+            31.36177399949192
           ],
           [
             118.34667200946787,
@@ -12883,7 +12938,7 @@
             31.433698999497604
           ],
           [
-            118.34050800940899,
+            118.340508009409,
             31.441176999501085
           ],
           [
@@ -12896,7 +12951,7 @@
           ],
           [
             118.34137700941677,
-            31.456489999501585
+            31.456489999501578
           ],
           [
             118.35327900952817,
@@ -12905,57 +12960,6 @@
           [
             118.35960400958774,
             31.483888999493214
-          ],
-          [
-            118.362618,
-            31.49245312550462
-          ],
-          [
-            118.362618,
-            31.334949
-          ]
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 2 hydrography decision",
-        "feature_type": "route_segment",
-        "coordinate_status": "검토용 후보 좌표",
-        "id": "FIG2-MS-WATER-061",
-        "route_name": "Mun Sundeuk group hydrography decision",
-        "sequence": 35,
-        "source_name_zh": "繁昌縣",
-        "target_name_zh": "蕪湖縣",
-        "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
-        "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
-        "geometry_grade": "G2_researcher_approved_corridor",
-        "dem_adoption_status": "not_adopted_candidate_only",
-        "hydro_decision": "R",
-        "hydro_review_note": "No manual hydrography decision yet.",
-        "hydro_implementation_status": "implemented",
-        "selected_river_ids": "lake:349",
-        "selected_river_source_ids": "lake:341",
-        "source_connector_km": 14.684,
-        "target_connector_km": 17.569,
-        "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
-        "waterway_continuity_group": "yangtze_xunyang_shangyuan",
-        "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
-        "map_dash": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "FIG2-MS-WATER-062",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            118.362618,
-            31.334949
-          ],
-          [
-            118.362618,
-            31.49245312550462
           ],
           [
             118.3638300096276,
@@ -12975,7 +12979,7 @@
           ],
           [
             118.40542601002983,
-            31.53062199947009
+            31.530621999470082
           ],
           [
             118.40715001004678,
@@ -12987,11 +12991,11 @@
           ],
           [
             118.41877801016199,
-            31.54259099946306
+            31.54259099946305
           ],
           [
             118.42295801020363,
-            31.546590999460868
+            31.546590999460875
           ],
           [
             118.42955001026972,
@@ -13011,7 +13015,54 @@
           ],
           [
             118.45759601055501,
-            31.56754299944149
+            31.567542999441482
+          ],
+          [
+            118.483437,
+            31.555685
+          ]
+        ]
+      },
+      "properties": {
+        "figure_id": "Figure 2 hydrography decision",
+        "feature_type": "route_segment",
+        "coordinate_status": "검토용 후보 좌표",
+        "id": "FIG2-MS-WATER-062",
+        "route_name": "Mun Sundeuk group hydrography decision",
+        "sequence": 36,
+        "source_name_zh": "蕪湖縣",
+        "target_name_zh": "當塗縣",
+        "transport_mode": "water",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
+        "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
+        "geometry_grade": "G2_researcher_approved_corridor",
+        "dem_adoption_status": "not_adopted_candidate_only",
+        "hydro_decision": "R",
+        "hydro_review_note": "No manual hydrography decision yet.",
+        "hydro_implementation_status": "implemented",
+        "selected_river_ids": "lake:349",
+        "selected_river_source_ids": "lake:341",
+        "source_connector_km": 1.123,
+        "target_connector_km": 2.801,
+        "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
+        "waterway_continuity_group": "yangtze_xunyang_shangyuan",
+        "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
+        "map_dash": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIG2-MS-WATER-063",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.483437,
+            31.555685
+          ],
+          [
+            118.45759601055501,
+            31.567542999441482
           ],
           [
             118.46001401057971,
@@ -13031,7 +13082,7 @@
           ],
           [
             118.4683000106641,
-            31.613002999438304
+            31.613002999438297
           ],
           [
             118.46706401065082,
@@ -13070,57 +13121,6 @@
             31.73031199944975
           ],
           [
-            118.483437,
-            31.75987141711696
-          ],
-          [
-            118.483437,
-            31.555685
-          ]
-        ]
-      },
-      "properties": {
-        "figure_id": "Figure 2 hydrography decision",
-        "feature_type": "route_segment",
-        "coordinate_status": "검토용 후보 좌표",
-        "id": "FIG2-MS-WATER-062",
-        "route_name": "Mun Sundeuk group hydrography decision",
-        "sequence": 36,
-        "source_name_zh": "蕪湖縣",
-        "target_name_zh": "當塗縣",
-        "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
-        "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
-        "geometry_grade": "G2_researcher_approved_corridor",
-        "dem_adoption_status": "not_adopted_candidate_only",
-        "hydro_decision": "R",
-        "hydro_review_note": "No manual hydrography decision yet.",
-        "hydro_implementation_status": "implemented",
-        "selected_river_ids": "lake:349",
-        "selected_river_source_ids": "lake:341",
-        "source_connector_km": 17.569,
-        "target_connector_km": 22.781,
-        "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
-        "waterway_continuity_group": "yangtze_xunyang_shangyuan",
-        "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
-        "map_dash": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "FIG2-MS-WATER-063",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            118.483437,
-            31.555685
-          ],
-          [
-            118.483437,
-            31.75987141711696
-          ],
-          [
             118.48600001084161,
             31.763757999438862
           ],
@@ -13130,7 +13130,7 @@
           ],
           [
             118.5183260111858,
-            31.791627999420903
+            31.791627999420896
           ],
           [
             118.52264401123225,
@@ -13146,11 +13146,11 @@
           ],
           [
             118.54996501152954,
-            31.84766199940525
+            31.847661999405243
           ],
           [
             118.56022601164273,
-            31.867946999400264
+            31.867946999400257
           ],
           [
             118.5641330116859,
@@ -13178,11 +13178,11 @@
           ],
           [
             118.61238901223547,
-            31.937070999371574
+            31.937070999371567
           ],
           [
             118.62535901238711,
-            31.95086099936397
+            31.950860999363957
           ],
           [
             118.63375801248627,
@@ -13198,7 +13198,7 @@
           ],
           [
             118.67601001299707,
-            31.982705999331515
+            31.982705999331518
           ],
           [
             118.68035101305077,
@@ -13206,7 +13206,7 @@
           ],
           [
             118.68366201309169,
-            31.98521399932626
+            31.985213999326266
           ],
           [
             118.68994901316988,
@@ -13214,7 +13214,7 @@
           ],
           [
             118.69519801323533,
-            31.990344999318406
+            31.9903449993184
           ],
           [
             118.69937101328748,
@@ -13238,43 +13238,11 @@
           ],
           [
             118.71548501348543,
-            32.048869999309254
+            32.04886999930925
           ],
           [
             118.72213701356876,
-            32.06357199930579
-          ],
-          [
-            118.72485401360156,
-            32.080707999305474
-          ],
-          [
-            118.72654701362242,
-            32.087768999304934
-          ],
-          [
-            118.72893501365189,
-            32.09802599930418
-          ],
-          [
-            118.73178101368795,
-            32.103126999302575
-          ],
-          [
-            118.73484801372697,
-            32.10861599930085
-          ],
-          [
-            118.74507901385871,
-            32.119059999294294
-          ],
-          [
-            118.7610400140679,
-            32.12494299928289
-          ],
-          [
-            118.76899,
-            32.12725800764895
+            32.063571999305786
           ],
           [
             118.76899,
@@ -13292,7 +13260,7 @@
         "source_name_zh": "當塗縣",
         "target_name_zh": "上元縣",
         "transport_mode": "water",
-        "geometry_basis": "chgis_dajiang_south_bank_with_vertical_station_return_spurs",
+        "geometry_basis": "chgis_dajiang_south_bank_with_nearest_station_return_spurs",
         "source_summary": "Researcher-approved hybrid of Copernicus GLO-30 terrain candidates, CHGIS Version 6 river lines, and retained source-informed waterways.",
         "geometry_grade": "G2_researcher_approved_corridor",
         "dem_adoption_status": "not_adopted_candidate_only",
@@ -13301,8 +13269,8 @@
         "hydro_implementation_status": "implemented",
         "selected_river_ids": "lake:349",
         "selected_river_source_ids": "lake:341",
-        "source_connector_km": 22.781,
-        "target_connector_km": 8.338,
+        "source_connector_km": 2.801,
+        "target_connector_km": 4.62,
         "station_detour_policy": "visit_station_and_return_to_same_south_bank_anchor",
         "waterway_continuity_group": "yangtze_xunyang_shangyuan",
         "reference_geometry": "CHGIS Version 6 lakes_1820; 大江 south exterior bank",
